@@ -1,0 +1,4 @@
+status,georef_latitud,georef_longitud,georef_nomenclatura,georef_calle,georef_altura,query_georef,georef_distrito_oficial
+resuelta,-32.93844292483581,-60.64875293945758,"CATAMARCA 1971, Rosario, Santa Fe",CATAMARCA,"{'unidad': None, 'valor': 1971}",Catamarca 1971,CENTRO
+resuelta,-32.9456607496778,-60.6423557606154,"CORDOBA 1400, Rosario, Santa Fe",CORDOBA,"{'unidad': None, 'valor': 1400}",Córdoba 1400,CENTRO
+resuelta,-32.94326031199912,-60.65577970308965,"CORDOBA 2381, Rosario, Santa Fe",CORDOBA,"{'unidad': None, 'valor': 2381}",Córdoba 2381,CENTRO

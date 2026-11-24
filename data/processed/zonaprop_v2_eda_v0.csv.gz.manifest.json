@@ -1,0 +1,18 @@
+{
+  "artifact": "zonaprop_v2_eda_v0.csv.gz",
+  "stage": "processed_eda_v0",
+  "created_at_utc": "2026-08-17T17:05:38+00:00",
+  "candidate_sha256": "77a6c8efe0ddcf4f88ecdb9a1165bc12f964de5722049dda244a7b4a9b5381dd",
+  "audit_sha256": "01bc71a15fc5a53338cf27f47b5b80554142e5bd9013636392f31de3584d4c52",
+  "input_rows": 13594,
+  "output_rows": 13551,
+  "excluded_rows": 43,
+  "exclusion_reasons": {
+    "target_no_usd_o_no_positivo": 43
+  },
+  "requires_review_retained": 6015,
+  "preliminary_spatial_rows": 8661,
+  "outliers_retained": true,
+  "missing_values_imputed": false,
+  "warning": "Apta para EDA descriptivo; no apta todavía para entrenamiento final."
+}

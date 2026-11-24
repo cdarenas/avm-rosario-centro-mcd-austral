@@ -1,0 +1,13 @@
+{
+  "dataset_identifier": "568be879-5cdc-497f-a292-b05b482e4517",
+  "title": "Barrios",
+  "publisher": "Dirección de Cartografía - Municipalidad de Rosario",
+  "resource_url": "https://datosabiertos.rosario.gob.ar/sites/default/files/resources/barrios_json.csv",
+  "source_modified": "2025-10-28T14:07:36-03:00",
+  "downloaded_on": "2026-08-19",
+  "coordinate_reference_system": "EPSG:4326",
+  "license": "https://opendatacommons.org/licenses/by/1.0/",
+  "artifact": "barrios_oficiales.csv",
+  "sha256": "771341d1fe32e757b8cb13626a404a3cd58538b29c92c041c6eecb48b12b9b71",
+  "data_rows": 56
+}

@@ -1,0 +1,10 @@
+# Dependencias del scraper v2
+cloudscraper>=1.2
+beautifulsoup4>=4.12
+lxml>=5.0
+pandas>=2.1
+geopy>=2.4
+requests>=2.31
+questionary>=2.0
+rich>=13.0
+pyarrow>=15.0

@@ -1,0 +1,11 @@
+pandas>=2.2,<3
+numpy>=2.0,<3
+scipy>=1.11,<2
+pytest>=8,<9
+matplotlib>=3.8,<4
+seaborn>=0.13,<1
+folium>=0.16,<1
+branca>=0.7,<1
+ipykernel>=6.29,<7
+nbclient>=0.9,<1
+nbconvert>=7.16,<8

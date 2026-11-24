@@ -1,0 +1,28 @@
+{
+  "input_artifact": "zonaprop_v2_eda_centro_v4.csv.gz",
+  "input_sha256": "df9a558c51a61eb03a88dd5e69911867ec9bd110bddf52776058114f4a5a1ca0",
+  "rows": 9498,
+  "duplicate_property_id": 0,
+  "duplicate_posting_id": 0,
+  "duplicate_url": 0,
+  "candidate_groups": 14,
+  "candidate_member_rows": 31,
+  "strict_signature_groups": 3,
+  "exact_description_attribute_groups": 11,
+  "building_clusters": 1812,
+  "legacy_building_clusters": 1875,
+  "clusters_ge_20": 94,
+  "max_cluster_size": 109,
+  "low_confidence_identity_rows": 1142,
+  "automatic_merges": 0,
+  "split_mapping_artifact": "grupos_split_centro_v4.csv",
+  "split_mapping_sha256": "ea8a0be496d73ff8ef11f3a66a59fe9419afb727d0907d455a77bec663dd5001",
+  "decision_counts": {
+    "unidades_distintas_mismo_desarrollo": 5,
+    "no_resuelto": 4,
+    "republicacion_confirmada": 3,
+    "unidades_distintas_confirmadas": 1,
+    "republicacion_probable": 1
+  },
+  "warning": "Candidatos para revisión y agrupamiento; no implica eliminar ni fusionar observaciones."
+}

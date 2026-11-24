@@ -1,0 +1,91 @@
+status,georef_latitud,georef_longitud,georef_nomenclatura,georef_calle,georef_altura,query_georef,georef_distrito_oficial
+resuelta,-32.95249431316381,-60.64124821144561,"3 DE FEBRERO 1208, Rosario, Santa Fe",3 DE FEBRERO,"{'unidad': None, 'valor': 1208}",3 de Febrero 1208,CENTRO
+resuelta,-32.95508504896531,-60.62607880475971,"3 DE FEBRERO 122, Rosario, Santa Fe",3 DE FEBRERO,"{'unidad': None, 'valor': 122}",3 de Febrero 122,CENTRO
+resuelta,-32.9510248970493,-60.6494742211551,"3 DE FEBRERO 1800, Rosario, Santa Fe",3 DE FEBRERO,"{'unidad': None, 'valor': 1800}",3 de Febrero 1800,CENTRO
+resuelta,-32.953141176747856,-60.637641156782166,"3 DE FEBRERO 954, Rosario, Santa Fe",3 DE FEBRERO,"{'unidad': None, 'valor': 954}",3 de Febrero 954,CENTRO
+resuelta,-32.94872059051305,-60.668541479960375,"9 DE JULIO 3180, Rosario, Santa Fe",9 DE JULIO,"{'unidad': None, 'valor': 3180}",9 De Julio 3180,CENTRO
+resuelta,-32.95343565768828,-60.642155759840946,"9 DE JULIO 1252, Rosario, Santa Fe",9 DE JULIO,"{'unidad': None, 'valor': 1252}",9 de Julio 1252,CENTRO
+resuelta,-32.9526186581403,-60.64673683225178,"9 DE JULIO 1581, Rosario, Santa Fe",9 DE JULIO,"{'unidad': None, 'valor': 1581}",9 de Julio 1581,CENTRO
+resuelta,-32.95222294840738,-60.648952840508585,"9 DE JULIO 1742, Rosario, Santa Fe",9 DE JULIO,"{'unidad': None, 'valor': 1742}",9 de Julio 1742,CENTRO
+resuelta,-32.95046351350939,-60.65879760242969,"9 DE JULIO 2466, Rosario, Santa Fe",9 DE JULIO,"{'unidad': None, 'valor': 2466}",9 de Julio 2466,CENTRO
+resuelta,-32.955717414843015,-60.62959229416571,"9 DE JULIO 356, Rosario, Santa Fe",9 DE JULIO,"{'unidad': None, 'valor': 356}",9 de Julio 356,CENTRO
+resuelta,-32.955356450228095,-60.631711470949085,"9 DE JULIO 508, Rosario, Santa Fe",9 DE JULIO,"{'unidad': None, 'valor': 508}",9 de Julio 508,CENTRO
+resuelta,-32.9283285758064,-60.6626407778594,"AV CASEROS BIS 100, Rosario, Santa Fe",AV CASEROS BIS,"{'unidad': None, 'valor': 100}",Av Caseros 100,NORTE
+resuelta,-32.9501032526616,-60.6678027469731,"AV FRANCIA 1500, Rosario, Santa Fe",AV FRANCIA,"{'unidad': None, 'valor': 1500}",Av Francia 1500,CENTRO
+resuelta,-32.94155072087411,-60.66563276448345,"AV FRANCIA 804, Rosario, Santa Fe",AV FRANCIA,"{'unidad': None, 'valor': 804}",Av Francia 804,CENTRO
+resuelta,-32.99115797399954,-60.66604223845064,"PJE BARCELONA E 4542, Rosario, Santa Fe",PJE BARCELONA E,"{'unidad': None, 'valor': 4542}",Barcelona 4542,SUDOESTE
+resuelta,-32.9356070018404,-60.6441489165706,"BROWN 1700, Rosario, Santa Fe",BROWN,"{'unidad': None, 'valor': 1700}",Brown 1700,CENTRO
+resuelta,-32.93543115388533,-60.64515197050996,"BROWN 1770, Rosario, Santa Fe",BROWN,"{'unidad': None, 'valor': 1770}",Brown 1770,CENTRO
+resuelta,-32.93501517904686,-60.647511649968486,"BROWN 1945, Rosario, Santa Fe",BROWN,"{'unidad': None, 'valor': 1945}",Brown 1945,CENTRO
+resuelta,-32.934470586277165,-60.65053356586498,"BROWN 2175, Rosario, Santa Fe",BROWN,"{'unidad': None, 'valor': 2175}",Brown 2175,CENTRO
+resuelta,-32.933169244842,-60.6577584594716,"BROWN 2700, Rosario, Santa Fe",BROWN,"{'unidad': None, 'valor': 2700}",Brown 2700,CENTRO
+resuelta,-32.93308074016439,-60.658228914339475,"BROWN 2734, Rosario, Santa Fe",BROWN,"{'unidad': None, 'valor': 2734}",Brown 2734,CENTRO
+resuelta,-32.93254925423467,-60.66116782042791,"BROWN 2950, Rosario, Santa Fe",BROWN,"{'unidad': None, 'valor': 2950}",Brown 2950,CENTRO
+resuelta,-32.93975304013313,-60.6794567720688,"BV AVELLANEDA 859, Rosario, Santa Fe",BV AVELLANEDA,"{'unidad': None, 'valor': 859}",Bv Avellaneda 859,CENTRO
+resuelta,-32.92352988009037,-60.67530284043936,"BV AVELLANEDA BIS 388, Rosario, Santa Fe",BV AVELLANEDA BIS,"{'unidad': None, 'valor': 388}",Bv Avellaneda bis 388,NORTE
+no_encontrada,,,,,,CORDOBA 4514,
+resuelta,-32.94003759165575,-60.64009782333297,"CATAMARCA 1342, Rosario, Santa Fe",CATAMARCA,"{'unidad': None, 'valor': 1342}",Catamarca 1342,CENTRO
+resuelta,-32.940021143755246,-60.64018346733437,"CATAMARCA 1348, Rosario, Santa Fe",CATAMARCA,"{'unidad': None, 'valor': 1348}",Catamarca 1348,CENTRO
+resuelta,-32.9396290476635,-60.6422747232414,"CATAMARCA 1500, Rosario, Santa Fe",CATAMARCA,"{'unidad': None, 'valor': 1500}",Catamarca 1500,CENTRO
+resuelta,-32.9393905501225,-60.64351179985009,"CATAMARCA 1587, Rosario, Santa Fe",CATAMARCA,"{'unidad': None, 'valor': 1587}",Catamarca 1587,CENTRO
+resuelta,-32.93906513857045,-60.64527513831032,"CATAMARCA 1716, Rosario, Santa Fe",CATAMARCA,"{'unidad': None, 'valor': 1716}",Catamarca 1716,CENTRO
+resuelta,-32.9388592751891,-60.6464233479065,"CATAMARCA 1800, Rosario, Santa Fe",CATAMARCA,"{'unidad': None, 'valor': 1800}",Catamarca 1800,CENTRO
+no_encontrada,,,,,,Catamarca 600,
+resuelta,-32.95432695581501,-60.62702533605841,"COLON 1256, Rosario, Santa Fe",COLON,"{'unidad': None, 'valor': 1256}",Colon 1256,CENTRO
+resuelta,-32.95635370410819,-60.62748568826222,"COLON 1421, Rosario, Santa Fe",COLON,"{'unidad': None, 'valor': 1421}",Colon 1421,CENTRO
+resuelta,-32.9456341490906,-60.64250980829301,"CORDOBA 1411, Rosario, Santa Fe",CORDOBA,"{'unidad': None, 'valor': 1411}",Cordoba 1411,CENTRO
+resuelta,-32.9447964562026,-60.647237797931666,"CORDOBA 1752, Rosario, Santa Fe",CORDOBA,"{'unidad': None, 'valor': 1752}",Cordoba 1752,CENTRO
+resuelta,-32.94467348679293,-60.647913272403216,"CORDOBA 1803, Rosario, Santa Fe",CORDOBA,"{'unidad': None, 'valor': 1803}",Cordoba 1803,CENTRO
+resuelta,-32.94291347665744,-60.65776098108359,"CORDOBA 2527, Rosario, Santa Fe",CORDOBA,"{'unidad': None, 'valor': 2527}",Cordoba 2527,CENTRO
+resuelta,-32.9427351920794,-60.658743558942,"CORDOBA 2600, Rosario, Santa Fe",CORDOBA,"{'unidad': None, 'valor': 2600}",Cordoba 2600,CENTRO
+resuelta,-32.941801589384454,-60.66394391282835,"CORDOBA 2981, Rosario, Santa Fe",CORDOBA,"{'unidad': None, 'valor': 2981}",Cordoba 2981,CENTRO
+no_encontrada,,,,,,Cordoba 4900,
+no_encontrada,,,,,,Cordoba 4917,
+resuelta,-32.94573355837848,-60.64194648757369,"CORDOBA 1369, Rosario, Santa Fe",CORDOBA,"{'unidad': None, 'valor': 1369}",Córdoba 1369,CENTRO
+resuelta,-32.94511877969628,-60.64545436247111,"CORDOBA 1623, Rosario, Santa Fe",CORDOBA,"{'unidad': None, 'valor': 1623}",Córdoba 1623,CENTRO
+resuelta,-32.94181145197529,-60.663888556219874,"CORDOBA 2977, Rosario, Santa Fe",CORDOBA,"{'unidad': None, 'valor': 2977}",Córdoba 2977,CENTRO
+resuelta,-32.941801589384454,-60.66394391282835,"CORDOBA 2981, Rosario, Santa Fe",CORDOBA,"{'unidad': None, 'valor': 2981}",Córdoba 2981,CENTRO
+resuelta,-32.9299474370164,-60.7297437309728,"AV EVA PERON 7800, Rosario, Santa Fe",AV EVA PERON,"{'unidad': None, 'valor': 7800}",EVA Peron 7800,NOROESTE
+resuelta,-32.933999647245,-60.707130838404,"AV EVA PERON 6200, Rosario, Santa Fe",AV EVA PERON,"{'unidad': None, 'valor': 6200}",Eva Peron 6200,NOROESTE
+resuelta,-32.9266681525355,-60.7498432525376,"AV EVA PERON 8600, Rosario, Santa Fe",AV EVA PERON,"{'unidad': None, 'valor': 8600}",Eva Peron 8600,NOROESTE
+resuelta,-32.92663124773547,-60.750201294308184,"AV EVA PERON 8615, Rosario, Santa Fe",AV EVA PERON,"{'unidad': None, 'valor': 8615}",Eva Peron 8615,NOROESTE
+resuelta,-32.9254748344806,-60.761545372584,"AV EVA PERON 9100, Rosario, Santa Fe",AV EVA PERON,"{'unidad': None, 'valor': 9100}",Eva Peron 9100,NOROESTE
+resuelta,-32.9350926061761,-60.7011838764755,"AV EVA PERON 5700, Rosario, Santa Fe",AV EVA PERON,"{'unidad': None, 'valor': 5700}",Eva Perón 5700,NOROESTE
+resuelta,-32.9299474370164,-60.7297437309728,"AV EVA PERON 7800, Rosario, Santa Fe",AV EVA PERON,"{'unidad': None, 'valor': 7800}",Eva Perón 7800,NOROESTE
+resuelta,-32.9275302120935,-60.7413668702388,"AV EVA PERON A 8300, Rosario, Santa Fe",AV EVA PERON A,"{'unidad': None, 'valor': 8300}",Eva Perón 8300,NOROESTE
+resuelta,-32.9266681525355,-60.7498432525376,"AV EVA PERON 8600, Rosario, Santa Fe",AV EVA PERON,"{'unidad': None, 'valor': 8600}",Eva Perón 8600,NOROESTE
+resuelta,-32.9266681525355,-60.7498432525376,"AV EVA PERON 8600, Rosario, Santa Fe",AV EVA PERON,"{'unidad': None, 'valor': 8600}",Eva peron 8600,NOROESTE
+resuelta,-32.93405319093492,-60.64622609121116,"GUEMES 1861, Rosario, Santa Fe",GUEMES,"{'unidad': None, 'valor': 1861}",Guemes 1861,CENTRO
+resuelta,-32.93379429507559,-60.64758371011497,"GUEMES 1972, Rosario, Santa Fe",GUEMES,"{'unidad': None, 'valor': 1972}",Guemes 1972,CENTRO
+resuelta,-32.93378900220251,-60.64761083870617,"GUEMES 1974, Rosario, Santa Fe",GUEMES,"{'unidad': None, 'valor': 1974}",Guemes 1974,CENTRO
+resuelta,-32.93204316863699,-60.657078051886614,"GUEMES 2670, Rosario, Santa Fe",GUEMES,"{'unidad': None, 'valor': 2670}",Guemes 2670,CENTRO
+no_encontrada,,,,,,José Hernández 12,
+resuelta,-32.951201869667145,-60.63636027693849,"MAIPU 1138, Rosario, Santa Fe",MAIPU,"{'unidad': None, 'valor': 1138}",Maipu 1138,CENTRO
+resuelta,-32.95535445000506,-60.62582064497226,"NECOCHEA 1318, Rosario, Santa Fe",NECOCHEA,"{'unidad': None, 'valor': 1318}",Necochea 1318,CENTRO
+resuelta,-32.8796771412426,-60.6937801138307,"PAGO LARGO 600, Rosario, Santa Fe",PAGO LARGO,"{'unidad': None, 'valor': 600}",Pago Largo 600,NORTE
+resuelta,-32.95365556134941,-60.67129550968705,"PJE BOERO 3288, Rosario, Santa Fe",PJE BOERO,"{'unidad': None, 'valor': 3288}",Pasaje Boero 3288,OESTE
+no_encontrada,,,,,,Pasaje Cabrera 5091,
+resuelta,-32.9099978780757,-60.6884794143604,"PASO DE LOS PATOS 200, Rosario, Santa Fe",PASO DE LOS PATOS,"{'unidad': None, 'valor': 200}",Paso de los Patos 200,NORTE
+no_encontrada,,,,,,Pje Cabrera 5091,
+resuelta,-32.9231846847397,-60.6693912130927,"RAWSON BIS 400, Rosario, Santa Fe",RAWSON BIS,"{'unidad': None, 'valor': 400}",Rawson 400,NORTE
+resuelta,-32.94648351067813,-60.663960467806724,"RICCHIERI 1152, Rosario, Santa Fe",RICCHIERI,"{'unidad': None, 'valor': 1152}",Riccheri 1152,CENTRO
+resuelta,-32.936864075312,-60.66152419690298,"RICCHIERI 357, Rosario, Santa Fe",RICCHIERI,"{'unidad': None, 'valor': 357}",Riccheri 357,CENTRO
+resuelta,-32.94809471305626,-60.66436735167841,"RICCHIERI 1270, Rosario, Santa Fe",RICCHIERI,"{'unidad': None, 'valor': 1270}",Ricchieri 1270,CENTRO
+resuelta,-32.936864075312,-60.66152419690298,"RICCHIERI 357, Rosario, Santa Fe",RICCHIERI,"{'unidad': None, 'valor': 357}",Ricchieri 357,CENTRO
+resuelta,-32.9812533468608,-60.62689941935072,"PJE RUFINO ORTEGA BIS 274, Rosario, Santa Fe",PJE RUFINO ORTEGA BIS,"{'unidad': None, 'valor': 274}",Rufino Ortega 274,SUR
+resuelta,-32.9498946482881,-60.6404828093796,"SAN JUAN 1200, Rosario, Santa Fe",SAN JUAN,"{'unidad': None, 'valor': 1200}",SAN Juan 1200,CENTRO
+resuelta,-32.937165538762784,-60.64910154521061,"SALTA AV 2020, Rosario, Santa Fe",SALTA AV,"{'unidad': None, 'valor': 2020}",Salta 2020,CENTRO
+resuelta,-32.9369732951154,-60.6501894837027,"SALTA AV 2100, Rosario, Santa Fe",SALTA AV,"{'unidad': None, 'valor': 2100}",Salta 2100,CENTRO
+resuelta,-32.93656988837957,-60.65244081744919,"SALTA AV 2261, Rosario, Santa Fe",SALTA AV,"{'unidad': None, 'valor': 2261}",Salta 2261,CENTRO
+resuelta,-32.934936866355244,-60.661523813635874,"SALTA AV 2933, Rosario, Santa Fe",SALTA AV,"{'unidad': None, 'valor': 2933}",Salta 2933,CENTRO
+resuelta,-32.93356582904342,-60.66924916986606,"SALTA AV 3503, Rosario, Santa Fe",SALTA AV,"{'unidad': None, 'valor': 3503}",Salta 3503,CENTRO
+resuelta,-32.9497118508106,-60.6415906321286,"SAN JUAN 1277, Rosario, Santa Fe",SAN JUAN,"{'unidad': None, 'valor': 1277}",San Juan 1277,CENTRO
+resuelta,-32.947930478657,-60.65153691904,"SAN JUAN 2000, Rosario, Santa Fe",SAN JUAN,"{'unidad': None, 'valor': 2000}",San Juan 2000,CENTRO
+resuelta,-32.94780495805149,-60.65222892255204,"SAN JUAN 2050, Rosario, Santa Fe",SAN JUAN,"{'unidad': None, 'valor': 2050}",San Juan 2050,CENTRO
+resuelta,-32.946553555956775,-60.65921997795514,"SAN JUAN 2565, Rosario, Santa Fe",SAN JUAN,"{'unidad': None, 'valor': 2565}",San Juan 2565,CENTRO
+resuelta,-32.946050220685045,-60.66525531823112,"SUIPACHA 1139, Rosario, Santa Fe",SUIPACHA,"{'unidad': None, 'valor': 1139}",Suipacha 1139,CENTRO
+resuelta,-32.953047757007695,-60.651168284877286,"ESTANISLAO ZEBALLOS 1882, Rosario, Santa Fe",ESTANISLAO ZEBALLOS,"{'unidad': None, 'valor': 1882}",Zeballos 1882,CENTRO
+resuelta,-32.95303017926386,-60.651266317283884,"ESTANISLAO ZEBALLOS 1889, Rosario, Santa Fe",ESTANISLAO ZEBALLOS,"{'unidad': None, 'valor': 1889}",Zeballos 1889,CENTRO
+resuelta,-32.9522688313066,-60.6555845314547,"ESTANISLAO ZEBALLOS 2200, Rosario, Santa Fe",ESTANISLAO ZEBALLOS,"{'unidad': None, 'valor': 2200}",Zeballos 2200,CENTRO
+resuelta,-32.956448628772705,-60.632934435064875,"ESTANISLAO ZEBALLOS 566, Rosario, Santa Fe",ESTANISLAO ZEBALLOS,"{'unidad': None, 'valor': 566}",Zeballos 566,CENTRO
+resuelta,-32.955314554765074,-60.63855840778511,"ESTANISLAO ZEBALLOS 978, Rosario, Santa Fe",ESTANISLAO ZEBALLOS,"{'unidad': None, 'valor': 978}",Zeballos 978,CENTRO

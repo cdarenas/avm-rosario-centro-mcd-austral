@@ -1,0 +1,25 @@
+{
+  "artifact": "zonaprop_v2_eda_centro_v5.csv.gz",
+  "artifact_sha256": "f720f950e1520a96efb2a84388909881aed91413b55be2e1fc99506499e7f446",
+  "content_sha256": "ef010facbaa23f35a871f120493d8eeaf2da23444b03ceca89009f61f88d8e05",
+  "stage": "processed_muestra_temporal_centro_v5",
+  "created_at_utc": "2026-08-26T13:03:01+00:00",
+  "input_artifact": "zonaprop_v2_eda_centro_v4.csv.gz",
+  "input_sha256": "df9a558c51a61eb03a88dd5e69911867ec9bd110bddf52776058114f4a5a1ca0",
+  "input_content_sha256": "6b96865f03ff162a36083ccbaea70b268d66c72e89a0f20ab37d0d44d3591638",
+  "input_rows": 9498,
+  "output_rows": 4765,
+  "input_columns": 122,
+  "output_columns": 124,
+  "criterio": "antiguedad_aviso_dias <= 183 dias (~6 meses)",
+  "filas_excluidas_sin_fecha": 138,
+  "filas_excluidas_mayor_umbral": 4595,
+  "columnas_agregadas": [
+    "fecha_publicacion",
+    "antiguedad_aviso_dias"
+  ],
+  "fuente_fecha": "data/interim/publicacion_fechas_por_property.csv.gz",
+  "imputation_applied": false,
+  "winsorization_applied": false,
+  "warning": "Muestra acotada temporalmente (<=6 meses) para comparabilidad de precios."
+}

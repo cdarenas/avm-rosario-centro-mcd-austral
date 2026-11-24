@@ -1,0 +1,13 @@
+status,georef_latitud,georef_longitud,georef_nomenclatura,georef_calle,georef_altura,query_georef,georef_distrito_oficial
+resuelta,-32.9553769547804,-60.6315867706439,"1 DE MAYO 1400, Rosario, Santa Fe",1 DE MAYO,"{'unidad': None, 'valor': 1400}",1 de Mayo 1400,CENTRO
+resuelta,-32.9771560944012,-60.6369995971653,"1 DE MAYO 3300, Rosario, Santa Fe",1 DE MAYO,"{'unidad': None, 'valor': 3300}",1 de Mayo 3300,SUR
+resuelta,-32.9493340710667,-60.6301482057348,"1 DE MAYO 900, Rosario, Santa Fe",1 DE MAYO,"{'unidad': None, 'valor': 900}",1 de Mayo 900,CENTRO
+resuelta,-32.9422942154348,-60.6341831133909,"AV BELGRANO B 900, Rosario, Santa Fe",AV BELGRANO B,"{'unidad': None, 'valor': 900}",Av Belgrano 900,CENTRO
+resuelta,-32.92768524631093,-60.65663553113982,"AV ESTANISLAO LOPEZ 2671, Rosario, Santa Fe",AV ESTANISLAO LOPEZ,"{'unidad': None, 'valor': 2671}",Av Estanislao Lopez 2671,NORTE
+resuelta,-32.9523836011916,-60.6279774643571,"AV DE LA LIBERTAD 300, Rosario, Santa Fe",AV DE LA LIBERTAD,"{'unidad': None, 'valor': 300}",Av Libertad 300,CENTRO
+resuelta,-32.93423947301263,-60.64547610855725,"AV WHEELWRIGHT 1823, Rosario, Santa Fe",AV WHEELWRIGHT,"{'unidad': None, 'valor': 1823}",Avenida Wheelwright 1823,CENTRO
+resuelta,-32.951734683322826,-60.68247305001197,"BV AVELLANEDA 1869, Rosario, Santa Fe",BV AVELLANEDA,"{'unidad': None, 'valor': 1869}",Bv Avellaneda 1869,OESTE
+resuelta,-32.89562732797175,-60.69226245447827,"BV RONDEAU 1884, Rosario, Santa Fe",BV RONDEAU,"{'unidad': None, 'valor': 1884}",Bv Rondeau 1884,NORTE
+resuelta,-32.947930478657,-60.65153691904,"MORENO 1100, Rosario, Santa Fe",MORENO,"{'unidad': None, 'valor': 1100}",Moreno 1100,CENTRO
+resuelta,-32.9471428533921,-60.6641285311562,"RICCHIERI 1200, Rosario, Santa Fe",RICCHIERI,"{'unidad': None, 'valor': 1200}",Riccheri 1200,CENTRO
+resuelta,-32.9494119879099,-60.6647015942609,"RICCHIERI 1400, Rosario, Santa Fe",RICCHIERI,"{'unidad': None, 'valor': 1400}",Riccheri 1400,CENTRO

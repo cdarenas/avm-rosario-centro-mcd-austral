@@ -1,0 +1,628 @@
+{
+  "artifact": "zonaprop_v2_eda_centro_v3_auditado.csv.gz",
+  "artifact_sha256": "57572137099b5afacf2c94337381bead0e11aeb2ba1e33fbbedb5a17fea62a77",
+  "input_artifact": "zonaprop_v2_eda_centro_v2_barrios.csv.gz",
+  "input_sha256": "13345203626e92cda8a4c50b5954344e4acc051b6e0b5f5f942e211522574fd8",
+  "decisions_artifact": "auditoria_p0_decisiones_v1.json",
+  "decisions_sha256": "728a0075678e1b7604d5dcb28dd795f8acdd2d8edb189793da4fed2eba176d76",
+  "audit_artifact": "auditoria_extremos_centro_v2.csv",
+  "audit_sha256": "19be3317d8268372689d5610b7b5ceaf4a0fe7b9747c365edbb0efab918557f4",
+  "rows": 9582,
+  "input_columns": 87,
+  "output_columns": 108,
+  "original_columns_modified": false,
+  "target_unobservable": 70,
+  "modeling_ineligible": 84,
+  "field_corrections_applied": 75,
+  "spatial_validations_applied": 21,
+  "spatial_validated_outside_center": 5,
+  "spatial_eda_eligible": 8782,
+  "p0_pending": 0,
+  "p1_reviewed": 364,
+  "p1_reviewed_without_change": 275,
+  "p1_pending": 0,
+  "applied_corrections": [
+    {
+      "property_id": "prop_6d5aad2773c6bd96",
+      "field": "precio_ultimo",
+      "expected_original": 60708000.0,
+      "corrected_value": 42342.0,
+      "reason": "precio_anomalo_confirmado_por_publicacion_activa_y_precio_min",
+      "evidence": "Zonaprop consultado 2026-08-21: USD 42.342; precio_min capturado: 42342"
+    },
+    {
+      "property_id": "prop_adaaefe3dcd3c7bf",
+      "field": "antiguedad",
+      "expected_original": "792",
+      "corrected_value": null,
+      "reason": "antiguedad_imposible_sin_valor_recuperable",
+      "evidence": "La descripción capturada no informa antigüedad verificable"
+    },
+    {
+      "property_id": "prop_310af6efd00eced5",
+      "field": "banos",
+      "expected_original": 40.0,
+      "corrected_value": 2.0,
+      "reason": "cantidad_banos_confirmada_por_descripcion",
+      "evidence": "La descripción enumera un dormitorio en suite y un baño completo adicional"
+    },
+    {
+      "property_id": "prop_4255ccd093d83694",
+      "field": "superficie_total_m2",
+      "expected_original": 13.0,
+      "corrected_value": 101.63,
+      "reason": "superficie_total_reconstruida_desde_descripcion",
+      "evidence": "Descripción: 89,02 m2 exclusivos y 12,61 m2 de balcón y patio"
+    },
+    {
+      "property_id": "prop_4255ccd093d83694",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 89.0,
+      "corrected_value": 89.02,
+      "reason": "superficie_cubierta_confirmada_por_descripcion",
+      "evidence": "Descripción: 89,02 m2 exclusivos"
+    },
+    {
+      "property_id": "prop_42f67cfaca18521d",
+      "field": "cocheras",
+      "expected_original": 20.0,
+      "corrected_value": null,
+      "reason": "cocheras_del_desarrollo_no_atribuibles_a_la_unidad",
+      "evidence": "Aviso de Torre Brisa; la descripción no confirma cocheras incluidas en la unidad"
+    },
+    {
+      "property_id": "prop_b8099323ac71730f",
+      "field": "cocheras",
+      "expected_original": 20.0,
+      "corrected_value": null,
+      "reason": "cocheras_del_desarrollo_no_atribuibles_a_la_unidad",
+      "evidence": "Aviso de Torre Brisa; la descripción no confirma cocheras incluidas en la unidad"
+    },
+    {
+      "property_id": "prop_4400fc1ce1d4a2e1",
+      "field": "cocheras",
+      "expected_original": 50.0,
+      "corrected_value": null,
+      "reason": "cocheras_del_desarrollo_no_atribuibles_a_la_unidad",
+      "evidence": "Aviso de Torre Rich; la descripción enumera disponibilidad del edificio, no inclusión en la unidad"
+    },
+    {
+      "property_id": "prop_d7d53b77c7093e30",
+      "field": "cocheras",
+      "expected_original": 14.0,
+      "corrected_value": null,
+      "reason": "cocheras_del_desarrollo_no_atribuibles_a_la_unidad",
+      "evidence": "Aviso de desarrollo; la descripción no confirma cocheras incluidas en la unidad"
+    },
+    {
+      "property_id": "prop_56110f1c74180785",
+      "field": "cocheras",
+      "expected_original": 50.0,
+      "corrected_value": null,
+      "reason": "cocheras_del_desarrollo_no_atribuibles_a_la_unidad",
+      "evidence": "Aviso de Torre Rich; la descripción enumera disponibilidad del edificio, no inclusión en la unidad"
+    },
+    {
+      "property_id": "prop_b3bdbb2abf25d379",
+      "field": "cocheras",
+      "expected_original": 27.0,
+      "corrected_value": null,
+      "reason": "cocheras_del_desarrollo_no_atribuibles_a_la_unidad",
+      "evidence": "Aviso de desarrollo Moreno 320; la descripción no confirma cocheras incluidas en la unidad"
+    },
+    {
+      "property_id": "prop_0a4008891ae315c9",
+      "field": "cocheras",
+      "expected_original": 20.0,
+      "corrected_value": null,
+      "reason": "cocheras_del_desarrollo_no_atribuibles_a_la_unidad",
+      "evidence": "Aviso de Torre Brisa; la descripción no confirma cocheras incluidas en la unidad"
+    },
+    {
+      "property_id": "prop_b8611e33448a1618",
+      "field": "cocheras",
+      "expected_original": 50.0,
+      "corrected_value": null,
+      "reason": "cocheras_del_desarrollo_no_atribuibles_a_la_unidad",
+      "evidence": "Aviso de Torre Rich; la descripción enumera disponibilidad del edificio, no inclusión en la unidad"
+    },
+    {
+      "property_id": "prop_c04276623062bb71",
+      "field": "superficie_total_m2",
+      "expected_original": 267682.0,
+      "corrected_value": null,
+      "reason": "superficie_extrema_sin_reconstruccion_inequivoca",
+      "evidence": "El aviso no aporta una superficie alternativa verificable; no se aplica división decimal inferida"
+    },
+    {
+      "property_id": "prop_c04276623062bb71",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 9865.0,
+      "corrected_value": null,
+      "reason": "superficie_extrema_sin_reconstruccion_inequivoca",
+      "evidence": "El aviso no aporta una superficie alternativa verificable; no se aplica división decimal inferida"
+    },
+    {
+      "property_id": "prop_f487732a6194d04c",
+      "field": "superficie_total_m2",
+      "expected_original": 6709.0,
+      "corrected_value": null,
+      "reason": "superficie_extrema_sin_reconstruccion_inequivoca",
+      "evidence": "La descripción no informa superficies; el aviso consultado estaba finalizado"
+    },
+    {
+      "property_id": "prop_f487732a6194d04c",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 5740.0,
+      "corrected_value": null,
+      "reason": "superficie_extrema_sin_reconstruccion_inequivoca",
+      "evidence": "La descripción no informa superficies; el aviso consultado estaba finalizado"
+    },
+    {
+      "property_id": "prop_073596effa6ba7fb",
+      "field": "superficie_total_m2",
+      "expected_original": 7746.0,
+      "corrected_value": null,
+      "reason": "superficie_extrema_publicada_sin_reconstruccion_inequivoca",
+      "evidence": "El portal activo mostraba literalmente 7.746 m2; la descripción no permite confirmar el separador"
+    },
+    {
+      "property_id": "prop_073596effa6ba7fb",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 6183.0,
+      "corrected_value": null,
+      "reason": "superficie_extrema_publicada_sin_reconstruccion_inequivoca",
+      "evidence": "El portal activo mostraba literalmente 6.183 m2; la descripción no permite confirmar el separador"
+    },
+    {
+      "property_id": "prop_8c7827e9c53d3ecb",
+      "field": "superficie_total_m2",
+      "expected_original": 2107.0,
+      "corrected_value": null,
+      "reason": "superficie_total_extrema_sin_reconstruccion_inequivoca",
+      "evidence": "La descripción no aporta una superficie total verificable; se conserva cubierta=77 m2 sin inferir el total"
+    },
+    {
+      "property_id": "prop_d1f0d4fa6c95bf93",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 80.0,
+      "corrected_value": null,
+      "reason": "superficie_cubierta_incompatible_con_total",
+      "evidence": "El aviso informa 80 m2 construidos y 75 m2 totales, sin definición compatible para reconstruir cubierta"
+    },
+    {
+      "property_id": "prop_95d28bbbd312e2c8",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 85.0,
+      "corrected_value": null,
+      "reason": "superficie_cubierta_incompatible_con_total",
+      "evidence": "Cubierta 85 m2 supera total 71 m2 y la descripción no aporta superficies alternativas"
+    },
+    {
+      "property_id": "prop_4263c53c2ec7d451",
+      "field": "superficie_total_m2",
+      "expected_original": 86.0,
+      "corrected_value": null,
+      "reason": "superficies_mezclan_unidad_y_edificio",
+      "evidence": "El aviso ofrece un edificio completo de ocho unidades; no permite atribuir 86/238 m2 a una única propiedad comparable"
+    },
+    {
+      "property_id": "prop_4263c53c2ec7d451",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 238.0,
+      "corrected_value": null,
+      "reason": "superficies_mezclan_unidad_y_edificio",
+      "evidence": "El aviso ofrece un edificio completo de ocho unidades; no permite atribuir 86/238 m2 a una única propiedad comparable"
+    },
+    {
+      "property_id": "prop_2821e9114007af9e",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 85.0,
+      "corrected_value": null,
+      "reason": "superficie_cubierta_incompatible_con_total",
+      "evidence": "Cubierta 85 m2 supera total 75 m2; la descripción sólo indica aproximadamente 80 m2"
+    },
+    {
+      "property_id": "prop_b7309eda6565cff5",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 63.0,
+      "corrected_value": null,
+      "reason": "superficie_cubierta_incompatible_con_total",
+      "evidence": "Cubierta 63 m2 supera total 58 m2 y la descripción no permite reconstruir ambos campos"
+    },
+    {
+      "property_id": "prop_9cf20aeebd937366",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 80.0,
+      "corrected_value": null,
+      "reason": "superficie_cubierta_incompatible_con_total",
+      "evidence": "La descripción confirma 70 m2 totales; no respalda 80 m2 cubiertos"
+    },
+    {
+      "property_id": "prop_111bb36e9967ef18",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 120.0,
+      "corrected_value": null,
+      "reason": "superficie_cubierta_incompatible_con_total",
+      "evidence": "Cubierta 120 m2 supera total 77 m2 y la descripción no aporta superficies alternativas"
+    },
+    {
+      "property_id": "prop_b2f87de16c5f3606",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 128.0,
+      "corrected_value": null,
+      "reason": "superficie_cubierta_incompatible_con_total",
+      "evidence": "Cubierta 128 m2 supera total 109 m2 y la descripción no aporta superficies alternativas"
+    },
+    {
+      "property_id": "prop_c0423f8042f7e0da",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 120.0,
+      "corrected_value": null,
+      "reason": "superficie_cubierta_incompatible_con_total",
+      "evidence": "Cubierta 120 m2 supera total 100 m2 y la descripción no permite reconstruir ambos campos"
+    },
+    {
+      "property_id": "prop_4d5185e0fae490e9",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 95.0,
+      "corrected_value": null,
+      "reason": "superficie_cubierta_incompatible_con_total",
+      "evidence": "Cubierta 95 m2 supera total 70 m2 y la descripción no aporta superficies alternativas"
+    },
+    {
+      "property_id": "prop_1ea3f6b7c21dbf54",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 95.0,
+      "corrected_value": null,
+      "reason": "superficie_cubierta_incompatible_con_total",
+      "evidence": "Cubierta 95 m2 supera total 67 m2 y la descripción no aporta superficies alternativas"
+    },
+    {
+      "property_id": "prop_53199fad7caf0f10",
+      "field": "expensas_valor",
+      "expected_original": 11111100.0,
+      "corrected_value": null,
+      "reason": "expensas_placeholder_sin_valor_recuperable",
+      "evidence": "Valor 11.111.100 incompatible con monoambiente de USD 53.500; la descripción no informa expensas"
+    },
+    {
+      "property_id": "prop_517c0f03454e9dc2",
+      "field": "expensas_valor",
+      "expected_original": 15204600.0,
+      "corrected_value": null,
+      "reason": "expensas_anomalas_sin_valor_recuperable",
+      "evidence": "Valor 15.204.600 incompatible con la propiedad; la descripción no informa expensas"
+    },
+    {
+      "property_id": "prop_9744e1747ec542bb",
+      "field": "expensas_valor",
+      "expected_original": 111111000.0,
+      "corrected_value": null,
+      "reason": "expensas_placeholder_sin_valor_recuperable",
+      "evidence": "Valor repetitivo 111.111.000 incompatible con el aviso; la descripción no informa expensas"
+    },
+    {
+      "property_id": "prop_389328e5f114e695",
+      "field": "precio_ultimo",
+      "expected_original": 1500000.0,
+      "corrected_value": 90000.0,
+      "reason": "precio_confirmado_por_descripcion",
+      "evidence": "La descripción indica explícitamente U$S 90.000"
+    },
+    {
+      "property_id": "prop_389328e5f114e695",
+      "field": "superficie_total_m2",
+      "expected_original": 65.0,
+      "corrected_value": 53.0,
+      "reason": "superficie_total_confirmada_por_descripcion",
+      "evidence": "La descripción indica explícitamente Superficie Total: 53 m2"
+    },
+    {
+      "property_id": "prop_4027e348447d489c",
+      "field": "superficie_total_m2",
+      "expected_original": 1.0,
+      "corrected_value": null,
+      "reason": "superficie_placeholder_sin_valor_recuperable",
+      "evidence": "Departamento de tres dormitorios con patio; 1 m2 es un placeholder y la descripción no cuantifica superficie"
+    },
+    {
+      "property_id": "prop_4027e348447d489c",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 1.0,
+      "corrected_value": null,
+      "reason": "superficie_placeholder_sin_valor_recuperable",
+      "evidence": "Departamento de tres dormitorios con patio; 1 m2 es un placeholder y la descripción no cuantifica superficie"
+    },
+    {
+      "property_id": "prop_1a31f1f01021da78",
+      "field": "superficie_total_m2",
+      "expected_original": 1.0,
+      "corrected_value": null,
+      "reason": "superficie_placeholder_sin_valor_recuperable",
+      "evidence": "Departamento de dos dormitorios; 1 m2 es un placeholder y la descripción no cuantifica superficie"
+    },
+    {
+      "property_id": "prop_1a31f1f01021da78",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 1.0,
+      "corrected_value": null,
+      "reason": "superficie_placeholder_sin_valor_recuperable",
+      "evidence": "Departamento de dos dormitorios; 1 m2 es un placeholder y la descripción no cuantifica superficie"
+    },
+    {
+      "property_id": "prop_f3afe68b5a0faf78",
+      "field": "superficie_total_m2",
+      "expected_original": 1.0,
+      "corrected_value": null,
+      "reason": "superficie_placeholder_sin_valor_recuperable",
+      "evidence": "Departamento de dos dormitorios; 1 m2 es un placeholder y la descripción no cuantifica superficie"
+    },
+    {
+      "property_id": "prop_d8d0c5ab5ac3bcc1",
+      "field": "superficie_total_m2",
+      "expected_original": 1.0,
+      "corrected_value": null,
+      "reason": "superficie_placeholder_sin_valor_recuperable",
+      "evidence": "Departamento de tres dormitorios; 1 m2 es un placeholder y la descripción no cuantifica superficie"
+    },
+    {
+      "property_id": "prop_9a7748b684addccc",
+      "field": "superficie_total_m2",
+      "expected_original": 1.0,
+      "corrected_value": null,
+      "reason": "superficie_placeholder_sin_valor_recuperable",
+      "evidence": "Departamento de dos dormitorios; 1 m2 es un placeholder y la descripción no cuantifica superficie"
+    },
+    {
+      "property_id": "prop_9a7748b684addccc",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 1.0,
+      "corrected_value": null,
+      "reason": "superficie_placeholder_sin_valor_recuperable",
+      "evidence": "Departamento de dos dormitorios; 1 m2 es un placeholder y la descripción no cuantifica superficie"
+    },
+    {
+      "property_id": "prop_41ac59dd934b73f1",
+      "field": "superficie_total_m2",
+      "expected_original": 20.0,
+      "corrected_value": 81.0,
+      "reason": "superficie_total_confirmada_por_descripcion",
+      "evidence": "La descripción indica Superficie Total: 81 m2"
+    },
+    {
+      "property_id": "prop_41ac59dd934b73f1",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 20.0,
+      "corrected_value": 65.0,
+      "reason": "superficie_cubierta_confirmada_por_descripcion",
+      "evidence": "La descripción indica Superficie Cubierta: 65 m2 y balcón exclusivo: 16 m2"
+    },
+    {
+      "property_id": "prop_96402eaaa2f74e92",
+      "field": "superficie_total_m2",
+      "expected_original": 40.0,
+      "corrected_value": null,
+      "reason": "superficies_no_atribuibles_a_la_unidad_publicada",
+      "evidence": "El aviso de tres dormitorios, parrillero, pileta y cochera reutiliza información de un desarrollo; 40/36 m2 no puede validarse para esta unidad"
+    },
+    {
+      "property_id": "prop_96402eaaa2f74e92",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 36.0,
+      "corrected_value": null,
+      "reason": "superficies_no_atribuibles_a_la_unidad_publicada",
+      "evidence": "El aviso de tres dormitorios, parrillero, pileta y cochera reutiliza información de un desarrollo; 40/36 m2 no puede validarse para esta unidad"
+    },
+    {
+      "property_id": "prop_e59865d67436b2ba",
+      "field": "expensas_valor",
+      "expected_original": 1111110.0,
+      "corrected_value": null,
+      "reason": "expensas_placeholder_sin_valor_recuperable",
+      "evidence": "Valor repetitivo 1.111.110 incompatible con la unidad; la descripción no informa expensas"
+    },
+    {
+      "property_id": "prop_3212be0d04efe410",
+      "field": "superficie_total_m2",
+      "expected_original": 932.0,
+      "corrected_value": 106.0,
+      "reason": "superficie_total_confirmada_por_descripcion",
+      "evidence": "La descripción informa 106 m2 totales, 97 m2 cubiertos y 9 m2 de balcón"
+    },
+    {
+      "property_id": "prop_3212be0d04efe410",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 90.0,
+      "corrected_value": 97.0,
+      "reason": "superficie_cubierta_confirmada_por_descripcion",
+      "evidence": "La descripción informa 97 m2 cubiertos"
+    },
+    {
+      "property_id": "prop_babf30335cfefcce",
+      "field": "superficie_total_m2",
+      "expected_original": 200.0,
+      "corrected_value": 40.0,
+      "reason": "superficie_total_confirmada_por_descripcion",
+      "evidence": "La descripción informa 29 m2 cubiertos y 40 m2 totales"
+    },
+    {
+      "property_id": "prop_babf30335cfefcce",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 29.0,
+      "corrected_value": 29.0,
+      "reason": "superficie_cubierta_confirmada_por_descripcion",
+      "evidence": "La descripción informa 29 m2 cubiertos"
+    },
+    {
+      "property_id": "prop_eae0dc5e6982b406",
+      "field": "superficie_total_m2",
+      "expected_original": 131.0,
+      "corrected_value": 242.0,
+      "reason": "superficie_total_confirmada_por_descripcion",
+      "evidence": "La descripción informa 242 m2 totales, 203 m2 cubiertos y 39 m2 semicubiertos"
+    },
+    {
+      "property_id": "prop_eae0dc5e6982b406",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 131.0,
+      "corrected_value": 203.0,
+      "reason": "superficie_cubierta_confirmada_por_descripcion",
+      "evidence": "La descripción informa 203 m2 cubiertos"
+    },
+    {
+      "property_id": "prop_9ddfeeb033781f85",
+      "field": "superficie_total_m2",
+      "expected_original": 54.0,
+      "corrected_value": 98.7,
+      "reason": "superficie_total_reconstruida_desde_descripcion",
+      "evidence": "La descripción informa 84,35 m2 cubiertos y 14,35 m2 de balcón"
+    },
+    {
+      "property_id": "prop_9ddfeeb033781f85",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 50.0,
+      "corrected_value": 84.35,
+      "reason": "superficie_cubierta_confirmada_por_descripcion",
+      "evidence": "La descripción informa 84,35 m2 cubiertos"
+    },
+    {
+      "property_id": "prop_13bbdb5cc079b4b4",
+      "field": "superficie_total_m2",
+      "expected_original": 186.0,
+      "corrected_value": 138.0,
+      "reason": "superficie_total_confirmada_por_descripcion",
+      "evidence": "La descripción informa 138 m2 totales"
+    },
+    {
+      "property_id": "prop_13bbdb5cc079b4b4",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 69.0,
+      "corrected_value": 69.45,
+      "reason": "superficie_cubierta_confirmada_por_descripcion",
+      "evidence": "La descripción informa 69,45 m2 cubiertos"
+    },
+    {
+      "property_id": "prop_b02341938c000b01",
+      "field": "superficie_total_m2",
+      "expected_original": 101.0,
+      "corrected_value": 37.65,
+      "reason": "superficie_total_confirmada_por_descripcion",
+      "evidence": "La descripción informa 37,65 m2 más muros"
+    },
+    {
+      "property_id": "prop_5da4420e7fc28cf4",
+      "field": "superficie_total_m2",
+      "expected_original": 106.0,
+      "corrected_value": 44.0,
+      "reason": "superficie_total_reconstruida_desde_descripcion",
+      "evidence": "La descripción informa 32 m2 del monoambiente y 12 m2 de patio"
+    },
+    {
+      "property_id": "prop_9a64677b674a0db4",
+      "field": "superficie_total_m2",
+      "expected_original": 87.0,
+      "corrected_value": 59.0,
+      "reason": "superficie_total_confirmada_por_descripcion",
+      "evidence": "La descripción informa 59 m2 exclusivos"
+    },
+    {
+      "property_id": "prop_9a64677b674a0db4",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 74.0,
+      "corrected_value": null,
+      "reason": "superficie_cubierta_incompatible_sin_valor_recuperable",
+      "evidence": "La descripción sólo confirma 59 m2 exclusivos y no respalda 74 m2 cubiertos"
+    },
+    {
+      "property_id": "prop_8f4d58847772f941",
+      "field": "superficie_total_m2",
+      "expected_original": 288.0,
+      "corrected_value": null,
+      "reason": "superficie_total_incompatible_sin_valor_recuperable",
+      "evidence": "Departamento de un dormitorio con patio pequeño; 288 m2 no es coherente y la descripción no cuantifica superficie"
+    },
+    {
+      "property_id": "prop_ee5dbb797f2101bd",
+      "field": "superficie_total_m2",
+      "expected_original": 583.0,
+      "corrected_value": null,
+      "reason": "superficie_total_incompatible_sin_valor_recuperable",
+      "evidence": "Departamento de dos dormitorios con dos balcones; 583 m2 no es coherente y la descripción no cuantifica superficie"
+    },
+    {
+      "property_id": "prop_ee5dbb797f2101bd",
+      "field": "superficie_cubierta_m2",
+      "expected_original": 62.0,
+      "corrected_value": null,
+      "reason": "superficies_internamente_inconsistentes_sin_reconstruccion",
+      "evidence": "La relación 583/62 sugiere pérdida de separador, pero la descripción no permite reconstruir ambos valores"
+    },
+    {
+      "property_id": "prop_0f78ed0a9982e5ef",
+      "field": "superficie_total_m2",
+      "expected_original": 45.0,
+      "corrected_value": null,
+      "reason": "superficie_pertenece_a_otra_tipologia_del_desarrollo",
+      "evidence": "El precio corresponde a una unidad de tres dormitorios; 45 m2 y un dormitorio provienen de otra tipología listada"
+    },
+    {
+      "property_id": "prop_bb4ae44226f62f95",
+      "field": "superficie_total_m2",
+      "expected_original": 40.0,
+      "corrected_value": null,
+      "reason": "superficie_pertenece_a_otra_tipologia_del_desarrollo",
+      "evidence": "El precio corresponde a un dúplex de dos dormitorios; 40 m2 y un dormitorio provienen de otra tipología listada"
+    },
+    {
+      "property_id": "prop_9d4f358f95073e08",
+      "field": "precio_ultimo",
+      "expected_original": 15000.0,
+      "corrected_value": 45500.0,
+      "reason": "precio_contado_confirmado_por_descripcion",
+      "evidence": "La descripción distingue entrega/financiación y declara precio contado de USD 45.500"
+    },
+    {
+      "property_id": "prop_102b298dcc62e166",
+      "field": "cocheras",
+      "expected_original": 1.0,
+      "corrected_value": null,
+      "reason": "cochera_no_incluida_en_precio",
+      "evidence": "La descripción indica explícitamente: Cochera no incluida en el precio (USD 30.000)"
+    },
+    {
+      "property_id": "prop_2914effd46b5ef79",
+      "field": "cocheras",
+      "expected_original": 1.0,
+      "corrected_value": null,
+      "reason": "cochera_no_incluida_en_precio",
+      "evidence": "La descripción indica cocheras disponibles no incluidas en el valor"
+    },
+    {
+      "property_id": "prop_940db8e3b4298bfa",
+      "field": "cocheras",
+      "expected_original": 1.0,
+      "corrected_value": null,
+      "reason": "cochera_no_incluida_en_precio",
+      "evidence": "La descripción indica: Cochera (agregar aparte del valor)"
+    },
+    {
+      "property_id": "prop_1548ad130d4815ad",
+      "field": "cocheras",
+      "expected_original": 1.0,
+      "corrected_value": null,
+      "reason": "cochera_no_incluida_en_precio",
+      "evidence": "La descripción indica cocheras con precio aparte"
+    },
+    {
+      "property_id": "prop_e1c874f929db74d1",
+      "field": "cocheras",
+      "expected_original": 1.0,
+      "corrected_value": null,
+      "reason": "cochera_no_incluida_en_precio",
+      "evidence": "La descripción indica explícitamente cochera opcional no incluida en el precio"
+    }
+  ],
+  "warning": "Versión auditada para EDA; no constituye todavía dataset final de modelado.",
+  "content_sha256": "ffef246a3aa642871704d29f22993c9a85a9e873cc3909723beb698a878a0fe6"
+}

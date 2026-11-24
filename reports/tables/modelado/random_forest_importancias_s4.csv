@@ -1,0 +1,68 @@
+feature,importancia_mdi,importancia_perm
+eda_superficie_total_m2,0.31797,0.34774
+eda_superficie_cubierta_m2,0.156,0.08446
+eda_antiguedad_anos,0.05016,0.08362
+eda_banos,0.14233,0.0621
+eda_ambientes,0.06695,0.03224
+eda_latitud,0.01739,0.01962
+fe_sup_por_ambiente,0.02677,0.01434
+feat_cochera,0.02276,0.01386
+feat_pileta,0.01311,0.01266
+fe_dens_comercios_300m,0.01057,0.00975
+fe_dist_centro_km,0.0102,0.00903
+eda_longitud,0.01031,0.00864
+fe_dist_espacio_verde_km,0.00926,0.00771
+fe_banos_por_ambiente,0.03575,0.0077
+fe_dist_rio_km,0.00947,0.0076
+eda_antiguedad_estado_A estrenar,0.00899,0.00662
+fe_ratio_cubierta_total,0.0083,0.00641
+eda_antiguedad_estado_Usado,0.00695,0.00594
+eda_dormitorios,0.02129,0.00587
+fe_tiene_cochera,0.00835,0.00587
+feat_amenities,0.00557,0.00568
+feat_balcon,0.00396,0.00549
+eda_expensas,0.00585,0.00332
+feat_parrillero,0.00327,0.00265
+fe_dormitorios_por_ambiente,0.00295,0.00177
+barrio_oficial_geo_CENTRO,0.00153,0.00165
+eda_tipo_operacion_PROPERTY,0.00072,0.00135
+eda_tipo_operacion_DEVELOPMENT,0.00055,0.0012
+feat_patio,0.00123,0.00099
+feat_financiacion,0.00098,0.00099
+eda_disposicion_Frente,0.00096,0.00091
+feat_seguridad,0.00114,0.00089
+feat_vista_rio,0.00119,0.00089
+feat_lavadero,0.00118,0.00076
+barrio_oficial_geo_REPUBLICA DE LA 6TA,0.00107,0.00074
+fe_expensas_informadas,0.00094,0.00069
+eda_orientacion_E,0.00087,0.00065
+feat_sum,0.00084,0.00064
+feat_ascensor,0.00089,0.0006
+eda_orientacion_N,0.0008,0.00052
+feat_solarium,0.00075,0.0005
+eda_disposicion_Interno,0.00074,0.00049
+barrio_oficial_geo_ALBERTO OLMEDO,0.00061,0.00048
+feat_piso_alto,0.00064,0.00046
+eda_disposicion_Contrafrente,0.00066,0.00041
+feat_apto_credito,0.00063,0.00039
+eda_orientacion_S,0.00063,0.00038
+eda_orientacion_O,0.00061,0.00036
+feat_gas_natural,0.00057,0.00033
+barrio_oficial_geo_NTRA SRA DE LOURDES,0.00049,0.0003
+feat_a_estrenar,0.0004,0.00027
+barrio_oficial_geo_ESPAÑA Y HOSPITALES,0.00058,0.00026
+barrio_oficial_geo_ECHESORTU,0.00048,0.00023
+feat_amoblado,0.00036,0.00018
+eda_cocheras,0.00032,0.00017
+barrio_oficial_geo_PARQUE CASADO,0.00031,0.00017
+barrio_oficial_geo_DEL ABASTO,0.00034,0.00016
+feat_permite_mascotas,0.00031,0.00014
+barrio_oficial_geo_LUIS AGOTE,0.00028,0.00013
+eda_orientacion_NE,0.00023,8e-05
+eda_orientacion_NO,0.00014,7e-05
+barrio_oficial_geo_infrequent_sklearn,0.00013,5e-05
+eda_orientacion_SE,0.00011,5e-05
+eda_toilette,0.00011,4e-05
+eda_disposicion_Lateral,8e-05,3e-05
+eda_orientacion_SO,6e-05,2e-05
+eda_antiguedad_estado_infrequent_sklearn,6e-05,1e-05

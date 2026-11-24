@@ -1,0 +1,5 @@
+variable,outliers (3·IQR)
+eda_precio_usd,34
+eda_precio_m2,2
+eda_superficie_total_m2,26
+eda_expensas,59

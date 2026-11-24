@@ -1,0 +1,16 @@
+modelo,fold,R2_log,RMSE_USD
+Hedónico,1,0.8618,52093
+Hedónico,2,0.8798,99974
+Hedónico,3,0.8621,48972
+Hedónico,4,0.8564,70273
+Hedónico,5,0.8602,52639
+Random Forest,1,0.8867,39571
+Random Forest,2,0.8955,46262
+Random Forest,3,0.8754,43318
+Random Forest,4,0.8706,43426
+Random Forest,5,0.876,42214
+LightGBM,1,0.906,35995
+LightGBM,2,0.9113,43475
+LightGBM,3,0.8997,39667
+LightGBM,4,0.889,42083
+LightGBM,5,0.9026,36754

@@ -1,0 +1,20 @@
+{
+  "artifact": "zonaprop_v2_eda_centro_v1.csv.gz",
+  "artifact_sha256": "fe5b3ecfcfc46b9e2fb7b9e2f92290ef67352405ead5d2fae92bf5d979c744ef",
+  "stage": "processed_eda_centro_v1",
+  "created_at_utc": "2026-08-17T17:31:10+00:00",
+  "dataset_v0_sha256": "478ac50f51f55a1c010a143fc36c91229e50b574a2d59ce832db0e3f32303ce7",
+  "georef_validation_sha256": "a5a1351c4d1ed626e16c9bd52ae8ab757f5abf311c76bc532c0c0dde41a0918a",
+  "input_rows": 13551,
+  "georef_resolved_applied": 139,
+  "moved_into_center": 70,
+  "confirmed_outside_center": 34,
+  "output_rows": 9582,
+  "preliminary_spatial_quality_rows": 8766,
+  "unresolved_spatial_quality_rows": 816,
+  "outliers_retained": true,
+  "missing_values_imputed": false,
+  "versioned_for_academic_review": true,
+  "warning": "Versión preliminar y parcialmente depurada para revisión académica y EDA; conserva faltantes, outliers y validaciones no resueltas. No es el dataset final de modelado.",
+  "content_sha256": "75a6cd09a078688df2a7a04a4b528ee07b3b1c07222442e60dbf3bbc12c16f9c"
+}

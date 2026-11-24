@@ -1,0 +1,23 @@
+{
+  "input_priority_rows": 400,
+  "unique_queries_sent": 90,
+  "status_counts": {
+    "sin_calle_altura_parseable": 253,
+    "resuelta": 139,
+    "no_encontrada": 8
+  },
+  "validation_counts": {
+    "pendiente": 261,
+    "confirmar_centro_corregir_coordenada": 105,
+    "confirmar_fuera_centro": 34
+  },
+  "resolved_district_counts": {
+    "CENTRO": 105,
+    "NOROESTE": 24,
+    "NORTE": 7,
+    "OESTE": 1,
+    "SUDOESTE": 1,
+    "SUR": 1
+  },
+  "warning": "Resultados de validación; no se aplicaron cambios al dataset."
+}

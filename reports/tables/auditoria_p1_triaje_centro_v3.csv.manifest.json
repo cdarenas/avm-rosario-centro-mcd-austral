@@ -1,0 +1,10 @@
+{
+  "rows": 364,
+  "reviewed": 364,
+  "pending": 0,
+  "reviewed_without_change_candidates": 267,
+  "group_counts": {
+    "revisado_con_decision": 364
+  },
+  "warning": "Clasificación para priorizar revisión; no implica corrección, exclusión ni winsorización."
+}

@@ -1,0 +1,31 @@
+{
+  "artifact": "zonaprop_v2_matriz_modelado_centro.csv.gz",
+  "artifact_sha256": "0be6fb13c777087ccac4ffaf2789ea07474d0c1434e9a0782dfc31324ab47dc0",
+  "content_sha256": "e90b47608c6dd15e2c63602c990496a1783117d784c1a282124dec2ae1666382",
+  "stage": "processed_matriz_modelado_centro",
+  "created_at_utc": "2026-08-26T15:15:58+00:00",
+  "input_artifact": "zonaprop_v2_eda_centro_v6.csv.gz",
+  "input_sha256": "f560139d7ea8df31d92c594a52ab66daee7775e26406d04390e65ad88de19739",
+  "input_content_sha256": "263f1f852a47b540af1edce5308d6449bbe12cb34cd7a1e64c38746793d1ea52",
+  "input_rows": 4765,
+  "output_rows": 4765,
+  "input_columns": 134,
+  "output_columns": 51,
+  "features_creadas": [
+    "feat_* (regeneradas desde texto limpio)",
+    "fe_ratio_cubierta_total",
+    "fe_sup_por_ambiente",
+    "fe_banos_por_ambiente",
+    "fe_dormitorios_por_ambiente",
+    "fe_tiene_cochera",
+    "fe_expensas_informadas",
+    "fe_dist_centro_km",
+    "fe_dist_rio_km"
+  ],
+  "columnas_trazabilidad_descartadas": 92,
+  "nota": "Matriz magra: trazabilidad via linaje del pipeline (join por property_id a v6).",
+  "imputation_applied": false,
+  "encoding_applied": false,
+  "winsorization_applied": false,
+  "warning": "Predictores CANDIDATOS. La seleccion final se hace por fold (S1-S4)."
+}

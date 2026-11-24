@@ -1,0 +1,21 @@
+{
+  "artifact": "zonaprop_v2_candidate.csv.gz",
+  "artifact_stage": "interim_candidate",
+  "created_at_utc": "2026-08-17T16:52:09+00:00",
+  "source_database": "zonaprop_v2.db",
+  "source_database_sha256": "196d7311ac453e23638e04918b410c5ca696a7ff4d235827df77280c14a12bc7",
+  "rows": 13594,
+  "columns": 57,
+  "quality_flag_counts": {
+    "ambientes_fuera_rango": 3,
+    "identidad_baja_confianza": 2468,
+    "moneda_no_usd": 43,
+    "precio_fuera_rango": 110,
+    "precio_m2_fuera_rango": 142,
+    "sin_coordenadas": 2268,
+    "sup_cubierta_mayor_que_total": 16,
+    "superficie_fuera_rango": 28
+  },
+  "excluded_rows": 0,
+  "warning": "Tabla candidata no apta para modelado final: conserva valores extremos, monedas no USD, identidades pendientes de auditoría y geocodificación heterogénea."
+}

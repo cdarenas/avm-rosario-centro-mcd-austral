@@ -1,0 +1,30 @@
+{
+  "artifact": "zonaprop_v2_eda_centro_v4.csv.gz",
+  "artifact_sha256": "df9a558c51a61eb03a88dd5e69911867ec9bd110bddf52776058114f4a5a1ca0",
+  "stage": "processed_eda_centro_v4_analitica",
+  "created_at_utc": "2026-08-23T14:54:59+00:00",
+  "input_artifact": "zonaprop_v2_eda_centro_v3_auditado.csv.gz",
+  "input_sha256": "57572137099b5afacf2c94337381bead0e11aeb2ba1e33fbbedb5a17fea62a77",
+  "input_rows": 9582,
+  "output_rows": 9498,
+  "input_columns": 108,
+  "output_columns": 122,
+  "source_columns_removed": false,
+  "target_observable": 9512,
+  "excluded_target_unobservable": 70,
+  "excluded_non_comparable_or_outside_scope": 14,
+  "spatial_eda_eligible": 8711,
+  "spatial_eda_not_eligible": 787,
+  "exclusions_artifact": "exclusiones_eda_centro_v4.csv",
+  "exclusions_sha256": "e229ef97c7502337ab3792a34ce00722a2013a5723b4667b1c1ebe78545a0d53",
+  "flow_artifact": "flujo_muestra_eda_centro_v4.csv",
+  "flow_sha256": "e5e4ad913cf73fc4f013914d6035103459dfff2b1b7190c4415e3b9d205e5a61",
+  "filters": [
+    "apto_eda_target_auditado",
+    "apto_modelado_preliminar"
+  ],
+  "imputation_applied": false,
+  "winsorization_applied": false,
+  "warning": "Muestra apta para EDA; todavía no define folds ni dataset final de modelado.",
+  "content_sha256": "6b96865f03ff162a36083ccbaea70b268d66c72e89a0f20ab37d0d44d3591638"
+}

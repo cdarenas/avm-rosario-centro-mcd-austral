@@ -1,0 +1,7 @@
+segmento,n,pct_total,precio_mediana_usd,precio_m2_mediana_usd,precio_n_validos,precio_m2_n_validos
+universo_completo,9582,100.0,125000.0,1755.93,9582,9062
+target_preliminar_apto,9582,100.0,125000.0,1755.93,9582,9062
+espacial_preliminar_apto,8766,91.48,119408.0,1714.29,8766,8285
+espacial_pendiente,816,8.52,196000.0,2043.8,816,777
+requiere_revision,2046,21.35,133614.5,1957.45,2046,1545
+sin_revision_requerida,7536,78.65,125000.0,1710.53,7536,7517

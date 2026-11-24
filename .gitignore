@@ -1,0 +1,21 @@
+# Entornos y caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Sistema / editores
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Secretos
+.env
+.env.*
+
+# Datos crudos (fotografías de los avisos): no se versionan ni se necesitan para reproducir
+data/raw/

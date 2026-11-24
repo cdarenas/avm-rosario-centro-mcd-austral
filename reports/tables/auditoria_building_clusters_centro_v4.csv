@@ -1,0 +1,1813 @@
+split_group_id_v1,n_building_cluster_legacy,n_properties,n_postings,n_direcciones_norm,direccion_ejemplo,precio_min,precio_max,identidades_baja_confianza,direccion_con_altura,riesgo_split
+split_8897229751f4bf64,1,109,109,30,Moreno  al 1100,68625.0,401500.0,9,True,alto
+split_d42490b480305f8a,1,97,97,18,Dorrego al  1400,55000.0,342500.0,4,True,alto
+split_04b408393380b71b,1,96,96,23,Brown  al 2700,70000.0,443118.0,6,True,alto
+split_f2f156dbc90e683b,1,90,90,13,Entre Rios al 400,34000.0,511500.0,5,True,alto
+split_cc5ce071aad53a82,1,88,88,20,Mendoza 850,85000.0,335000.0,3,True,alto
+split_9b7f04f31a139b79,1,82,82,13,Ituzaingó al 1800,39500.0,601370.0,6,True,alto
+split_27a19438a295f0e0,1,79,79,13,Montevideo al 900,36000.0,339000.0,4,True,alto
+split_e2bf8c6d1898ba5d,1,77,77,16,Juan Manuel de Rosas 1100,58000.0,177244.0,6,True,alto
+split_fd9a8e534886cd3d,1,63,63,12,Sarmiento al 1200,44000.0,287369.0,5,True,alto
+split_a7306ff0b1e89926,1,61,61,11,3 de Febrero 1200. 09 - 01,79000.0,216700.0,3,True,alto
+split_ede75dc6436d315d,1,54,54,16,Balcarce 587 8°,26000.0,452000.0,6,True,alto
+split_d5cf22d7c3c71fed,1,54,54,13,Moreno al 300,56000.0,431979.0,1,True,alto
+split_a31fa61b925f0a82,1,53,53,14,San Juan 2050,84240.0,515000.0,3,True,alto
+split_ad8225c681b2360a,1,51,51,5,Salta 2000,25000.0,411796.0,6,True,alto
+split_80b320f637b61ea8,1,51,51,11,Paraguay  al 1000,27000.0,128000.0,3,True,alto
+split_03cd52f1a1e008ce,1,49,49,17,San Juan 1486 - Los Cipreses,21600.0,149000.0,10,True,alto
+split_e96476673152cd0b,1,49,49,13,Balcarce 173 bis,231217.0,450000.0,6,True,alto
+split_0d79556b8ad542d7,1,48,48,7,Sarmiento 1575,63000.0,291415.0,4,True,alto
+split_4f62ebab40838264,1,48,48,9,pellegrini 932,95000.0,301400.0,2,True,alto
+split_285de0d00afc1dd1,1,47,47,5,Viamonte 632,35900.0,307291.0,4,True,alto
+split_83c27dba36e06636,1,45,45,12,San Juan 645,45000.0,65000.0,5,True,alto
+split_40bb9534ca0b7410,1,45,45,12,Mitre 1100,47000.0,137000.0,3,True,alto
+split_bf548003d7db8706,1,43,43,14,Cordoba al 2900,73000.0,188000.0,2,True,alto
+split_fd63b36704141245,1,42,42,9,Brown 1725,36000.0,585000.0,7,True,alto
+split_17341ab069feb5b5,1,42,42,14,9 de Julio 1200,60000.0,257400.0,4,True,alto
+split_ef28cfe65173a83a,1,42,42,10,Tucumán  1600 2° A,35000.0,445000.0,4,True,alto
+split_77f479b96db9301b,1,42,42,10,Balcarce al 800,106000.0,630000.0,2,True,alto
+split_20378430bd8f922a,1,40,40,6,3 de Febrero 458,49600.0,160000.0,4,True,alto
+split_04aba2bc0fbbf048,1,38,38,16,3 de Febrero 600,45000.0,346000.0,2,True,alto
+split_6324ad379fa6bd85,1,37,37,8,Entre Ríos al 1900,45000.0,260000.0,4,True,alto
+split_4ce204d74a98d45b,1,37,37,18,San Martín al 400,79000.0,457000.0,1,True,alto
+split_1ef08dc4b0c8b2a5,1,35,35,8,Alvear 1230,103487.0,450000.0,5,True,alto
+split_e5dfe66a96c8f6a1,1,35,35,4,Alem 1580,58850.0,210000.0,5,True,alto
+split_f664e04c3ea390c5,1,35,35,11,Colón 1889 | Local,35000.0,247000.0,2,True,alto
+split_450adc3a2c63cf45,1,34,34,7,Paraguay 555,37500.0,239963.0,5,True,alto
+split_9634f94ee0b3761f,1,34,34,6,Balcarce al 1100,32000.0,457017.0,1,True,alto
+split_6a52fc9ca1237db6,1,33,33,11,Ituzaingó 400,40000.0,90300.0,3,True,alto
+split_27df733297fc7568,1,32,32,7,Jujuy  al 2000,62000.0,385000.0,2,True,alto
+split_063d557684c5bcf3,1,31,31,6,Mendoza al 2000,28000.0,398000.0,3,True,alto
+split_9f2c76e1ccfd41e1,1,30,30,10,Ituzaingo 1200,80000.0,310000.0,3,True,alto
+split_85cce68b88a3fd9b,1,29,29,10,CATAMARCA 1716,74000.0,280000.0,3,True,alto
+split_57368cf7399fffc7,1,29,29,7,Rodriguez  138 Bis,62000.0,185000.0,1,True,alto
+split_188cb66c941d7a8a,1,29,29,7,San Lorenzo al 1700,60000.0,150000.0,0,True,alto
+split_caeb4b868a5a31ad,1,28,28,4,Alvear 543,68000.0,351900.0,3,True,alto
+split_ee98b6060ae626d5,1,28,28,8,San Martin  1625 &#x27;7D,50000.0,125000.0,3,True,alto
+split_3e5be01c21dfac30,1,27,27,13,Mitre al 300,26000.0,301500.0,5,True,alto
+split_b9b80a1fb0fa16e5,1,27,27,1,Dorrego 43,30000.0,450000.0,4,True,alto
+split_a17eb1714bd5eaaa,1,27,27,4,Callao 500,78000.0,233200.0,3,True,alto
+split_5d4ecff34244a921,1,27,27,10,Güemes 1974,56000.0,360000.0,0,True,alto
+split_b0fad8454354e8f3,26,26,26,0,Centro,48000.0,450000.0,26,False,alto
+split_78034074b77f25a5,1,26,26,7,Corrientes 2195 - Aquilonia,35000.0,233377.0,2,True,alto
+split_2062ea47c16e15fe,1,26,26,15,San Juan al 500,40000.0,373000.0,1,True,alto
+split_e43749f77a88b9c0,1,26,26,8,Güemes 2470 (T2º),50000.0,302500.0,1,True,alto
+split_566b7664e2dd4813,1,26,26,7,Guemes 2000,40000.0,240000.0,0,True,alto
+split_7aa3be28e1c67f1a,1,26,26,6,Rodriguez 1235,65000.0,189000.0,0,True,alto
+split_1171bdf9c8ca8935,1,25,25,5,Balcarce 1565,52000.0,544385.0,5,True,alto
+split_44ae4e8517f18532,1,25,25,10,Dorrego 124 Piso 2,70000.0,395000.0,3,True,alto
+split_cf8095941134e0f8,1,25,25,11,Moreno 1036,28634.0,417665.0,3,True,alto
+split_b36839ef5f3ffbd0,1,25,25,9,Santiago 1644,29000.0,188000.0,2,True,alto
+split_a3132b12c4f92ed3,1,25,25,8,Santiago 600,95000.0,210000.0,1,True,alto
+split_c96ca5d95d202b21,1,25,25,7,San Luis 2500,50000.0,570000.0,1,True,alto
+split_c8aefd1fd7764245,1,25,25,9,Córdoba al 1600,74000.0,320000.0,0,True,alto
+split_646dc78aa8ef8fc3,1,24,24,13,Catamarca 1554,55000.0,486100.0,4,True,alto
+split_26dbd6ffc2fafca3,1,24,24,15,Pellegrini 400,97000.0,280000.0,2,True,alto
+split_0601e412c58493ac,1,24,24,11,Mitre al 500,56000.0,280000.0,1,True,alto
+split_09f87dfe48d85509,1,24,24,7,Juan Manuel de Rosas al 1400,25000.0,165000.0,1,True,alto
+split_a6497ae27de3c272,1,24,24,13,Mitre 228,49000.0,450000.0,1,True,alto
+split_764aa9c7c0a0c0bb,1,24,24,5,Pueyrredon al 100,99000.0,655800.0,0,True,alto
+split_87c21a1808b3edef,1,23,23,7,9 de Julio  al 1400,25000.0,255000.0,5,True,alto
+split_afdadffc64e28d38,1,23,23,4,Zeballos  al 2200,68000.0,106000.0,2,True,alto
+split_92fe5ba69242baa7,1,23,23,8,Paraguay 2172,108000.0,142000.0,1,True,alto
+split_a61b5bb63069b13c,1,23,23,9,Zeballos 377,75000.0,240000.0,1,True,alto
+split_9447b8d2e66b3f41,1,23,23,10,Necochea al 2000,35582.0,174000.0,0,True,alto
+split_aa0db233f6191f18,22,22,22,1,Santa Fe 2400,61039.0,306835.0,22,True,alto
+split_ee594b5fa99cddaa,22,22,22,1,Santa Fe al 3000,52000.0,155000.0,22,True,alto
+split_6af01c8fbe0d1c9c,1,22,22,11,Brown 2108,89000.0,450000.0,2,True,alto
+split_83369174c2422b93,1,22,22,6,San Lorenzo 1366,73500.0,110000.0,2,True,alto
+split_f6f77ae6a1065d11,1,22,22,4,Mendoza al 1500,57000.0,639000.0,2,True,alto
+split_8f22861798c3bfdd,1,22,22,8,Salta 2261 02-04,98880.0,308800.0,1,True,alto
+split_466fb2f469adcd72,1,21,21,6,Dorrego 244,30000.0,465000.0,4,True,alto
+split_94c5ed3fff5c507d,1,21,21,10,Sarmiento 1877. Entre Pasco y Cochabamba,89000.0,220000.0,4,True,alto
+split_a19a2ac26c4006c5,1,21,21,7,Buenos Aires al 900,42500.0,187000.0,4,True,alto
+split_d1c34b9f177ffa89,1,21,21,4,1 de Mayo al 1100,47000.0,128000.0,4,True,alto
+split_4f4453add8ee61ff,1,21,21,7,9 De Julio 358,57000.0,215000.0,2,True,alto
+split_7bb689e5ac4fae91,1,21,21,7,Callao 1300,25000.0,195913.0,2,True,alto
+split_eec3fd0a4e811f2c,1,21,21,5,Cerrito  al 1500,61000.0,153000.0,2,True,alto
+split_b60192460092f17d,1,21,21,13,Paraguay  1608 01 B - VENTA Monoambiente,65000.0,235000.0,1,True,alto
+split_ffd77c160281aa0e,1,21,21,12,Brown 2944,65000.0,395000.0,1,True,alto
+split_e89e1f2ef4e328e9,1,21,21,4,Av. Francia 1100,43000.0,245000.0,0,True,alto
+split_11433ef41f7dc901,1,20,20,5,Mitre 1792,40000.0,211266.0,4,True,alto
+split_9aa10c14fa3ac5d8,1,20,20,9,Zeballos  al 1900,45000.0,190000.0,3,True,alto
+split_2d3202359c8e9bb0,1,20,20,3,Catamarca 2000,135000.0,460000.0,1,True,alto
+split_98ff8884d7475563,1,20,20,10,9 de Julio 1351 - Sabik,43000.0,280600.0,1,True,alto
+split_d2578f7a8e3888e7,1,20,20,7,Córdoba 600,70000.0,510000.0,0,True,alto
+split_10542ccf437a265f,1,19,19,10,Santiago 500 - Monoambiente Divisible C/patio,60000.0,355509.0,6,True,medio
+split_b918282b31900ef6,1,19,19,3,Rodriguez 1331 - Avis Rodriguez,49755.0,349000.0,4,True,medio
+split_c480752c1e943d77,1,19,19,6,Ayacucho 1300,56000.0,300000.0,2,True,medio
+split_8fba7cf4f564d15b,1,19,19,6,Pellegrini al 2600,99000.0,310000.0,1,True,medio
+split_a52374d07013a8b4,1,19,19,8,Cafferata al 900,52000.0,200000.0,1,True,medio
+split_f561db2b9ff5e416,1,19,19,5,cochabamba 1256,63000.0,170000.0,0,True,medio
+split_1e12debadbd3ffb8,1,18,18,6,Ayacucho  al 1400,41500.0,137230.0,3,True,medio
+split_39bb256158abe911,1,18,18,3,Urquiza 3396,42000.0,62500.0,3,True,medio
+split_4c2356397bf1b5f7,1,18,18,3,Urquiza 2852,60786.0,163000.0,3,True,medio
+split_9b5ad1312d7d9f76,1,18,18,7,Juan Manuel de Rosas 825,95000.0,356000.0,2,True,medio
+split_e3cbec8317bb2ae0,1,18,18,6,Ovidio Lagos 1225,56000.0,186000.0,2,True,medio
+split_0fb5049e4be1f652,1,18,18,10,San Martín 364,86000.0,420000.0,1,True,medio
+split_8b2ce2fed929f0c9,1,18,18,4,Montevideo al 2700,55000.0,490000.0,1,True,medio
+split_a3005aaa953b62af,1,18,18,8,Moreno  al 900,125000.0,215000.0,1,True,medio
+split_d6c6a47f6cd2f523,1,18,18,7,Guemes  al 2200,190000.0,360000.0,1,True,medio
+split_ee6131b8e61bf205,1,18,18,4,Italia al 2000,45000.0,439000.0,1,True,medio
+split_db9c908c7553bf9c,1,18,18,10,Urquiza 1000,46000.0,155000.0,0,True,medio
+split_e73a8a32c415470a,1,18,18,4,Salta  al 1400,69000.0,472000.0,0,True,medio
+split_6e18d61e93d5ef17,1,17,17,4,Montevideo al 500,50000.0,135000.0,3,True,medio
+split_dc25152135920a19,1,17,17,8,Callao 400,50000.0,139000.0,3,True,medio
+split_fba1b652e365711a,1,17,17,7,Corrientes 2300,29500.0,132000.0,2,True,medio
+split_ee4658cb0609fbb6,1,17,17,5,Catamarca 1300,58000.0,189000.0,1,True,medio
+split_4c1b62a4964a8de9,1,17,17,8,San Juan 1000 Piso 09 Dpto C,42000.0,186000.0,0,True,medio
+split_c15dcc1c7f68e022,1,17,17,8,Italia 173,89000.0,360100.0,0,True,medio
+split_26b6075f2656d36f,1,16,16,4,Av. Francia 817,27000.0,90000.0,4,True,medio
+split_efa36353c5fa3584,1,16,16,7,Santiago 843,25000.0,280000.0,4,True,medio
+split_da00953ff04713c0,1,16,16,5,Mendoza al 2800,38000.0,172000.0,3,True,medio
+split_449c352241e05f83,1,16,16,8,1 de Mayo 1300,56500.0,145000.0,2,True,medio
+split_d83773012b0985ad,1,16,16,2,Pueyrredon 1100,84000.0,154000.0,2,True,medio
+split_456bf0b0c238fe51,1,16,16,3,Montevideo 1485,35000.0,197100.0,1,True,medio
+split_50631d260b714fe4,1,16,16,4,Moreno 200  - Piso 7º Dpto D-torre I,66243.0,480000.0,1,True,medio
+split_6748f6288851472f,1,16,16,8,Alem al 2400 - Monoambiente -,39500.0,132000.0,1,True,medio
+split_8079eefbcda1757f,1,16,16,10,3 de Febrero al 1800,68500.0,165000.0,1,True,medio
+split_289cbb21bfe71000,1,16,16,6,Buenos Aires 1455 | 2 Dormitorios (07- 01),59000.0,340000.0,0,True,medio
+split_94ab6f80585082c4,1,16,16,6,Riccheri al 300,150000.0,180000.0,0,True,medio
+split_b79286fe215726f0,1,16,16,6,Güemes 1800,170000.0,460000.0,0,True,medio
+split_3a3ccd79455a9c40,1,15,15,3,Jujuy 1888,57000.0,140000.0,2,True,medio
+split_43a58e397e4239a3,1,15,15,6,Cordoba al 2600,82000.0,178000.0,2,True,medio
+split_5c080cc39f0bc240,1,15,15,3,Ituzaingo  al 1600,32190.0,215000.0,2,True,medio
+split_1ae0ec3f930f5cd2,1,15,15,6,Catamarca 1875. Entre Italia y Dorrego,199400.0,409200.0,1,True,medio
+split_491193f1273f489e,1,15,15,10,Bv. Avellaneda 1080 bis - Vista Total al Rio - Torre Brisa,139000.0,662699.0,1,True,medio
+split_4ca20683f0a02efe,1,15,15,6,Juan Manuel de Rosas al 2300,89000.0,300000.0,1,True,medio
+split_ea51837dad11419a,1,15,15,5,Necochea 1300,45000.0,399000.0,1,True,medio
+split_ef5ef902c290b30f,1,15,15,5,3 de Febrero al 1100,67000.0,289000.0,1,True,medio
+split_f1ff92c6a250ab2a,1,15,15,6,Maipu al 900,37000.0,145000.0,1,True,medio
+split_017a8c5f02d98dde,1,15,15,4,Italia  al 200,110000.0,450000.0,0,True,medio
+split_382bc22254319d78,1,15,15,6,Zeballos al 1800,57000.0,141000.0,0,True,medio
+split_76c7460ea3e65b65,1,15,15,6,San Lorenzo 1021,43000.0,195000.0,0,True,medio
+split_7cd29f495790bc6f,1,15,15,11,San Martin 540,31000.0,355000.0,0,True,medio
+split_c8b850aa64839d1c,1,15,15,6,3 de Febrero 110 - Calidad Premiun en Barrio Martín,70000.0,241029.0,0,True,medio
+split_edacb5fd316da85c,1,15,15,7,9 de Julio  al 500,60000.0,240000.0,0,True,medio
+split_f1e33cfb6f76985d,1,14,14,1,Dorrego y 9 de Julio,76050.0,342500.0,14,False,medio
+split_3f240c9c27fbb015,1,14,14,4,Av. Francia 1485,45000.0,204766.0,3,True,medio
+split_72c0c87296386cc7,1,14,14,5,Pueyrredon 1570,56000.0,105000.0,3,True,medio
+split_a26ad955d8eca300,1,14,14,7,Mendoza 1800,32000.0,84000.0,3,True,medio
+split_0987c304fe35f843,1,14,14,7,Rivadavia  2297,128987.0,410000.0,1,True,medio
+split_348a9261d0c1ff58,1,14,14,4,España al 300,38000.0,179648.0,1,True,medio
+split_35b9ce75aafc4683,1,14,14,7,Ovidio Lagos 1166,45000.0,235000.0,1,True,medio
+split_65acbabc31ca8270,1,14,14,4,Urquiza al 1900,95000.0,586700.0,1,True,medio
+split_7eede60403efc27c,1,14,14,4,Av Pellegrini 1770,67000.0,290000.0,1,True,medio
+split_97dd0a6c4f21e24c,1,14,14,3,Cafferata 800,55000.0,84000.0,1,True,medio
+split_9d96c9c2fa96a530,1,14,14,6,Zeballos al 100,43500.0,280800.0,1,True,medio
+split_a7997d47270e0545,1,14,14,8,Cordoba 2709,55000.0,224000.0,1,True,medio
+split_2f48a3a711a32255,1,14,14,6,Corrientes 972,53000.0,180000.0,0,True,medio
+split_b79d137ba010e5d2,1,14,14,6,"San Juan 1225, S2000BDS Rosario, Santa Fe, Argentina, Rosario, Santa Fe, Argentina.",63000.0,160000.0,0,True,medio
+split_d066143e0d4b2ac3,1,14,14,4,Cordoba  al 1490 Piso 10,175000.0,350000.0,0,True,medio
+split_d4f3102ad5033a82,1,14,14,5,Moreno al 2000,78000.0,480000.0,0,True,medio
+split_18890cdd0bb6128f,1,13,13,8,Maipu 1775,74000.0,297781.0,3,True,medio
+split_5f0cc6354678d1eb,1,13,13,6,Mitre al 1500,45000.0,462099.0,3,True,medio
+split_86aba40113a3b9a5,1,13,13,6,Jujuy 1690,55000.0,296000.0,2,True,medio
+split_b0a4457ce7e6faee,1,13,13,6,Ayacucho 1500,120000.0,152000.0,2,True,medio
+split_f0d3da2c6383ceb9,1,13,13,6,Italia al 1200,36500.0,115000.0,2,True,medio
+split_034331069feafecb,1,13,13,6,Mitre  al 1845,43000.0,270000.0,1,True,medio
+split_1435fbb24316f653,1,13,13,6,Córdoba 2369,60000.0,595000.0,1,True,medio
+split_15de127ef116dc7d,1,13,13,2,Av de la Libertad al 300,290000.0,800000.0,1,True,medio
+split_1e42114cbfee23fd,1,13,13,3,Cerrito 1600,47500.0,125000.0,1,True,medio
+split_612cbb361c7cbcd3,1,13,13,3,Salta 1200,185000.0,600000.0,1,True,medio
+split_856617e1d84bf310,1,13,13,4,Rodriguez 1149 - 06-04,69000.0,210000.0,1,True,medio
+split_95b2b399b25f66a5,1,13,13,5,3 de Febrero 1440 | 1 Dormitorio (02-03),34650.0,125000.0,1,True,medio
+split_b16ee63594e118f2,1,13,13,3,Cochabamba al 1100,64073.0,111000.0,1,True,medio
+split_c09ad900cc2260c9,1,13,13,5,Moreno al 1500 - 5° Piso,57000.0,83200.0,1,True,medio
+split_d08c62000540c47a,1,13,13,6,Urquiza al 1400,50000.0,130000.0,1,True,medio
+split_0a6ae5632ccd21e7,1,13,13,5,Entre Ríos al 100,75000.0,280000.0,0,True,medio
+split_0d3601146bbc13b5,1,13,13,5,Córdoba 1816,89000.0,400000.0,0,True,medio
+split_0f96ba25b773a907,1,13,13,4,Montevideo al 2400,60000.0,390000.0,0,True,medio
+split_89137f57db26e186,1,13,13,3,Italia 600,79000.0,180000.0,0,True,medio
+split_8e27a617482082b1,1,13,13,4,Cajaraville al 100,130000.0,245000.0,0,True,medio
+split_980a1144b3b754e9,1,13,13,4,Av Libertad  al 300,165000.0,580000.0,0,True,medio
+split_b6549d7251fba6fd,1,13,13,3,Corrientes AL 1200,63000.0,150000.0,0,True,medio
+split_b8eb0c8431f6417a,1,13,13,5,Dorrego  al 300,145000.0,290000.0,0,True,medio
+split_b9619a2b440cd938,1,13,13,6,Zeballos al 500,46500.0,95000.0,0,True,medio
+split_faab1357be4844d4,1,13,13,5,MONTEVIDEO 1620,59000.0,159000.0,0,True,medio
+split_2b4a736000d095c3,12,12,12,3,27 de Febrero al 1600,68000.0,150000.0,12,True,medio
+split_85cc91e58aa87d10,1,12,12,5,Ov. Lagos 1166 - Lagos Centro,52700.0,235000.0,3,True,medio
+split_02f6e3727cc4547e,1,12,12,3,Montevideo 1071,25000.0,255000.0,2,True,medio
+split_7504e0fff0c66cd0,1,12,12,4,Paraguay al 300,43000.0,120000.0,2,True,medio
+split_86c53d64bef3dc83,1,12,12,5,Salta al 1700,74000.0,240000.0,2,True,medio
+split_9093838e7f6b1b8a,1,12,12,2,Cerrito 953,76000.0,120000.0,2,True,medio
+split_3564e7b685664bbb,1,12,12,5,Montevideo 1700,40000.0,210000.0,1,True,medio
+split_54a8e2ab83258036,1,12,12,2,Rio de Janeiro al 1500,41000.0,130380.0,1,True,medio
+split_74b879bfcdf7b374,1,12,12,3,San Juan 2451,63500.0,180000.0,1,True,medio
+split_cdf0c5b6da557046,1,12,12,5,Pueyrredon al 1400,41000.0,255000.0,1,True,medio
+split_de61faa1c5009225,1,12,12,7,Urquiza 2600,105567.0,223410.0,1,True,medio
+split_f47b7a5cfccaac50,1,12,12,4,Urquiza al 3400,54600.0,69513.0,1,True,medio
+split_f8f08d55e8646ea5,1,12,12,3,Corrientes 1100,56000.0,195000.0,1,True,medio
+split_fef67bf0dd8f19b4,1,12,12,6,Alem 2392,38000.0,62400.0,1,True,medio
+split_1f70e12fe7f20cd0,1,12,12,3,España 1369,59000.0,190000.0,0,True,medio
+split_3ac1e5fcbe96a527,1,12,12,4,"Alem 1230, Piso 02 06",50000.0,122000.0,0,True,medio
+split_41ad5fafb87299f8,1,12,12,4,Rioja 1100,61000.0,91000.0,0,True,medio
+split_63f6bd8b09ea179e,1,12,12,3,Buenos Aires 2500,46000.0,65000.0,0,True,medio
+split_7bfbf862fd82c197,1,12,12,6,Ayacucho al 1100,249000.0,285000.0,0,True,medio
+split_8d136001fc2e0814,1,12,12,5,Paraguay  al 2300,62000.0,145000.0,0,True,medio
+split_c3330429b13a7144,1,12,12,3,Bv. Oroño al 500,80000.0,450000.0,0,True,medio
+split_f79d2f0cc20c0a71,1,11,11,8,3 de Febrero 2300,32000.0,67000.0,3,True,medio
+split_10d4dd0c912cd809,1,11,11,8,Alvear 1400,80833.0,286000.0,2,True,medio
+split_234ccb15e7742059,1,11,11,3,Pellegrini al 4000,48000.0,60800.0,2,True,medio
+split_65b0eb9879657d3f,1,11,11,6,Cafferata 1156,47000.0,200000.0,2,True,medio
+split_a13fad9aeec2d274,1,11,11,7,Mendoza 1465,65000.0,248768.0,2,True,medio
+split_f726f85bc6bc0706,1,11,11,7,Paraguay  al 1800,42000.0,295100.0,2,True,medio
+split_8450adbd8708f0c4,1,11,11,8,Brown 1932,35500.0,369000.0,1,True,medio
+split_acb804af298bb22a,1,11,11,4,Cafferata al 1000,43000.0,70000.0,1,True,medio
+split_ca0cc0c41ce2d890,1,11,11,4,Córdoba 3000,47000.0,68000.0,1,True,medio
+split_01e6fc0492843202,1,11,11,5,9 de Julio 682,58000.0,189000.0,0,True,medio
+split_041b60c7e6d512e6,1,11,11,4,Tucumán 1060,49500.0,380000.0,0,True,medio
+split_04f6a8370dc2566b,1,11,11,2,Montevideo al 1200,82000.0,389000.0,0,True,medio
+split_21484dffb4cb5d5f,1,11,11,5,Moreno 1981 &#x27;3A,145000.0,370000.0,0,True,medio
+split_38366ca8943adc59,1,11,11,6,España  al 1100,66000.0,113000.0,0,True,medio
+split_49c27718216c6824,1,11,11,4,9 de Julio al 1000,65000.0,189000.0,0,True,medio
+split_5998af181ad6acb5,1,11,11,4,Maipu 2372,29900.0,109000.0,0,True,medio
+split_673a29806b1ea4ab,1,11,11,5,San Juan  al 2700,39500.0,160000.0,0,True,medio
+split_8192dda8909997f7,1,11,11,3,Avenida Belgrano  al 900 Bis  - Piso 14º Dpto 02,65000.0,730000.0,0,True,medio
+split_95e1e1a22fd17339,1,11,11,4,Chacabuco al 1500 Duplex Exclusivo,122000.0,450000.0,0,True,medio
+split_a48b692a23db4286,1,11,11,3,San Juan 393. Entre Leandro N Alem y Ayacucho,98000.0,490000.0,0,True,medio
+split_bf3192dc202954e5,1,11,11,3,Av Pellegrini 932,136000.0,306240.0,0,True,medio
+split_cdef3c002c121546,1,11,11,3,San Luis 931,60000.0,243000.0,0,True,medio
+split_d874ffabc6f4a079,1,11,11,5,Rivadavia 2569 - Costavia &#x27;18b,290000.0,1100000.0,0,True,medio
+split_e62e911cd5727195,1,11,11,6,Corrientes 1500,50500.0,140000.0,0,True,medio
+split_f3f678286c074c0c,1,11,11,2,Bv. Oroño 1175,64000.0,450000.0,0,True,medio
+split_f1eaec4f74a1fc3f,10,10,10,4,27 de Febrero al 1500,75000.0,127500.0,10,True,medio
+split_3060501a4b3c05ca,1,10,10,5,3 de Febrero 954 - Maraba 17,76000.0,240000.0,2,True,medio
+split_64459723ec4b1e2a,1,10,10,3,Urquiza 2080,51587.0,215000.0,2,True,medio
+split_8d5689842c82c5ee,1,10,10,6,Italia 1539,35000.0,218000.0,2,True,medio
+split_bab0665f3350e123,1,10,10,3,Riccheri 700,55087.0,195000.0,2,True,medio
+split_e57d1cd55ede709a,1,10,10,5,Ov. Lagos al 1400,98000.0,425783.0,2,True,medio
+split_437bc184c46ca20b,1,10,10,7,3 de Febrero 1548. Entre Presidente roca y Paraguay,55000.0,225000.0,1,True,medio
+split_438dfbbd95691906,1,10,10,2,Santiago  al 1000,37000.0,222000.0,1,True,medio
+split_4a9a20b95e28f62c,1,10,10,2,Alvear 341,30000.0,375000.0,1,True,medio
+split_7ce96dce8f61ab18,1,10,10,4,San Lorenzo 817,39500.0,115000.0,1,True,medio
+split_946abf9f9d2de538,1,10,10,6,Moreno 896 - Dot del Siglo,135000.0,595000.0,1,True,medio
+split_b44d736a6864cf91,1,10,10,1,Pueyrredón al 1600,169000.0,496162.0,1,True,medio
+split_c884cda11ce882c7,1,10,10,4,Entre Rios 1598,60000.0,169000.0,1,True,medio
+split_fa0fe85dbe9bfab3,1,10,10,3,Salta al 1800,108000.0,179000.0,1,True,medio
+split_03daefde92834a92,1,10,10,6,Buenos Aires 1079,72000.0,239000.0,0,True,medio
+split_316be72f50d3cf44,1,10,10,6,Pje Cajaraville  180 - 3 Piso,84000.0,245000.0,0,True,medio
+split_39acc8074699d6a1,1,10,10,3,1 de Mayo 918,59000.0,595000.0,0,True,medio
+split_3a2953e69631457b,1,10,10,5,Tucuman al 973,85000.0,400000.0,0,True,medio
+split_480ba950fc19fa2b,1,10,10,4,Juan Manuel de Rosas  al 1600,55000.0,85000.0,0,True,medio
+split_53cec4f886b57f67,1,10,10,7,Rioja 500 - Piso 12º Dpto 05,75000.0,430000.0,0,True,medio
+split_88354ee6c8697452,1,10,10,2,Rioja al 600,48000.0,350000.0,0,True,medio
+split_a1236eb87cdfe7cc,1,10,10,3,San Juan 3000,39000.0,85000.0,0,True,medio
+split_b2b531f9c32dbee9,1,10,10,5,Rodriguez Bis al 100,62000.0,185000.0,0,True,medio
+split_b5136105244a2dc3,1,10,10,5,Güemes al 2100,72000.0,690000.0,0,True,medio
+split_bda6a2ab810f2f98,1,10,10,4,Laprida 1134,89000.0,250000.0,0,True,medio
+split_c7bde9b1f01ce254,1,10,10,2,Iriondo 1300,60000.0,118000.0,0,True,medio
+split_e2c21c3b7d344d3f,1,10,10,6,Colon AL 1400 Amueblado,33000.0,330000.0,0,True,medio
+split_539521d09d3dcdb1,9,9,9,6,27 de Febrero  1400,46500.0,143700.0,9,True,medio
+split_65477c4a6069e895,1,9,9,2,Pasaje Simeoni 1192,227568.0,301212.0,2,True,medio
+split_6ff66cde24cb885f,1,9,9,4,1 de Mayo 1400- Monoambiente,52000.0,90200.0,2,True,medio
+split_d37b51fe06e34185,1,9,9,1,Balcarce 67,235000.0,370000.0,2,True,medio
+split_11b9d46ea5350cd8,1,9,9,3,Roca 300,60000.0,360000.0,1,True,medio
+split_2df2e6929bb909d8,1,9,9,2,Corrientes 120,27000.0,1542000.0,1,True,medio
+split_31b2b41c85c6a03a,1,9,9,4,Iriondo 1500,55000.0,154332.0,1,True,medio
+split_51a502f4cf854b74,1,9,9,3,Rioja 896,60000.0,135000.0,1,True,medio
+split_6249a4ffe5cfea70,1,9,9,6,Paraguay al 1500 - Monoambiente,55000.0,230000.0,1,True,medio
+split_7792c0caef2b8888,1,9,9,5,Bv. Rondeau 3782,98809.0,290000.0,1,True,medio
+split_d98079eb373487ca,1,9,9,2,Francia 800,54000.0,89000.0,1,True,medio
+split_feb003326b5d41eb,1,9,9,2,Zeballos al 2600,50000.0,365000.0,1,True,medio
+split_0a08d11a53b1a945,1,9,9,6,Cerrito 117,39000.0,78000.0,0,True,medio
+split_48a55bad3a71f533,1,9,9,4,Italia al 700,88000.0,220000.0,0,True,medio
+split_4a24f3b1f5451d74,1,9,9,5,Salta 1990- Con Cochera,42000.0,120000.0,0,True,medio
+split_516d367e45add632,1,9,9,3,Mitre al 1300,65000.0,150000.0,0,True,medio
+split_76c6a9d4a7fbd04a,1,9,9,4,Zeballos al 400,33000.0,97000.0,0,True,medio
+split_7d941719eeba01a3,1,9,9,2,Mitre 600,69000.0,153000.0,0,True,medio
+split_8130681d02c33854,1,9,9,3,Montevideo  al 400,52000.0,220000.0,0,True,medio
+split_8e1365d33fe1073e,1,9,9,5,Callao 1231,54000.0,320000.0,0,True,medio
+split_a853ebd0533e1b0e,1,9,9,4,Amenabar 1700 - Piso 10º Dpto 04,35000.0,67500.0,0,True,medio
+split_a9ad9bcab9a1ae7c,1,9,9,4,Ricchieri al 300,105000.0,180000.0,0,True,medio
+split_b0c8ba9de78763a1,1,9,9,2,Sarmiento  al 900,35000.0,175000.0,0,True,medio
+split_b83be685a5cd0cf8,1,9,9,3,Maipú 2207,50000.0,125000.0,0,True,medio
+split_bc61a7f851f945bc,1,9,9,3,Dorrego al 1600,39500.0,132000.0,0,True,medio
+split_c54ab0a1b81cabf4,1,9,9,6,Zeballos 1041,42000.0,155000.0,0,True,medio
+split_cc4be10b7d57c53d,1,9,9,4,San Juan 900,67000.0,100000.0,0,True,medio
+split_fc8cb957992a1c72,1,9,9,5,Oroño  al 100,35000.0,365000.0,0,True,medio
+split_5f53a41ed70663bd,1,8,8,1,Parque España,266400.0,486100.0,8,False,medio
+split_cb4126bcadc574db,8,8,8,1,Santa Fe 1400,79000.0,169000.0,8,True,medio
+split_3bab7f85d482a0dc,1,8,8,4,Salta 3187,70000.0,185000.0,2,True,medio
+split_4578a64a5e68db1e,1,8,8,4,Francia al 1100 - 6° Piso,52000.0,165000.0,2,True,medio
+split_4a346a84fc271088,1,8,8,6,Zeballos 1500,48000.0,275000.0,2,True,medio
+split_8e4697e5a12e5719,1,8,8,4,San Lorenzo al 2400,58800.0,133000.0,2,True,medio
+split_e89752c19a873050,1,8,8,4,Moreno 554,25900.0,439900.0,2,True,medio
+split_15f64a4430842983,1,8,8,4,Brown 1861  13 A - VENTA Monoambiente,78200.0,450000.0,1,True,medio
+split_21b9f9e1d9da7718,1,8,8,3,9 de Julio 3100,40000.0,120000.0,1,True,medio
+split_3f9b7c2fc2d91423,1,8,8,5,Cochabamba 136 01 B - VENTA  Monoambiente,36000.0,65000.0,1,True,medio
+split_561befb194ae474f,1,8,8,2,Wheelwright al 1700,129987.0,330000.0,1,True,medio
+split_7fa845cd03d17c0b,1,8,8,2,Tucuman 2000,238530.0,455094.0,1,True,medio
+split_96e9fa1d8164f681,1,8,8,3,San Luis 2227. Entre Alvear y Bv oroño,60000.0,70000.0,1,True,medio
+split_b66e96ba73719ace,1,8,8,2,San Juan 1900,81000.0,295000.0,1,True,medio
+split_06f70c472d543d3c,1,8,8,4,Pasaje Zavalla al 3100,28500.0,55000.0,0,True,medio
+split_1417b3d5735738d5,1,8,8,4,Rioja 700,55000.0,158000.0,0,True,medio
+split_1549da762891065c,1,8,8,3,Laprida al 1400,64000.0,185000.0,0,True,medio
+split_15b4f294bb7eb962,1,8,8,3,Corrientes al 1300,60000.0,167000.0,0,True,medio
+split_15f99eba3ea46ec2,1,8,8,6,SAN Juan 1100-piso 10-unidad 01,34500.0,140000.0,0,True,medio
+split_1bf04d39ea67d5d0,1,8,8,7,3 de Febrero  al 500,33500.0,94000.0,0,True,medio
+split_285fd809ba0183a4,1,8,8,1,Vera Mujica al 1300,115000.0,155000.0,0,True,medio
+split_29c664c586dd30d7,1,8,8,4,Necochea 1827,35000.0,63000.0,0,True,medio
+split_2bfb70cc755a1387,1,8,8,2,Buenos Aires 1345,55000.0,260000.0,0,True,medio
+split_2ef115329e98989e,1,8,8,6,Moreno  al 100 bis,63000.0,450000.0,0,True,medio
+split_37f0d095f0f75e8d,1,8,8,2,Mendoza al 200,67000.0,185000.0,0,True,medio
+split_38028fbef5ac90b7,1,8,8,4,Mendoza 1272,53000.0,170000.0,0,True,medio
+split_3d32a40416270309,1,8,8,3,Av. Francia al 1500,38000.0,52632.0,0,True,medio
+split_3e92ccc5c5b60225,1,8,8,5,San Juan  al 2500,56000.0,145000.0,0,True,medio
+split_48f1bb14b38786ea,1,8,8,4,Santiago 1423,65000.0,298000.0,0,True,medio
+split_5e1120c4de08f74b,1,8,8,5,Salta 2919,55000.0,390000.0,0,True,medio
+split_712b618d6177321b,1,8,8,6,9 de Julio  al 942,44000.0,155000.0,0,True,medio
+split_738fb9f0839bdafb,1,8,8,1,Bv. Avellaneda 1389,60764.0,124891.0,0,True,medio
+split_b53142981d5185bf,1,8,8,3,Entre Rios 2050,52000.0,120000.0,0,True,medio
+split_bbcc8f815863e9d7,1,8,8,5,Buenos Aires 1590,30000.0,120000.0,0,True,medio
+split_c26ff7fb242dcd3f,1,8,8,3,Maipú 1500,80000.0,165000.0,0,True,medio
+split_c549617116fb67d6,1,8,8,2,Entre Rios  al 700,50000.0,115000.0,0,True,medio
+split_c986473df81c6d4f,1,8,8,5,Além  al 1307 - 1 Piso,69000.0,120000.0,0,True,medio
+split_c9b2b5031c8fbe26,1,8,8,1,Maipu al 1200,70000.0,119000.0,0,True,medio
+split_dabbc3efb0e83980,1,8,8,2,Italia al 1100,60000.0,222810.0,0,True,medio
+split_dafb56fc53606049,1,8,8,2,San Lorenzo 1142,70000.0,145000.0,0,True,medio
+split_dbc604b50cb1c339,1,8,8,3,Córdoba 2168,46000.0,420000.0,0,True,medio
+split_f362aa3d5932f9af,1,8,8,2,Santiago 300,90000.0,472900.0,0,True,medio
+split_fe128dee7cd19591,1,8,8,3,Paraguay al 100,69000.0,145000.0,0,True,medio
+split_209a44b6a89572f9,7,7,7,1,Santa Fe 2400 - Financiación Hasta 12 Cuotas,180000.0,248800.0,7,True,medio
+split_c46d355a046ed2ca,7,7,7,1,Santa Fe  al 1200,63000.0,138000.0,7,True,medio
+split_f0860bb480f13346,7,7,7,1,Santa Fe 2100,94000.0,199100.0,7,True,medio
+split_0c94b330a56d8ad0,1,7,7,4,Salta 2171,279987.0,475000.0,2,True,medio
+split_0cf5e2707897393f,1,7,7,4,Montevideo al 3500,37500.0,65000.0,2,True,medio
+split_3de1751dc1e72250,1,7,7,5,3 de Febrero 2958 - DM 63,65000.0,180000.0,2,True,medio
+split_f0a3925b7954c81f,1,7,7,3,Rioja al 2500,62200.0,83800.0,2,True,medio
+split_1034ae5db013c876,1,7,7,1,Italia 23 bis,127949.0,374777.0,1,True,medio
+split_22e3fe0d48f16d32,1,7,7,3,San Juan al 2600,54855.0,160000.0,1,True,medio
+split_3f1dd0b4195debcd,1,7,7,3,Urquiza  al 1500,83000.0,198000.0,1,True,medio
+split_46aabe31dc528029,1,7,7,4,CORDOBA 1336,80000.0,175000.0,1,True,medio
+split_4bcb9387b3423c9b,1,7,7,1,Tucumán al 3800,39000.0,60000.0,1,True,medio
+split_59573d22c6939e8b,1,7,7,2,Pellegrini 3800,44000.0,155000.0,1,True,medio
+split_5f2012b1a7c65a85,1,7,7,3,Corrientes  al 1900,53300.0,150000.0,1,True,medio
+split_7600b0bb687c6b4b,1,7,7,4,Alvear al 400. 1er Piso con Patio.,105000.0,325000.0,1,True,medio
+split_95f95cadb727660b,1,7,7,1,Italia 2800,46000.0,54000.0,1,True,medio
+split_bac6e4e1b4664a6b,1,7,7,4,Jujuy 2438,140300.0,466830.0,1,True,medio
+split_d81e81e090652e2f,1,7,7,5,9 de Julio 1742,70000.0,195000.0,1,True,medio
+split_0eba2be7dd26488d,1,7,7,2,Laprida 965,75000.0,150000.0,0,True,medio
+split_1738bf2b940ce214,1,7,7,3,San Martin 1400,26000.0,65000.0,0,True,medio
+split_1c9cb5f0936e7744,1,7,7,3,Rioja  al 1900,35000.0,450000.0,0,True,medio
+split_2174625c5040b567,1,7,7,3,Entre Rios al 600,64000.0,130000.0,0,True,medio
+split_28b494cfc79e8d6a,1,7,7,3,1 de Mayo 1600,30000.0,60000.0,0,True,medio
+split_37078b317d243c69,1,7,7,3,Entre Rios 1276,59000.0,149000.0,0,True,medio
+split_4890bca12d3b9fbd,1,7,7,2,Bv. OroÑo 700,180000.0,355000.0,0,True,medio
+split_4bc95abd53cae263,1,7,7,3,Mitre al 1000,32000.0,125000.0,0,True,medio
+split_508c83fdf03e46f2,1,7,7,3,Mendoza al 300,95000.0,230000.0,0,True,medio
+split_527e49de0208bdc8,1,7,7,2,Belgrano 900,65000.0,575000.0,0,True,medio
+split_554c7165e5636757,1,7,7,3,9 de Julio 4380,75000.0,79000.0,0,True,medio
+split_6c4c2a7439d640e8,1,7,7,3,Pasco 1333,25000.0,135000.0,0,True,medio
+split_88531707d8c5c4e4,1,7,7,5,9 de Julio 1546,53000.0,250000.0,0,True,medio
+split_9a53ad710825b8cf,1,7,7,1,Sarmiento 700,58000.0,188000.0,0,True,medio
+split_9e58cf423512aa1f,1,7,7,3,Maipu al 700,45000.0,102000.0,0,True,medio
+split_a01daf116a5625a1,1,7,7,3,Buenos Aires 880,47000.0,280000.0,0,True,medio
+split_ac5d6819ebfad316,1,7,7,4,Zeballos  al 1600,45000.0,180000.0,0,True,medio
+split_b574412cfd5ec555,1,7,7,6,"Córdoba 1749, Rosario, Santa Fe, Argentina.",78000.0,480000.0,0,True,medio
+split_b76948ccc448375e,1,7,7,3,Pasaje Tarrico al 800,206800.0,730000.0,0,True,medio
+split_c2bd1141489136d2,1,7,7,4,Maipu 1975,24000.0,63345.0,0,True,medio
+split_cb3f868a9053f65e,1,7,7,2,Córdoba  4000 - Piso 2º Dpto 05,44000.0,70000.0,0,True,medio
+split_cc57aa49fe05a29e,1,7,7,2,Chacabuco al 1800,50000.0,70200.0,0,True,medio
+split_ccf098c4a747be4e,1,7,7,3,Cochabamba 515 - Local Comercial,55000.0,225000.0,0,True,medio
+split_dc3ccaad11f00877,1,7,7,3,Juan Manuel De Rosas 1200,35000.0,138000.0,0,True,medio
+split_de1c0b7aacd1bd3d,1,7,7,5,Maipu 1127,53000.0,75000.0,0,True,medio
+split_ed3a697e44c5364f,1,7,7,3,San Martin 876 &#x27;12d,35000.0,65000.0,0,True,medio
+split_f13ddd8c2c506b93,1,7,7,2,Mendoza al 3000,63900.0,120000.0,0,True,medio
+split_f21c88298c37a427,1,7,7,2,Entre Rios al 300,66000.0,155000.0,0,True,medio
+split_f78b73f249617b49,1,7,7,2,Bv. Avellaneda Bis al 1000,139000.0,490000.0,0,True,medio
+split_ff9cd1b3410e8f9b,1,7,7,3,Catamarca  al 1200,68000.0,260000.0,0,True,medio
+split_0ede3a1d52d43bc7,1,6,6,1,Nuestra Señora de Lourdes,84240.0,212400.0,6,False,medio
+split_1fe77d249124d0b2,6,6,6,1,Santa FE al 1100,149000.0,370000.0,6,True,medio
+split_362522a9786ccd06,6,6,6,1,Santa Fe  al 1600,35000.0,134900.0,6,True,medio
+split_3ffc07ccdb72560e,6,6,6,1,Santa Fe 1300,67000.0,189000.0,6,True,medio
+split_4129aa2920ea5140,6,6,6,1,Santa FE  al 2300,52000.0,240000.0,6,True,medio
+split_460b9fbee30dd103,1,6,6,1,Cordoba  y Suipacha,142348.0,191000.0,6,False,medio
+split_6032f515e6d7eb78,6,6,6,1,27 de Febrero y Presidente Roca,79962.0,122902.0,6,True,medio
+split_d7a8c5c0c1de9355,1,6,6,1,Ov. Lagos y Mendoza,50000.0,320000.0,6,False,medio
+split_c80a4b9c4f6cd4d7,1,6,6,3,Presidente Roca 1453,40000.0,68000.0,3,True,medio
+split_76cd39615842dad6,1,6,6,4,9 de Julio  751,42500.0,219500.0,2,True,medio
+split_cd2b84d12a7d1e99,1,6,6,3,San Lorenzo 3764,29000.0,47000.0,2,True,medio
+split_0554df7ae36966c0,1,6,6,2,Av. Pellegrini 4040,43000.0,195000.0,1,True,medio
+split_0aaa22acf1735985,1,6,6,3,Catamarca 3057,215000.0,235000.0,1,True,medio
+split_26261c352adbcd7d,1,6,6,3,Alem 1658,45000.0,83000.0,1,True,medio
+split_3fe0314ec45f9ed0,1,6,6,3,San Juan 2288,76800.0,297621.0,1,True,medio
+split_478478fd9a171a03,1,6,6,3,Ituzaingo 668,43487.0,220000.0,1,True,medio
+split_4a8b275c7c8a1924,1,6,6,4,1 de Mayo 874,199000.0,460000.0,1,True,medio
+split_5f25994c3ad7dec1,1,6,6,2,Mariano Moreno 323,92000.0,418880.0,1,True,medio
+split_6dd64398aa774e66,1,6,6,4,Jujuy  al 3200 Esquina Vera Mujica.,55000.0,66800.0,1,True,medio
+split_797dee901d1c8037,1,6,6,3,Laprida 1200,52000.0,135000.0,1,True,medio
+split_95aa5b8355c6bb7b,1,6,6,2,Esmeralda  al 2400,39000.0,55000.0,1,True,medio
+split_d327868c42d4ecf9,1,6,6,5,Catamarca  1971 02 B - VENTA Departamento 1 Dormitorio,130000.0,326600.0,1,True,medio
+split_09b1d5e145272fe5,1,6,6,2,Corrientes al 1400,79000.0,118000.0,0,True,medio
+split_0cd3cbbf3620197b,1,6,6,3,Dorrego al 800,44900.0,173000.0,0,True,medio
+split_0d9fc8a7609a8166,1,6,6,3,España 616,87000.0,200000.0,0,True,medio
+split_0df85f62d1c8d714,1,6,6,1,Ocampo 1500,40000.0,149000.0,0,True,medio
+split_12f6ef831945b5f0,1,6,6,4,Urquiza 2771,54000.0,78000.0,0,True,medio
+split_1e98b3466e0475c2,1,6,6,1,Avenida Pellegrini al 3800,134000.0,230375.0,0,True,medio
+split_245b9fbff2055be8,1,6,6,4,Urquiza 1358,42000.0,190000.0,0,True,medio
+split_38b445543fbdc2f0,1,6,6,1,Cochabamba  al 300,42000.0,120000.0,0,True,medio
+split_38b9e77a9f67c0cf,1,6,6,3,Entre Rios al 200,98000.0,220000.0,0,True,medio
+split_4079216e56df280c,1,6,6,4,San Lorenzo 1236,60000.0,102000.0,0,True,medio
+split_41a7122cde75a92a,1,6,6,1,Rodriguez al 1600,200000.0,299000.0,0,True,medio
+split_42cd64c57f15f274,1,6,6,4,Tucumán al 1500,45000.0,210000.0,0,True,medio
+split_6c7186a3afd121a4,1,6,6,2,Juan Manuel De Rosas 1939,98500.0,190000.0,0,True,medio
+split_6fbee3c47da64e31,1,6,6,4,San Luis al 1486,88000.0,180000.0,0,True,medio
+split_77a3c5c35480e967,1,6,6,3,España 900,88000.0,240000.0,0,True,medio
+split_7eea5198a7e9b37a,1,6,6,4,Brown 1600,128000.0,550000.0,0,True,medio
+split_832b3c781d8ae0a4,1,6,6,4,Vera Mujica al 500,35000.0,65000.0,0,True,medio
+split_84462a2c3e0a8856,1,6,6,5,Mendoza  al 600,70000.0,185000.0,0,True,medio
+split_853874a8eb5dd3f1,1,6,6,3,URQUIZA 1125,65000.0,150000.0,0,True,medio
+split_8b26372293718b5f,1,6,6,1,Bv. Oroño  al 600,105000.0,380000.0,0,True,medio
+split_976e707c19160a80,1,6,6,6,Cordoba al 2500,73000.0,150000.0,0,True,medio
+split_9f0fbaae29ce2bdc,1,6,6,3,San Juan 2390,52000.0,320000.0,0,True,medio
+split_aa18762913114813,1,6,6,5,Córdoba 775,105000.0,280000.0,0,True,medio
+split_b352c4bd5db74964,1,6,6,3,Paraguay 1426,52000.0,149000.0,0,True,medio
+split_beb813b1904ca337,1,6,6,4,Corrientes 1058,75000.0,300000.0,0,True,medio
+split_c058e405ed6d2447,1,6,6,4,3 de Febrero 1067,27500.0,120000.0,0,True,medio
+split_c14a1c85c36447e7,1,6,6,3,Iriondo al 400,42000.0,49000.0,0,True,medio
+split_c229177abbd55725,1,6,6,2,Zeballos  al 2500,65000.0,259000.0,0,True,medio
+split_d8e0220c7419e39f,1,6,6,3,Avenida Rivadavia 2297,130000.0,395000.0,0,True,medio
+split_ddd0f2c4c08b2857,1,6,6,1,Pellegrini 1700,215000.0,335000.0,0,True,medio
+split_e282b1c9d453a0ac,1,6,6,4,Avenida Libertad 167 9,450000.0,580000.0,0,True,medio
+split_ea35a8dd050e1dc2,1,6,6,2,Cordoba 955,60000.0,160000.0,0,True,medio
+split_f082bdeb597abbc4,1,6,6,2,Necochea 1700,49500.0,65000.0,0,True,medio
+split_fc63e0381e1bd2a1,1,6,6,2,Bv. Oroño al 800,230000.0,440000.0,0,True,medio
+split_3117b04340787745,5,5,5,1,Santa Fe 3300,45000.0,67500.0,5,True,medio
+split_7192e73489bde35d,5,5,5,1,Santa Fe al 2500,46000.0,107000.0,5,True,medio
+split_9b241f251e796315,1,5,5,3,Av. Pellegrini 458,101000.0,215000.0,3,True,medio
+split_1ae120fd794a8c82,1,5,5,3,Pellegrini al 800 5°,48000.0,350000.0,2,True,medio
+split_5960f8f0b6ba78b5,1,5,5,1,Dorrego al 1500,72000.0,160200.0,2,True,medio
+split_c31e86eace965452,1,5,5,1,Pellegrini al 1400,152480.0,152480.0,2,True,medio
+split_e7ecdcfdea59dd49,1,5,5,3,Cochabamba  1300,65000.0,251000.0,2,True,medio
+split_36263825bced5c38,1,5,5,2,Crespo al 300,49800.0,65000.0,1,True,medio
+split_569b4b752614f246,1,5,5,2,Richieri 357,90000.0,180000.0,1,True,medio
+split_73e0acea2091ce6a,1,5,5,4,España 1612,59000.0,95000.0,1,True,medio
+split_81dbd0aecee51510,1,5,5,1,Italia  27  Bis,26379.0,371235.0,1,True,medio
+split_82def117f98795db,1,5,5,3,1º de Mayo 1472,62200.0,69500.0,1,True,medio
+split_a5af23313c140532,1,5,5,2,Rodriguez 779,76300.0,120942.0,1,True,medio
+split_b545b3e20ec8640b,1,5,5,3,Cochabamba 1425,86063.0,174878.0,1,True,medio
+split_e6bce47cddd2cd4d,1,5,5,4,cerrito 583,45000.0,58000.0,1,True,medio
+split_062baf868d17ae6a,1,5,5,2,Rivadavia  al 2000,325000.0,670000.0,0,True,medio
+split_06c5503d939a697b,1,5,5,2,Dorrego 1114,61500.0,125000.0,0,True,medio
+split_0745381876363807,1,5,5,2,Mariano Moreno 1151,27125.0,355000.0,0,True,medio
+split_0a86dd94b5537375,1,5,5,3,Martín Rodríguez 1235,65000.0,175000.0,0,True,medio
+split_0d8397a466a7bf40,1,5,5,4,Rioja 1250. Amplio Loft.,51000.0,220000.0,0,True,medio
+split_11c4cb46ac62f3e4,1,5,5,3,Bv. Avellaneda al 700 Bis,60000.0,135000.0,0,True,medio
+split_151529ed61407dcd,1,5,5,2,San Luis  al 3200,97000.0,112000.0,0,True,medio
+split_179792213c49d5d3,1,5,5,3,España 1400,120000.0,268000.0,0,True,medio
+split_21273435b0e60f32,1,5,5,4,mendoza 550,60000.0,399000.0,0,True,medio
+split_287ef15960b942c3,1,5,5,3,Italia 800,96000.0,325000.0,0,True,medio
+split_29af354cdc96f1df,1,5,5,4,Salta  3273 - 2 Piso A,55000.0,165000.0,0,True,medio
+split_3c3f3b1fc60bbc2f,1,5,5,3,LAPRIDA 1060,35000.0,270000.0,0,True,medio
+split_4b0cc93bb7102d62,1,5,5,3,Cordoba  al 1500,120000.0,450000.0,0,True,medio
+split_5710d01568ee270b,1,5,5,2,Buenos Aires al 2200,48500.0,52000.0,0,True,medio
+split_59c950c603fe3a9e,1,5,5,4,Jujuy 2890  (03-13),195000.0,292000.0,0,True,medio
+split_5bfceb6e53f4eaea,1,5,5,4,Suipacha 763 &#x27;1B,57000.0,79000.0,0,True,medio
+split_5f29c6fe5b3172e1,1,5,5,4,Alsina 1237,28000.0,110000.0,0,True,medio
+split_70a78049b1d57c9a,1,5,5,3,Balcarce 1355,202549.0,232931.0,0,True,medio
+split_76f3cf67958188d0,1,5,5,3,Sarmiento al 500,36000.0,78000.0,0,True,medio
+split_799456c4a7b9ae09,1,5,5,3,Cordoba al 3600,35900.0,52000.0,0,True,medio
+split_7a1ce69749f68f7e,1,5,5,4,San Juan 719,40000.0,118000.0,0,True,medio
+split_7b1bb2e08da1b143,1,5,5,4,Francia 269 bis,84000.0,680000.0,0,True,medio
+split_7e5446c96cdf1a92,1,5,5,1,Mendoza  al 2200,69000.0,325000.0,0,True,medio
+split_7face276718a4152,1,5,5,3,Jujuy al 3166,50000.0,199000.0,0,True,medio
+split_8c42882fd050b071,1,5,5,3,Urquiza al 1600,70000.0,118000.0,0,True,medio
+split_8dfc7a9e34937897,1,5,5,2,Urquiza  al 3700,46000.0,75000.0,0,True,medio
+split_956c511c72cf5701,1,5,5,3,Buenos Aires al 1600,35000.0,152500.0,0,True,medio
+split_969819cd86bed46f,1,5,5,4,Pellegrini  al 1200,75000.0,140000.0,0,True,medio
+split_a5ab5f196c1022f6,1,5,5,3,Suipacha 1139,56200.0,56200.0,0,True,medio
+split_a7543944a0db575e,1,5,5,2,Rioja  al 1300,65000.0,87000.0,0,True,medio
+split_a99b19d7b2761288,1,5,5,2,Corrientes  al 1600,67000.0,230000.0,0,True,medio
+split_af8d832dbc931f9a,1,5,5,2,Güemes 2500,60000.0,431000.0,0,True,medio
+split_b6801413fe76a0c5,1,5,5,3,9 de Julio 2051,52000.0,192182.0,0,True,medio
+split_bfaa24f7999c2255,1,5,5,3,Guemes al 2600,57000.0,132000.0,0,True,medio
+split_c1f41738c3c739c8,1,5,5,3,Bv. Oroño 174 bis &#x27;3A,44500.0,130000.0,0,True,medio
+split_c2038d99085837d2,1,5,5,3,Pasco 379,51000.0,125000.0,0,True,medio
+split_ccbc6f96e280758e,1,5,5,2,Presidente Roca 129,65000.0,373000.0,0,True,medio
+split_d7d8f75ca814fff4,1,5,5,1,Francia al 1500,37500.0,55500.0,0,True,medio
+split_dc0b13b487c2e275,1,5,5,5,Juan Manuel De Rosas 929,55000.0,200000.0,0,True,medio
+split_de04a2542d38588e,1,5,5,2,España  al 1200,70000.0,220000.0,0,True,medio
+split_e4e4be85c1720ef8,1,5,5,2,Callao AL 900,70000.0,180000.0,0,True,medio
+split_e66d17dbe0e93465,1,5,5,2,Presidente Roca 212,79000.0,189000.0,0,True,medio
+split_e7a1ec6f4b2478f1,1,5,5,2,Rioja 1418,70000.0,240000.0,0,True,medio
+split_eb51313bf3066194,1,5,5,3,San Luis 470,180000.0,500000.0,0,True,medio
+split_ee88b133bdf4c863,1,5,5,3,Corrientes al 200,105000.0,360000.0,0,True,medio
+split_f540e6244d39e0d6,1,5,5,1,Salta 1600,152000.0,350000.0,0,True,medio
+split_f691a20b08884cf5,1,5,5,3,9 de Julio 100,59000.0,420000.0,0,True,medio
+split_f9334161565a35a8,1,5,5,2,Balcarce 740,33000.0,285000.0,0,True,medio
+split_fb7ba3975d90e90a,1,5,5,4,Mitre 1488,55000.0,97000.0,0,True,medio
+split_19a3ac5d381da4c8,1,4,4,1,Midtown - Santiago y Tucuman,151100.0,472900.0,4,False,bajo
+split_42b06c52bf50ec01,4,4,4,1,Santa Fe 2450,180000.0,228842.0,4,True,bajo
+split_4e7669a690bc0a57,1,4,4,1,Montevideo y Av. San Martin,200000.0,324000.0,4,False,bajo
+split_8d2f8a282104d9fb,1,4,4,1,Vera Mujica y 3 de Febrero,42500.0,62000.0,4,False,bajo
+split_8ff428bb5a6587d5,1,4,4,1,Pichincha,72220.0,196080.0,4,False,bajo
+split_d5ef82137a2eb23b,4,4,4,3,27 de febrero 700,83000.0,110000.0,4,True,bajo
+split_f21878c0e54124fd,1,4,4,1,Salta y Balcarce,90000.0,245721.0,4,False,bajo
+split_f799608a399881b5,1,4,4,1,Belgrano y Maipu,253000.0,520000.0,4,False,bajo
+split_33b0245b3351fdb2,1,4,4,2,Callao 700,117000.0,340000.0,2,True,bajo
+split_5096c2542c64d2a5,1,4,4,2,Bv. Avellaneda 981,42000.0,139000.0,2,True,bajo
+split_bbf1ba48f024b49b,1,4,4,3,Zeballos 1184,82500.0,156500.0,2,True,bajo
+split_0633db97d0e3fbc2,1,4,4,1,Jujuy al 1400,90000.0,550000.0,1,True,bajo
+split_297185d69e213a77,1,4,4,1,Av Francia 97,55575.0,124754.0,1,True,bajo
+split_2a6b11337bf3a978,1,4,4,3,Montevideo 1876,25000.0,85000.0,1,True,bajo
+split_2d0e3e94cc23b053,1,4,4,3,Cochabamba al 1600,57600.0,227250.0,1,True,bajo
+split_49f8141e94ea6e43,1,4,4,3,URQUIZA 2485,78000.0,199700.0,1,True,bajo
+split_5f5052c0ac45b432,1,4,4,2,Catamarca 1673,44900.0,139000.0,1,True,bajo
+split_63b2a9bebc223b7d,1,4,4,2,Montevideo al 677,56000.0,160000.0,1,True,bajo
+split_6d8f256e93e6ee2c,1,4,4,1,Riobamba 1300,89600.0,270000.0,1,True,bajo
+split_9c179045055d09b0,1,4,4,2,San Nicolás 367,30000.0,52000.0,1,True,bajo
+split_9fc34c7956596fdd,1,4,4,2,Amenabar al 1200,30000.0,33000.0,1,True,bajo
+split_b13f0682102f3553,1,4,4,4,9 De Julio  2642,70000.0,110000.0,1,True,bajo
+split_b23a2ddb756f3931,1,4,4,3,Maipu 559 - Edificio Castagnino,60000.0,265300.0,1,True,bajo
+split_b43ad0eebe83b59d,1,4,4,1,Pellegrini al 1900,238740.0,256740.0,1,True,bajo
+split_b7d8e78a25c6aac9,1,4,4,3,"Jujuy 1539, S2000 Rosario, Santa Fe, Argentina, Rosario, Santa Fe, Argentina.",40000.0,270000.0,1,True,bajo
+split_c24f6d54a2bb9c53,1,4,4,2,Mendoza al 2600,62000.0,245000.0,1,True,bajo
+split_d941d1a5aedb9e8c,1,4,4,1,Crespo al 1500,95100.0,168800.0,1,True,bajo
+split_e2459e1ebd4436c3,1,4,4,3,Constitución 627,40000.0,70000.0,1,True,bajo
+split_0553adee9d50d0e1,1,4,4,2,Juan Manuel de Rosas 1300,60000.0,130000.0,0,True,bajo
+split_05b9863af5c44c4e,1,4,4,4,Lavalle 1500,30000.0,65000.0,0,True,bajo
+split_0782c3bfd046b1c0,1,4,4,2,Pueyrredon al 600,67000.0,95000.0,0,True,bajo
+split_07e17084028c92dc,1,4,4,2,9 de Julio  al 1900,45000.0,189000.0,0,True,bajo
+split_07e8e2a9f2977f27,1,4,4,1,3 de Febrero 53,285000.0,380000.0,0,True,bajo
+split_0913b5d5be509769,1,4,4,2,Corrientes 483,77000.0,110000.0,0,True,bajo
+split_0a76ba8973285632,1,4,4,2,Avenida Pellegrini al 1900,168000.0,249000.0,0,True,bajo
+split_0b773441a1728103,1,4,4,2,Cafferata  al 300,38700.0,80000.0,0,True,bajo
+split_0d40f5e9b8679cd3,1,4,4,2,Cerrito  al 1200,48000.0,122000.0,0,True,bajo
+split_1188c8764ded026f,1,4,4,4,Jujuy 1764 &#x27;7A,149000.0,189000.0,0,True,bajo
+split_11904a138ccac635,1,4,4,2,Montevideo al 300,85000.0,115000.0,0,True,bajo
+split_123eed3ea54063c3,1,4,4,1,Tucuman  al 1300,49500.0,54000.0,0,True,bajo
+split_152840db5fdcee10,1,4,4,2,Mendoza 3867,80000.0,125000.0,0,True,bajo
+split_16b3706990a134fa,1,4,4,2,Paraguay 200,60500.0,90000.0,0,True,bajo
+split_172f2c9ae6d89af5,1,4,4,1,Av del Valle 2799,256900.0,493305.0,0,True,bajo
+split_1be500242d7e3f19,1,4,4,3,Av Pellegrini al 1400,55000.0,172000.0,0,True,bajo
+split_22bfbddd9a2a9646,1,4,4,1,Suipacha al 1200,85500.0,125000.0,0,True,bajo
+split_23433739fbeab0f9,1,4,4,3,BALCARCE 1449,85000.0,321000.0,0,True,bajo
+split_29d3ad3f0f988f8a,1,4,4,4,Corrientes 2200,39000.0,98000.0,0,True,bajo
+split_2de3cbcb46f0e3df,1,4,4,1,Avenida Pellegrini 300,65000.0,105000.0,0,True,bajo
+split_33838347c5711608,1,4,4,2,Montevideo al 1300,33900.0,120000.0,0,True,bajo
+split_36ec57c8e8be3249,1,4,4,4,España 741,60000.0,80000.0,0,True,bajo
+split_3863829f8fe4337a,1,4,4,3,Salta 1300 - 1 Dorm + Comodin + Patio- U$s857xm2,72000.0,125000.0,0,True,bajo
+split_3afbfe4fa8a7dd0b,1,4,4,3,Entre Ríos 1137 - Rosario,53000.0,180000.0,0,True,bajo
+split_3fd6d2b8f09efe91,1,4,4,2,Balcarce Bis 100,115000.0,375000.0,0,True,bajo
+split_436add044e4d96d5,1,4,4,3,Buenos Aires 2000,40000.0,140000.0,0,True,bajo
+split_457b8583a06efd9a,1,4,4,3,Necochea 2377,28000.0,40000.0,0,True,bajo
+split_48512eac4eaab025,1,4,4,3,Balcarce al 400,49900.0,110000.0,0,True,bajo
+split_4f33e21e9f05ce17,1,4,4,2,Dorrego al 700,195000.0,275000.0,0,True,bajo
+split_52bb1d0a13f4f83e,1,4,4,2,Ayacucho al 1900,120000.0,165000.0,0,True,bajo
+split_54ad838ac328f893,1,4,4,4,pellegrini 652,68000.0,95000.0,0,True,bajo
+split_55d78ea346c2a969,1,4,4,4,Mendoza 2546,52000.0,240000.0,0,True,bajo
+split_5c5928a96ca3a112,1,4,4,1,Chacabuco al 1300,525000.0,590000.0,0,True,bajo
+split_60e98f0d7d54e9a1,1,4,4,2,Ituzaingo 300 - Departamento Loft Divido a 1 Dormitorio,33900.0,65000.0,0,True,bajo
+split_6252363f1f48e7c2,1,4,4,1,3 de Febrero al 2400,61500.0,86000.0,0,True,bajo
+split_655b2cb99f704784,1,4,4,3,Avenida del Huerto 1115,95000.0,380000.0,0,True,bajo
+split_6b9a60a2569af375,1,4,4,2,Sarmiento al 400,66000.0,109000.0,0,True,bajo
+split_6e5f542308d7602b,1,4,4,2,Corrientes 1800,59500.0,140000.0,0,True,bajo
+split_7052e8ed706c8e1b,1,4,4,2,Entre Ríos 1781,139000.0,150000.0,0,True,bajo
+split_705f2fa8f61cfb83,1,4,4,2,Eva Perón 4917,69000.0,130000.0,0,True,bajo
+split_708dc1a22ae427e5,1,4,4,2,Córdoba al 500,300000.0,330000.0,0,True,bajo
+split_71050ecc15b656db,1,4,4,1,Vera Mujica  al 700,82000.0,155000.0,0,True,bajo
+split_724bc840a5ead6b3,1,4,4,1,Presidente Roca al 1800,48000.0,70000.0,0,True,bajo
+split_783bcfbd3f2a7962,1,4,4,1,Italia Bis 27,202090.0,507983.0,0,True,bajo
+split_78507fc105f50901,1,4,4,4,Crespo 172 y Salta. - Monoambiente con Balcón,46500.0,79000.0,0,True,bajo
+split_7dc279173f2e5800,1,4,4,1,Jujuy Y Richieri  al 2800,162800.0,315500.0,0,True,bajo
+split_7deaf554de75cbef,1,4,4,2,Alvear 1182,94000.0,130000.0,0,True,bajo
+split_7e66b3d72cb74d3a,1,4,4,2,San Luis al 700,32000.0,135000.0,0,True,bajo
+split_7f943f924e85d84f,1,4,4,4,MAIPU 1090,78000.0,135000.0,0,True,bajo
+split_7fa010fc7617bbd8,1,4,4,2,3 de Febrero 1744,57000.0,91000.0,0,True,bajo
+split_802d2fafc9838f60,1,4,4,4,Oroño   1100 2°,85000.0,260000.0,0,True,bajo
+split_839d2874886265cc,1,4,4,1,Corrientes  al 600,65000.0,95000.0,0,True,bajo
+split_841542bdec6d1a7f,1,4,4,3,Av Francia al 1600,42000.0,65000.0,0,True,bajo
+split_8d6b99b1ea20c3b1,1,4,4,3,Italia 310,57000.0,130000.0,0,True,bajo
+split_8f47d2d82e5b69a1,1,4,4,1,Urquiza al 3500,27000.0,97000.0,0,True,bajo
+split_912ec075089f012f,1,4,4,2,Tucumán al 2100,110000.0,380000.0,0,True,bajo
+split_91e0b338c49dc648,1,4,4,3,Rioja al 4400,29000.0,40000.0,0,True,bajo
+split_94e338e9ec5d8d6e,1,4,4,3,Catamarca 3173,69000.0,169000.0,0,True,bajo
+split_953b7cd1c27776ad,1,4,4,1,Oroño al 800,279000.0,395000.0,0,True,bajo
+split_967494184228c8e0,1,4,4,3,Ovidio Lagos  al 100,59800.0,68000.0,0,True,bajo
+split_987e5fdf22325e17,1,4,4,2,Urquiza 1783,46000.0,165000.0,0,True,bajo
+split_9985b8687dde3601,1,4,4,1,Ovidio Lagos al 600,57000.0,130000.0,0,True,bajo
+split_9b4c4620797a5425,1,4,4,2,Zeballos 1220. Entre Entre ríos y Mitre,52000.0,184000.0,0,True,bajo
+split_a0785c44d241ae14,1,4,4,1,Maipu al 2000,48000.0,77000.0,0,True,bajo
+split_a637aea720fca92d,1,4,4,3,Rodriguez al 600,65000.0,65000.0,0,True,bajo
+split_ae6e902df1d1bde1,1,4,4,2,Zeballos al 600,45000.0,198000.0,0,True,bajo
+split_b2241cce5f48e46f,1,4,4,2,Laprida 1766,64500.0,240000.0,0,True,bajo
+split_b793f8dd53418872,1,4,4,2,Primero de Mayo al 1100,49000.0,53000.0,0,True,bajo
+split_bae4bc0da5d2134b,1,4,4,3,Riobamba 762,35000.0,75000.0,0,True,bajo
+split_bc18069bed1dd884,1,4,4,2,Laprida al 1600,52000.0,130000.0,0,True,bajo
+split_c09ce931aaf6e82d,1,4,4,2,Wheelwright 1461 13 C Apto Crédito,170000.0,330000.0,0,True,bajo
+split_c674353a8e782129,1,4,4,4,Salta 3503 05-05,35000.0,136080.0,0,True,bajo
+split_c812e086d1584097,1,4,4,1,Laprida 2000,37000.0,52000.0,0,True,bajo
+split_ca3c045391c2c516,1,4,4,3,Paraguay 819,350000.0,350000.0,0,True,bajo
+split_cb8dddd067a42381,1,4,4,2,Cochabamba  al 200,31000.0,54900.0,0,True,bajo
+split_d00a2babc6dba40f,1,4,4,2,San Juan  al 3300 - 6° Piso,75000.0,85000.0,0,True,bajo
+split_d06f36b97c44686a,1,4,4,2,Maipú 2500,53000.0,78000.0,0,True,bajo
+split_d3d862f116b0b784,1,4,4,2,España  al 1582,78000.0,280000.0,0,True,bajo
+split_d6e8aa4da16dcdf5,1,4,4,2,Jujuy al 2100,90500.0,395000.0,0,True,bajo
+split_dc3da6fef4e9a7fa,1,4,4,1,Entre Ríos  al 1400,210000.0,210000.0,0,True,bajo
+split_dd0f3b9c81101b08,1,4,4,2,Avenida Pellegrini 2632,99000.0,172000.0,0,True,bajo
+split_ddaa4fc18347b224,1,4,4,1,Francia 1400,62000.0,175600.0,0,True,bajo
+split_dec6c6b36d312073,1,4,4,3,España 437,60000.0,160000.0,0,True,bajo
+split_e38298e2d44a7818,1,4,4,2,Ayacucho al 2000,75000.0,115000.0,0,True,bajo
+split_e399e1289683f96c,1,4,4,2,Montevideo al 3400,33000.0,155000.0,0,True,bajo
+split_e98cacee80f7a1ed,1,4,4,2,Pueyrredón 1260,60000.0,155000.0,0,True,bajo
+split_ea6b8fe35364b9a8,1,4,4,2,Laprida 600,265000.0,265000.0,0,True,bajo
+split_ece0d92dc73c005d,1,4,4,4,Constitución 1028 &#x27;piso 10,49000.0,89000.0,0,True,bajo
+split_eeaa8232cf33744b,1,4,4,1,Necochea al 2400,85000.0,95000.0,0,True,bajo
+split_f5f64d567ac6945a,1,4,4,1,Ovidio Lagos 500,50000.0,110000.0,0,True,bajo
+split_f66263c1e591d500,1,4,4,1,Av de la Libertad  al 100,345000.0,450000.0,0,True,bajo
+split_f8b6fa821ec67d42,1,4,4,3,Presidente Roca 1383,54000.0,90000.0,0,True,bajo
+split_f8f284292912c034,1,4,4,4,Montevideo 1513,33000.0,85000.0,0,True,bajo
+split_fa420155cb25663f,1,4,4,3,Chacabuco al 1200,59000.0,250000.0,0,True,bajo
+split_fb19822da8262568,1,4,4,2,Laprida 1873,200000.0,280000.0,0,True,bajo
+split_fc085d9b04d85876,1,4,4,2,Viamonte  al 595,36000.0,130000.0,0,True,bajo
+split_fdce7bb4ebda0cc4,1,4,4,2,Presidente Roca  al 1900 Local Comercial Ocean XVI,57750.0,237600.0,0,True,bajo
+split_2f03bd6a4c4866f7,3,3,3,1,Santa Fe al 800,100000.0,150000.0,3,True,bajo
+split_35fc12a457e177ac,1,3,3,1,República de la Sexta,192348.0,298986.0,3,False,bajo
+split_381f9698f530784d,1,3,3,1,Córdoba y Rodríguez,156000.0,178000.0,3,False,bajo
+split_38ad01288bd19e90,1,3,3,1,San Martín y Tucumán,237000.0,310000.0,3,False,bajo
+split_4cf2dc3a65fcd842,1,3,3,1,Martin,208000.0,285000.0,3,False,bajo
+split_544dae97a68a0f91,1,3,3,1,Córdoba / Suipacha - 2 Dorm,127364.0,166500.0,3,False,bajo
+split_590414f0c9c1f329,1,3,3,1,Pellegrini y 1 de Mayo,101000.0,237000.0,3,False,bajo
+split_5d34c4212709b3d2,1,3,3,1,Italia,136128.0,372581.0,3,False,bajo
+split_6365839071d669ed,3,3,3,1,Santa Fe al 4000,37000.0,65000.0,3,True,bajo
+split_6c39f63109c5f83f,3,3,3,1,Santa Fe  al 3200,42000.0,67000.0,3,True,bajo
+split_6d3f42f5ffece00e,1,3,3,1,Jujuy Esquina Pichincha,216000.0,292000.0,3,False,bajo
+split_77f0747dcc52f274,1,3,3,1,sarmiento 2941,45000.0,70000.0,3,True,bajo
+split_795e14032aa32269,1,3,3,1,Santiago 0,73710.0,311950.0,3,False,bajo
+split_82a3978449a90b30,3,3,3,1,Santa Fe 839,100000.0,100000.0,3,True,bajo
+split_a0b3734149fd3b18,1,3,3,1,Ovidio Lagos y 9 de Julio,298288.0,535700.0,3,False,bajo
+split_a2b09f8d7d5994bc,1,3,3,1,Dorrego 0,70000.0,170000.0,3,False,bajo
+split_b7211934391d07d6,1,3,3,1,Único Bisart – Santiago y Brown,203000.0,469800.0,3,False,bajo
+split_c44fa0f4382613ed,1,3,3,1,Catamarca y Mitre,169600.0,222100.0,3,False,bajo
+split_db6c024359ffc257,1,3,3,1,Mariano Moreno 0,55000.0,105000.0,3,False,bajo
+split_e141342d46212cc0,3,3,3,1,"Santa Fe al 2200,  Centro, Rosario",82000.0,133000.0,3,True,bajo
+split_ebcae8c6f271ecbf,3,3,3,1,Santa FE AL 2600,41500.0,51000.0,3,True,bajo
+split_ef641bf4bf67deaa,1,3,3,1,Córdoba y Paraguay,195000.0,430000.0,3,False,bajo
+split_fd3087bbffcd7a46,3,3,3,1,Santa Fe 1644,38000.0,70000.0,3,True,bajo
+split_fe11e7bc1b46f8f5,1,3,3,1,Catamarca  y España,118000.0,294000.0,3,False,bajo
+split_2ea29ba5a5b656c6,1,3,3,3,San Luis al 2700,75000.0,93000.0,2,True,bajo
+split_74cbc6b6cd802bb6,1,3,3,2,Riccheri 105,274987.0,275000.0,2,True,bajo
+split_ba3dd9b6d1d9259b,1,3,3,2,España 110,110000.0,455000.0,2,True,bajo
+split_fe1cbc9fe574dfe7,1,3,3,2,Ov. Lagos 1200,58000.0,63000.0,2,True,bajo
+split_1d5769c5209ee098,1,3,3,2,Av Francia  al 900,32000.0,110000.0,1,True,bajo
+split_31f6829d246bd383,1,3,3,1,Entre Rios al 1300,138000.0,168000.0,1,True,bajo
+split_5420145784511254,1,3,3,2,9 De Julio 1608,85000.0,150000.0,1,True,bajo
+split_5e98d6b69f6aef29,1,3,3,1,Ituzaingo 1713,40000.0,48000.0,1,True,bajo
+split_639a3db3837a84e8,1,3,3,2,Roca 153,182000.0,373056.0,1,True,bajo
+split_79610672af2f9ea5,1,3,3,2,PRESIDENTE ROCA 338,70000.0,130000.0,1,True,bajo
+split_79c9bab1ada397de,1,3,3,2,San Lorenzo al 1800,38500.0,105000.0,1,True,bajo
+split_afbf5f138e8f5a90,1,3,3,1,Belgrano 100,80000.0,260000.0,1,True,bajo
+split_c2b55ec02ec4952c,1,3,3,1,SANTIAGO 60 BIS,29500.0,285000.0,1,True,bajo
+split_c37011a61ebe673b,1,3,3,2,Brown 2058,25000.0,350000.0,1,True,bajo
+split_f24d785116c2b460,1,3,3,2,Italia 900,75000.0,125000.0,1,True,bajo
+split_0353a7073dd61eeb,1,3,3,2,Catamarca 3762,41500.0,74800.0,0,True,bajo
+split_0467bf5003f926ae,1,3,3,1,Pasaje Santa Cruz al 300,190000.0,210000.0,0,True,bajo
+split_08f7646a4c9371af,1,3,3,2,Ituzaingo al 100,38000.0,145000.0,0,True,bajo
+split_099a59929b911f48,1,3,3,3,Ricchieri 1270 (01-03),119000.0,250000.0,0,True,bajo
+split_0d8efcf145c36bc8,1,3,3,3,Juan B. Justo  al 1700 Depto A,69900.0,70000.0,0,True,bajo
+split_0e766dde1d3ddfca,1,3,3,1,Sarmiento  al 1900,97000.0,110000.0,0,True,bajo
+split_0e8982f1714ea2d0,1,3,3,2,Rioja 1835,76000.0,240000.0,0,True,bajo
+split_10a6dc9159636e08,1,3,3,1,Dorrego 69 bis,290000.0,410000.0,0,True,bajo
+split_1308690da96f8732,1,3,3,1,Av. Pellegrini al 600,63000.0,420000.0,0,True,bajo
+split_13767c032ed85c9b,1,3,3,1,Aristobulo del Valle 2799,652103.0,808827.0,0,True,bajo
+split_14e768f0bd265e94,1,3,3,2,3 de Febrero al 2600,44000.0,48000.0,0,True,bajo
+split_1567c9fd73c1bbf8,1,3,3,1,Caferata al 900,96000.0,118000.0,0,True,bajo
+split_16712b185bf941b5,1,3,3,2,Rodriguez 2900,30000.0,34000.0,0,True,bajo
+split_1716351e8e80172c,1,3,3,2,Virasoro 1374,55000.0,58000.0,0,True,bajo
+split_194d4c3f98ca17b1,1,3,3,3,San Nicolas 1243,34000.0,87000.0,0,True,bajo
+split_1a574b924524b6b7,1,3,3,1,Maipu al 2400,78000.0,91000.0,0,True,bajo
+split_1ab09620a3fde0f4,1,3,3,1,Rioja 1700,380000.0,395000.0,0,True,bajo
+split_1aed983107aaa0fb,1,3,3,2,Presidente Roca al 900,110000.0,279000.0,0,True,bajo
+split_1c18d598b04eaa6f,1,3,3,2,Ituzaingo  al 200,75000.0,185000.0,0,True,bajo
+split_1e7f85b4eef0ba47,1,3,3,3,Viamonte 1811,50000.0,94900.0,0,True,bajo
+split_23839f1756086011,1,3,3,2,San Juan al 2800,58000.0,150000.0,0,True,bajo
+split_24016543d2fdc0bd,1,3,3,1,Cochabamba  al 1000,61232.0,180000.0,0,True,bajo
+split_2bb4461dc5f3c6c5,1,3,3,2,Lavalle al 600,36000.0,95000.0,0,True,bajo
+split_2bb80df24a21489e,1,3,3,2,Urquiza al 900,108000.0,260000.0,0,True,bajo
+split_2d9f5fee15f924d5,1,3,3,2,Colon  al 1200,47000.0,240000.0,0,True,bajo
+split_2e034730f767620b,1,3,3,1,Italia 23,279000.0,345000.0,0,True,bajo
+split_2faeba7c90eb49bd,1,3,3,2,Bv. Oroño al 300,290000.0,450000.0,0,True,bajo
+split_33240b91a13e28fd,1,3,3,1,3 de Febrero  18,265000.0,265000.0,0,True,bajo
+split_35483e16314674b1,1,3,3,3,Presidente Roca 1269,57000.0,129000.0,0,True,bajo
+split_36457307f7078392,1,3,3,2,Castellanos 409,37500.0,56000.0,0,True,bajo
+split_3770e244e65e07b9,1,3,3,3,3 de Febrero 2076,36000.0,95000.0,0,True,bajo
+split_3bb138d88f4154d4,1,3,3,1,Cochabamba 45,69000.0,92000.0,0,True,bajo
+split_3bccd45a49cb27d2,1,3,3,2,Zeballos al 1700,44000.0,110000.0,0,True,bajo
+split_3fa9d1a40ea06700,1,3,3,1,Corrientes 2400,45000.0,59000.0,0,True,bajo
+split_421dd51cc0a4bdf8,1,3,3,2,San Juan al 800,62000.0,75000.0,0,True,bajo
+split_46b0eba001904567,1,3,3,3,Sarmiento 2035,30000.0,125000.0,0,True,bajo
+split_47b6aa72fa0d0cb7,1,3,3,1,Ovidio Lagos 2800,25500.0,35000.0,0,True,bajo
+split_4a7f313aa2993016,1,3,3,3,Presidente Roca  al 800,122000.0,195000.0,0,True,bajo
+split_4ab914876900eeaa,1,3,3,3,Av. Estanislao Lopez  al 2700,95000.0,580000.0,0,True,bajo
+split_4ca08cb6d7a8b1ab,1,3,3,3,Corrientes 2862,35000.0,46000.0,0,True,bajo
+split_4d8eb0441e5290ad,1,3,3,2,Av. Pellegrini 2764,35000.0,57000.0,0,True,bajo
+split_4ebb5cae2dc6738c,1,3,3,1,Pasaje Nariño  al 1900,60000.0,73000.0,0,True,bajo
+split_5306f958b0f7c1c6,1,3,3,2,Mendoza al 100,150000.0,790000.0,0,True,bajo
+split_55fbf29aeb0dbe4f,1,3,3,2,Ituzaingo 951,92000.0,109000.0,0,True,bajo
+split_579c20254e0822fb,1,3,3,3,Colón 1988,32000.0,70000.0,0,True,bajo
+split_582e5e2f47da41f4,1,3,3,1,Montevideo  al 3800,48289.0,55000.0,0,True,bajo
+split_58eadcac83d933e0,1,3,3,1,Isabel la Católica 4130,61000.0,110000.0,0,True,bajo
+split_5d29ced5fb0c3f6d,1,3,3,1,Urquiza 1800,51000.0,130000.0,0,True,bajo
+split_5e1321e9a0046adf,1,3,3,1,Dorrego 71,75000.0,305000.0,0,True,bajo
+split_67c15f9786dc4fdd,1,3,3,1,San Lorenzo  al 2800,145000.0,145000.0,0,True,bajo
+split_6949b459e39972c9,1,3,3,1,Pueyrredon  al 800,280000.0,290000.0,0,True,bajo
+split_6b5e8a79998094d6,1,3,3,3,Suipacha  al 300 - Pichincha,23000.0,29500.0,0,True,bajo
+split_6c2d3ce18eb58328,1,3,3,2,Alvear al 1300,61500.0,87000.0,0,True,bajo
+split_6f78d6042bbbcc1e,1,3,3,1,Oroño  al 1400,298000.0,405000.0,0,True,bajo
+split_6fb42096311b139e,1,3,3,1,San Lorenzo al 1500,48000.0,50000.0,0,True,bajo
+split_70c46d90c94f701f,1,3,3,3,JUAN MANUEL DE ROSAS 1580,63000.0,99000.0,0,True,bajo
+split_70cd0371c3dbfcc0,1,3,3,1,Necochea 1400,65000.0,82000.0,0,True,bajo
+split_7145c7e64e822d30,1,3,3,3,Montevideo 710,52000.0,95000.0,0,True,bajo
+split_72c6cd067aa6e405,1,3,3,2,SAN Luis 1216,63000.0,82000.0,0,True,bajo
+split_72f357599a7aee39,1,3,3,2,Montevideo al 1900,57000.0,179000.0,0,True,bajo
+split_74aa66487e1903ad,1,3,3,1,Vera Mujica 600,38000.0,55000.0,0,True,bajo
+split_74d2be583a86f7dc,1,3,3,1,Cafferata al 1500,49000.0,75000.0,0,True,bajo
+split_75e9b79d71c251d3,1,3,3,2,Av. Wheelwright 1765,130000.0,365000.0,0,True,bajo
+split_76d9ed6b6105f643,1,3,3,3,Buenos Aires 1179,65000.0,160000.0,0,True,bajo
+split_79d6f9aa3a24ef78,1,3,3,2,3 de Febrero 765 - 4 Piso 03,27500.0,47000.0,0,True,bajo
+split_79e920126c9aebd1,1,3,3,3,Laprida 833,45000.0,120000.0,0,True,bajo
+split_7b463b3721df1d96,1,3,3,3,Mendoza 3553,42000.0,65000.0,0,True,bajo
+split_7c28569eb8aa0c1f,1,3,3,3,Riccheri 1152 &#x27;04-04,55000.0,70000.0,0,True,bajo
+split_7d255118ee88a8ef,1,3,3,2,3 de Febrero  al 3000,45000.0,85000.0,0,True,bajo
+split_7e29e7dadfd84345,1,3,3,3,Zeballos 745,70000.0,85000.0,0,True,bajo
+split_80d8ad6ab8a37b36,1,3,3,3,Jujuy 1325 &#x27;14b,295000.0,315000.0,0,True,bajo
+split_8345d568e211bde9,1,3,3,1,Dorrego 43. Entre Brown y Jujuy,270000.0,345000.0,0,True,bajo
+split_835ca42e54396288,1,3,3,2,España al 2900,38000.0,70000.0,0,True,bajo
+split_83dd096553da7b0a,1,3,3,1,J.m.rosas al 1100,69361.0,177250.0,0,True,bajo
+split_84530926a27343d4,1,3,3,3,Chacabuco 1972,24000.0,42000.0,0,True,bajo
+split_8736ecf72741ca7e,1,3,3,3,9 de Julio al 1100 - Piso Exclusivo con Cochera,120000.0,155000.0,0,True,bajo
+split_88e361de2e0f98c5,1,3,3,1,Oroño  al 500,89000.0,245000.0,0,True,bajo
+split_890faf74a1a492e1,1,3,3,1,Maipu  al 2100,48000.0,73000.0,0,True,bajo
+split_8b20538b110ad91b,1,3,3,2,Alem 1000,200000.0,395000.0,0,True,bajo
+split_91d3b5468d4777ee,1,3,3,2,Montevideo al 100,190000.0,270000.0,0,True,bajo
+split_93fd02c599fbfe9d,1,3,3,2,Buenos Aires  al 4800,43000.0,55000.0,0,True,bajo
+split_956184a2275b2397,1,3,3,2,Paraguay 1331,120000.0,130000.0,0,True,bajo
+split_9571aedb1694f008,1,3,3,2,Sarmiento 1074,75000.0,135000.0,0,True,bajo
+split_96109b58e30b700d,1,3,3,2,Ayacucho al 2400,29000.0,52000.0,0,True,bajo
+split_9ef2fb9af89f6771,1,3,3,3,San Juan al 400,63000.0,158000.0,0,True,bajo
+split_9f3d92da68a93aba,1,3,3,2,Avenida Francia 2491,57000.0,57000.0,0,True,bajo
+split_a028e89e8a861f3e,1,3,3,1,Moreno Bis al 100,450000.0,470000.0,0,True,bajo
+split_a033774f61b567e8,1,3,3,2,Buenos Aires 1916,55000.0,150000.0,0,True,bajo
+split_a04827ed44e8d404,1,3,3,2,Poeta Fabricio Simeoni 1192,215000.0,301212.0,0,True,bajo
+split_a12138165c371014,1,3,3,3,JUJUY 2633,110000.0,198000.0,0,True,bajo
+split_a3283d85b2745e96,1,3,3,3,PARAGUAY 2233,47000.0,145000.0,0,True,bajo
+split_a5b0a08706d63064,1,3,3,1,España 83,345000.0,400000.0,0,True,bajo
+split_a60932aa197d2f85,1,3,3,1,La Paz al 500,44500.0,85000.0,0,True,bajo
+split_a8953a2a32d294e2,1,3,3,1,Pellegrini  al 1600,115000.0,149000.0,0,True,bajo
+split_aeb8f3b55546d2d0,1,3,3,2,Pueyrredón  al 900,52000.0,65000.0,0,True,bajo
+split_b1a9517da8fb0ea7,1,3,3,2,Callao 1600,65000.0,110000.0,0,True,bajo
+split_b3dbf97e0f7a75da,1,3,3,1,Moreno  70,144400.0,392600.0,0,True,bajo
+split_b3e050f7d66230a0,1,3,3,1,Montevideo al 3000,32000.0,39000.0,0,True,bajo
+split_b8232bdf8b546163,1,3,3,3,San Luis 645,105000.0,160000.0,0,True,bajo
+split_b9d4d66dc0655452,1,3,3,1,Sarmiento  al 800,30000.0,95500.0,0,True,bajo
+split_bc7fa9350471dbab,1,3,3,2,Mitre  al 900,39000.0,147000.0,0,True,bajo
+split_bf92e0cc76a52b5c,1,3,3,1,Italia al 400,85000.0,145000.0,0,True,bajo
+split_bffcf50aba1a1b5f,1,3,3,3,Laprida 2253,32000.0,61000.0,0,True,bajo
+split_c87466238d913b3b,1,3,3,1,Maipu al 1600,55000.0,93000.0,0,True,bajo
+split_c8de7d7b49dfbeaf,1,3,3,2,Callao al 200,65000.0,65000.0,0,True,bajo
+split_c94ebd6d48165aac,1,3,3,3,Sarmiento 600-piso 1-unidad G,35000.0,135000.0,0,True,bajo
+split_ca9d8ff2821e2c47,1,3,3,2,Buenos Aires al 2300,32000.0,110000.0,0,True,bajo
+split_cc6384a216768cda,1,3,3,2,Avellaneda 776 bis,70000.0,98000.0,0,True,bajo
+split_ced7fc978ac948ec,1,3,3,1,Avellaneda al 400,70000.0,80000.0,0,True,bajo
+split_d0347f18654398d6,1,3,3,1,Brown 2300,59000.0,65000.0,0,True,bajo
+split_d10da068865a7eb8,1,3,3,2,Zeballos 2027 Piso 7,55000.0,105000.0,0,True,bajo
+split_d5dc21caa30c30fd,1,3,3,3,Río de Janeiro 1326,38000.0,78900.0,0,True,bajo
+split_d666601a4328575f,1,3,3,3,Zeballos al 900,65000.0,108000.0,0,True,bajo
+split_d8874a0e6c5912e4,1,3,3,3,3 De Febrero 3248,43000.0,93000.0,0,True,bajo
+split_d8ee9e9f60dab2f6,1,3,3,2,"Pellegrini 1300 - 9.º piso, Depto. 3",65000.0,66000.0,0,True,bajo
+split_d974d35c6ed29266,1,3,3,2,San Lorenzo 3275,32000.0,60000.0,0,True,bajo
+split_dbaecee0f3de9816,1,3,3,3,Paraguay 1200,48500.0,105000.0,0,True,bajo
+split_e0cfa39bb20cbad9,1,3,3,2,Bv. Oroño 1490,165000.0,320000.0,0,True,bajo
+split_e83f17693a0cbd4a,1,3,3,1,Balcarce al 300,42000.0,325000.0,0,True,bajo
+split_e8ea80d280dd7123,1,3,3,1,Ovidio Lagos 1400,316739.0,425783.0,0,True,bajo
+split_e92adecc22b30ba6,1,3,3,2,Paraguay al 900,129000.0,135000.0,0,True,bajo
+split_e9bd625362d45591,1,3,3,3,Moreno  al 1767,67000.0,230000.0,0,True,bajo
+split_e9de33147f3574eb,1,3,3,2,1º DE Mayo 874,330000.0,693000.0,0,True,bajo
+split_eb3b0f7d611106bd,1,3,3,2,Entre Ríos 500,56000.0,165000.0,0,True,bajo
+split_ec909ee11ad5f29c,1,3,3,1,Iriondo  al 1700,45000.0,64000.0,0,True,bajo
+split_ecef3f9863449c1c,1,3,3,1,España 54,72000.0,80000.0,0,True,bajo
+split_ed2f356e7cdb434b,1,3,3,2,Mitre 400,63000.0,178000.0,0,True,bajo
+split_edae428c2193dc58,1,3,3,1,Dorrego Bis 69,290000.0,410000.0,0,True,bajo
+split_ee0452e5e60a8dad,1,3,3,3,San Lorenzo 3309,27000.0,32000.0,0,True,bajo
+split_f14e88fb76bbac82,1,3,3,3,9 DE Julio 2406,92000.0,130000.0,0,True,bajo
+split_f3274dcdb14d77a9,1,3,3,2,Callao 859,55000.0,75000.0,0,True,bajo
+split_f38815c7ce283346,1,3,3,2,Cordoba 3970,60000.0,73000.0,0,True,bajo
+split_f6d7f7fdd6b5d8c0,1,3,3,2,Balcarce 642,60000.0,100000.0,0,True,bajo
+split_f709574c4f82c6d3,1,3,3,1,Alem al 1400,38000.0,80000.0,0,True,bajo
+split_f7a2968663dabef3,1,3,3,3,Paraguay 477,74000.0,115000.0,0,True,bajo
+split_fab59022003b0557,1,3,3,1,Dorrego 11,80000.0,85000.0,0,True,bajo
+split_fadb23a3e9eb45e0,1,3,3,2,Rioja 900,85000.0,109700.0,0,True,bajo
+split_fb6b37b5ead6ea5d,1,3,3,1,Moreno  61,55000.0,55000.0,0,True,bajo
+split_fd7a8a53b668e2c9,1,3,3,3,Juan B.  Justo 1363 Piso 5 Departamento 9,33000.0,39000.0,0,True,bajo
+split_016f1ddaaa49413f,1,2,2,1,Mitre y Montevideo,140000.0,140000.0,2,False,bajo
+split_0183e1670d526c75,1,2,2,1,ENTRE RIOS,115000.0,495000.0,2,False,bajo
+split_11b882d9b9219891,2,2,2,1,Santa Fe 2470,25080.0,79407.0,2,True,bajo
+split_15992f1538008cbf,2,2,2,1,Santa Fe 1380,91500.0,175500.0,2,True,bajo
+split_2c2ec2c25f29164e,1,2,2,1,Dorrego / 9 de Julio -  2 Dorm,184000.0,205800.0,2,False,bajo
+split_391065ac7fbf64f1,1,2,2,1,Rodríguez y 3 de Febrero,49755.0,175000.0,2,False,bajo
+split_3edde8daf52b4285,1,2,2,1,Córdoba y Santiago,190000.0,595000.0,2,False,bajo
+split_405435938f003ae1,1,2,2,1,Brown e Italia,135000.0,230000.0,2,False,bajo
+split_4753676fe5bd6333,2,2,2,1,Santa Fe 3378,45000.0,46000.0,2,True,bajo
+split_60b7cebc75da7760,1,2,2,1,Moreno,410000.0,450000.0,2,False,bajo
+split_64e76dac66a1e099,2,2,2,1,Santa fe 2638,42500.0,48000.0,2,True,bajo
+split_6d1b4f01e1da102a,1,2,2,1,Alvear Esquina Rivadavia,149000.0,558000.0,2,False,bajo
+split_85dfcda19034b15f,1,2,2,1,Echesortu,154966.0,169263.0,2,False,bajo
+split_a1f04ed9a40251a5,1,2,2,1,Abasto,220000.0,323400.0,2,False,bajo
+split_a7356127feba75a9,2,2,2,1,SANTA FE 3019,82900.0,94900.0,2,True,bajo
+split_aabecdc13d0a47f8,1,2,2,1,San Lorenzo ,60000.0,115000.0,2,False,bajo
+split_bcf0c8d54f179f8c,1,2,2,1,Corrientes Esquina Riobamba,107000.0,233000.0,2,False,bajo
+split_beaa352d5cd08ffa,1,2,2,1,SALTA ,44000.0,790000.0,2,False,bajo
+split_c3ea842d0ad2a6fa,1,2,2,1,Av Belgrano y Buenos Aires . Una Cuadra Monumento a la Bandera,53900.0,53900.0,2,False,bajo
+split_c53f164abfd79cb4,1,2,2,1,Catamarca y Dorrego,304900.0,426900.0,2,False,bajo
+split_ce630dea1107a969,1,2,2,1,Jujuy y Balcarce,342545.0,360000.0,2,False,bajo
+split_dc7c66ff1e03a3a0,1,2,2,1,Riccheri y Catamarca,165000.0,165000.0,2,False,bajo
+split_e15a26b6951ceb9c,1,2,2,1,San Luis 4440,75000.0,125000.0,2,True,bajo
+split_e6acfc42e70db3d6,2,2,2,1,Santa Fe 3100,43000.0,48000.0,2,True,bajo
+split_ebe57cab552319e1,1,2,2,1,3 de febrero ,35000.0,95000.0,2,False,bajo
+split_fe3009eda33a948d,1,2,2,1,Balcarce y Brown,260000.0,375000.0,2,False,bajo
+split_046a4ab9887fef1d,1,2,2,1,Zeballos 3064,59000.0,60000.0,1,True,bajo
+split_0d87c77bdaf590f3,1,2,2,2,Cordoba al 4900,70000.0,75000.0,1,True,bajo
+split_10d818a523d1559b,1,2,2,1,Riobamba al 100,38000.0,40000.0,1,True,bajo
+split_2016996ce377911e,1,2,2,1,Ov. Lagos 120,101987.0,102000.0,1,True,bajo
+split_2559f15d78be9c7e,1,2,2,2,Primero de Mayo 1643,29000.0,30000.0,1,True,bajo
+split_6139e0d785ae604e,1,2,2,1,Balcarce 53,55500.0,75000.0,1,True,bajo
+split_6fff63349ee81432,1,2,2,1,Moreno 12,98987.0,107500.0,1,True,bajo
+split_732d57667577a2e5,1,2,2,2,Cerrito 1733,106200.0,190000.0,1,True,bajo
+split_74bdac27015b28cd,1,2,2,1,Corrientes 2600,43000.0,95000.0,1,True,bajo
+split_90b4c765ca4533e8,1,2,2,2,Francia 1371,45000.0,141600.0,1,True,bajo
+split_97ff5085450ff4f8,1,2,2,1,Rioja al 1000,58000.0,130000.0,1,True,bajo
+split_9ef96a47d3c14bed,1,2,2,2,Presidente Roca al 1100,60000.0,169000.0,1,True,bajo
+split_dd5e836331fa0c6a,1,2,2,2,Mitre 700,28000.0,37000.0,1,True,bajo
+split_00019577cf2f979e,1,2,2,2,Bv  Avellaneda 859bis,76000.0,153000.0,0,True,bajo
+split_004da6d3b9cb4719,1,2,2,1,Ituzaingo 1100,39000.0,65000.0,0,True,bajo
+split_02530ed7d132e33e,1,2,2,2,Laprida al 500,289000.0,329900.0,0,True,bajo
+split_062817c40d7e13f1,1,2,2,2,CERRITO 625,53000.0,65000.0,0,True,bajo
+split_06a82db772d80b09,1,2,2,2,Francia 1600,35000.0,58000.0,0,True,bajo
+split_071df84bb5344daa,1,2,2,1,Dorrego 400,65000.0,190000.0,0,True,bajo
+split_0852cc8a71a62cd7,1,2,2,1,San Martin al 1900,75000.0,77000.0,0,True,bajo
+split_0b02bc9bfb64005a,1,2,2,1,Alvear al 200,110000.0,115000.0,0,True,bajo
+split_0b0a61d13b9dd724,1,2,2,1,Catamarca 1100,159000.0,240000.0,0,True,bajo
+split_0c4961797d60eed9,1,2,2,1,Paraguay al 700,67500.0,140000.0,0,True,bajo
+split_0c7ee7f9635d9caf,1,2,2,2,Laprida al 700,98000.0,140000.0,0,True,bajo
+split_0fdeb5fa1a01f326,1,2,2,1,Avenida Pellegrini 800,45000.0,220000.0,0,True,bajo
+split_10231d47cc4dc348,1,2,2,1,Martín Rodríguez 1600,220000.0,250000.0,0,True,bajo
+split_103d7d3e16a09ae7,1,2,2,1,Constitución  al 400,73000.0,75000.0,0,True,bajo
+split_13f44fcb84380f11,1,2,2,2,San Martin 1332,112000.0,126000.0,0,True,bajo
+split_1569604894196bb8,1,2,2,1,Santiago al 100,55000.0,110000.0,0,True,bajo
+split_1667255f914652ad,1,2,2,1,España 19,71900.0,400000.0,0,True,bajo
+split_18744d1501d69049,1,2,2,2,Sarmiento al 1700,25000.0,75000.0,0,True,bajo
+split_187f9ebbdac11a48,1,2,2,2,San Lorenzo 2133,132000.0,138000.0,0,True,bajo
+split_18a167cfc35a273b,1,2,2,2,Italia 1889,55000.0,300000.0,0,True,bajo
+split_18bcb286ce9c951d,1,2,2,1,Necochea al 1600,68000.0,95000.0,0,True,bajo
+split_1b6f4a04ba6be4cf,1,2,2,2,1 de Mayo 1030 &#x27;PA,65000.0,295000.0,0,True,bajo
+split_1c87ef41aa4fb279,1,2,2,1,Pasco  al 700,69000.0,73500.0,0,True,bajo
+split_1cccb3573d7bef7f,1,2,2,2,Maipu al 1400,80000.0,88000.0,0,True,bajo
+split_1ce9822d819bbd8c,1,2,2,2,Urquiza 3283,35000.0,41900.0,0,True,bajo
+split_2029ca2fbcf988a8,1,2,2,1,La Paz  al 1600,43000.0,43000.0,0,True,bajo
+split_208ab0068b591704,1,2,2,2,ZEBALLOS 4009,52500.0,77000.0,0,True,bajo
+split_20d2002ff28caa39,1,2,2,2,Santiago al 700,85000.0,150000.0,0,True,bajo
+split_21d8090af3f46949,1,2,2,1,Valparaiso al 1700,75800.0,75900.0,0,True,bajo
+split_238a5225a40d755c,1,2,2,1,Francia  al 700,116000.0,116000.0,0,True,bajo
+split_2680326754ac33b6,1,2,2,1,Pasaje Antonelli 2246,28000.0,30000.0,0,True,bajo
+split_26c6103402efa12a,1,2,2,2,Pellegrini 3498 Esquina Cafferata,52000.0,57000.0,0,True,bajo
+split_2a7f89d5009b86a8,1,2,2,2,Mendoza 1650,58000.0,59000.0,0,True,bajo
+split_2b7552ca8b8501d9,1,2,2,1,Av Francia 97. Monoambiente 2do Piso C,55575.0,56810.0,0,True,bajo
+split_2c3388270b6b07ec,1,2,2,2,Constitución 329 3 B - VENTA Departamento 2 Dormitorios,67500.0,85000.0,0,True,bajo
+split_301ee1267542c6e7,1,2,2,1,Dorrego al 40,195000.0,345000.0,0,True,bajo
+split_303b265bf1d16956,1,2,2,1,Santiago BIS 60,285000.0,315000.0,0,True,bajo
+split_31874d2876bd81c2,1,2,2,1,Jujuy  al 3000,250000.0,550000.0,0,True,bajo
+split_31df8896373bfe32,1,2,2,2,Rioja 3759,140000.0,140000.0,0,True,bajo
+split_32b30fc43689fdf0,1,2,2,2,San Juan al 2900,65000.0,199000.0,0,True,bajo
+split_32db03fdeb38a426,1,2,2,2,Bv Oroño al 1300,87000.0,180000.0,0,True,bajo
+split_3479cad1cd865616,1,2,2,1,Cerrito al 700,45000.0,47500.0,0,True,bajo
+split_34c11ce22036f29b,1,2,2,1,Salta 1100,720000.0,970000.0,0,True,bajo
+split_34ccd47a4dcb4203,1,2,2,1,Avenida Pellegrini 1600,105000.0,136000.0,0,True,bajo
+split_35610e3f49693cd2,1,2,2,1,Puyrredon al 1100,152000.0,154000.0,0,True,bajo
+split_378fec6f4fbb6b4a,1,2,2,2,Maipu al 1800,81000.0,88000.0,0,True,bajo
+split_38bcf7b1113d127f,1,2,2,2,Cerrito 1450,60000.0,90000.0,0,True,bajo
+split_3a5085479b81d8aa,1,2,2,1,Ov. Lagos  al 900,58000.0,64000.0,0,True,bajo
+split_3a60db3608148a89,1,2,2,1,Avenida Wheelwright 1400,170000.0,295000.0,0,True,bajo
+split_3c1b69e27b8b68b5,1,2,2,1,Dorrego al 1300,98500.0,135000.0,0,True,bajo
+split_3f7ad88ded168597,1,2,2,1,Italia 85 - Parque España,148000.0,295000.0,0,True,bajo
+split_3f88358081fa3389,1,2,2,2,Rueda 1805,29000.0,33999.0,0,True,bajo
+split_400f55e550ebe230,1,2,2,1,Entre Rios al 900,119000.0,175000.0,0,True,bajo
+split_409982c615d914a8,1,2,2,1,Balcarce 1089,75000.0,75000.0,0,True,bajo
+split_40d3112bfbb12150,1,2,2,1,CERRITO 475,60000.0,61236.0,0,True,bajo
+split_41040a02d22f6a8f,1,2,2,2,Callao 130,51500.0,275000.0,0,True,bajo
+split_41ab2ea9f648686d,1,2,2,2,Bv. Rondeau 1146,90000.0,125000.0,0,True,bajo
+split_429023abcc52d69f,1,2,2,2,san Nicolas al 900-937,45000.0,145000.0,0,True,bajo
+split_435130b065c34319,1,2,2,2,San Juan 3162,55000.0,86000.0,0,True,bajo
+split_47a03a8893263713,1,2,2,1,Cordoba al 800,67000.0,140000.0,0,True,bajo
+split_481a1a4161a71fac,1,2,2,1,Cafferata  al 1600,35000.0,60000.0,0,True,bajo
+split_4980a09c3894d6fd,1,2,2,1,Marcos Paz 3481,43000.0,59000.0,0,True,bajo
+split_4a164b97d3f79db0,1,2,2,1,Virasoro al 1100,35000.0,36000.0,0,True,bajo
+split_4a6a6e057c5237a9,1,2,2,2,España al 500,95000.0,110000.0,0,True,bajo
+split_4a928618ae322030,1,2,2,1,Mendoza 4800,35000.0,69000.0,0,True,bajo
+split_4b022d0ae8ca479a,1,2,2,2,Callao 1164,37000.0,145000.0,0,True,bajo
+split_4b5c2f2ce96ad923,1,2,2,1,Carriego 1194,105000.0,105000.0,0,True,bajo
+split_4b85a3b9521b4347,1,2,2,1,Ituizangó al 1800,473000.0,518700.0,0,True,bajo
+split_4c1be1835ee00697,1,2,2,2,3 De Febrero 377,68500.0,108000.0,0,True,bajo
+split_4c505400ad19993d,1,2,2,1,Juan Manuel de Rosas al 1000,72000.0,190000.0,0,True,bajo
+split_4d86b95c16ca6c2a,1,2,2,2,San Lorenzo 1467 10 A -  VENTA Departamento 3 Dormitorios con Cochera,144000.0,195000.0,0,True,bajo
+split_4f07400d11e09611,1,2,2,2,Rioja 2758,69000.0,490000.0,0,True,bajo
+split_500defca9ca7257d,1,2,2,1,3 de Febrero 2100,48000.0,80000.0,0,True,bajo
+split_509dacd47a96d73b,1,2,2,1,Alvear Bis 34,65000.0,120000.0,0,True,bajo
+split_51b23c83104be864,1,2,2,2,Viamonte al 400. Con Cochera.,60000.0,98000.0,0,True,bajo
+split_5202d10b954a5b9a,1,2,2,2,Roca al 1400,56000.0,65000.0,0,True,bajo
+split_53ab167fe143d531,1,2,2,2,Urquiza 3842,62000.0,75000.0,0,True,bajo
+split_54f2fdbc22dca501,1,2,2,1,San Luis al 3300,80000.0,80000.0,0,True,bajo
+split_5545c4c8d2b6fb58,1,2,2,1,Iriondo al 1000,41000.0,50000.0,0,True,bajo
+split_55edc6dd14c66a49,1,2,2,1,1 de Mayo al 2500,53000.0,59990.0,0,True,bajo
+split_566135ef8849d58e,1,2,2,2,VERA MUJICA 807,72000.0,127000.0,0,True,bajo
+split_580e933358f755e1,1,2,2,2,San Juan 3223 - (06-01),63000.0,80000.0,0,True,bajo
+split_595d7539f03637a7,1,2,2,2,Crespo 460,63000.0,65000.0,0,True,bajo
+split_59e9329a99ca1774,1,2,2,1,Wheelright al 1700,120000.0,380000.0,0,True,bajo
+split_59f21532a2f20f86,1,2,2,1,Leandro N. Alem 1600,45000.0,56000.0,0,True,bajo
+split_5a0f2ffa256f9cfd,1,2,2,1,Rosas  al 1100,69084.0,150990.0,0,True,bajo
+split_5b9560fda9a54a34,1,2,2,1,Cajaraville 56 -,220000.0,220000.0,0,True,bajo
+split_5d50ab7b50b9af72,1,2,2,2,San Luis 2100,130000.0,179000.0,0,True,bajo
+split_605c059337367f59,1,2,2,1,Rodríguez al 400,35000.0,40000.0,0,True,bajo
+split_64a132a88f4106a5,1,2,2,2,Presidente Roca 440,100000.0,115000.0,0,True,bajo
+split_66999800d3c94c3e,1,2,2,1,Bv. Oroño  al 1500,110000.0,125000.0,0,True,bajo
+split_66d20fee1449420f,1,2,2,2,Ayacucho 1656,42000.0,56000.0,0,True,bajo
+split_67e25484e4c4338f,1,2,2,1,Dorrego 48,105000.0,105000.0,0,True,bajo
+split_680487f7067f66ee,1,2,2,2,PELLEGRINI 748,99000.0,164000.0,0,True,bajo
+split_6813173dca0c6ddd,1,2,2,2,Moreno AL 1400,68000.0,110000.0,0,True,bajo
+split_6961c294dcd31ce2,1,2,2,2,Alem al 1700,160000.0,202000.0,0,True,bajo
+split_6bfbc0c81ffd56d4,1,2,2,2,Bv. OROÑO 1065.,89000.0,275000.0,0,True,bajo
+split_6c64e28a02573f36,1,2,2,2,Crespo al 500,68500.0,80000.0,0,True,bajo
+split_6ce32160bf1d453c,1,2,2,2,Colon 2375,60000.0,79000.0,0,True,bajo
+split_6eba68c5ee4f9cb7,1,2,2,2,Pichincha al 100,152000.0,275000.0,0,True,bajo
+split_6f0ee4ac266a11b3,1,2,2,1,Santiago al 900,49000.0,115000.0,0,True,bajo
+split_7077c683ec6789a7,1,2,2,2,Urquiza 885,297000.0,297000.0,0,True,bajo
+split_71b1e98e9d7713ae,1,2,2,2,Presidente Roca al 700,89000.0,125000.0,0,True,bajo
+split_73068f3b79d103ee,1,2,2,2,Mendoza 2138 al 100,55000.0,64600.0,0,True,bajo
+split_73306856ac13655e,1,2,2,2,Pellegrini 1876,155000.0,200000.0,0,True,bajo
+split_7379cee0890a49a6,1,2,2,2,3 De Febrero 241,64000.0,65000.0,0,True,bajo
+split_7426706c923b1a24,1,2,2,1,Córdoba  al 3500,35000.0,85000.0,0,True,bajo
+split_7446b177ee67a013,1,2,2,2,3 de Febrero 2275,80000.0,99500.0,0,True,bajo
+split_75c04ad2074018b7,1,2,2,2,Presidente Roca 1507,78000.0,115000.0,0,True,bajo
+split_7709bf8cc21ebd68,1,2,2,1,SAN Lorenzo  al 3900,25000.0,32000.0,0,True,bajo
+split_7746ffaa914f3c49,1,2,2,2,Pellegrini  al 500,120000.0,139000.0,0,True,bajo
+split_79ffc76361767443,1,2,2,1,Sarmiento 300,130000.0,139000.0,0,True,bajo
+split_7a813aa0efe4534d,1,2,2,1,Catamarca al 3900,60000.0,60000.0,0,True,bajo
+split_7be0cc5f53cf0632,1,2,2,2,Zeballos 1433,75000.0,118000.0,0,True,bajo
+split_7bea8879588d2e78,1,2,2,1,Libertad al 300,290000.0,530000.0,0,True,bajo
+split_7eec83ef69f914d3,1,2,2,1,Ovidio Lagos 400,50000.0,72000.0,0,True,bajo
+split_7f25d50349d11915,1,2,2,2,Pellegrini 1534,99900.0,340000.0,0,True,bajo
+split_7f332af40c3cc1be,1,2,2,2,Riccheri 1033,55000.0,57000.0,0,True,bajo
+split_80e82acf25af432c,1,2,2,2,Ovidio Lagos 2700 - Piso 1º Dpto 03,25800.0,45000.0,0,True,bajo
+split_8345784b2cd5040f,1,2,2,1,Vera Mujica al 400,43000.0,49000.0,0,True,bajo
+split_846b8cca573b3019,1,2,2,1,Riobamba al 1900,60000.0,60000.0,0,True,bajo
+split_84a51a9afa4fbb0a,1,2,2,1,Antonelli 2200,26000.0,28000.0,0,True,bajo
+split_8500ccea29178355,1,2,2,2,Pasaje Fernando el Católico al 4100,30000.0,74500.0,0,True,bajo
+split_8582236cc2b57edf,1,2,2,1,Avenida Francia  al 1300,40000.0,135000.0,0,True,bajo
+split_871b306638d056af,1,2,2,2,Wheelwright 1641,82000.0,275000.0,0,True,bajo
+split_881ff43e0db6691a,1,2,2,1,San Martin al 1500,150000.0,150000.0,0,True,bajo
+split_89646d682f5c2fd9,1,2,2,1,Ituzaingó 65,35000.0,38000.0,0,True,bajo
+split_8b0484a5e11087ae,1,2,2,1,Bv. 27 de Febrero  al 1500,79962.0,122902.0,0,True,bajo
+split_8b568f4648a75f3c,1,2,2,1,San Luis al 3100,39500.0,73000.0,0,True,bajo
+split_8bd4a8ba885de919,1,2,2,2,San Lorenzo 750,135000.0,139000.0,0,True,bajo
+split_8cf0e9b581a4b780,1,2,2,2,Cochabamba  al 1700,82000.0,110000.0,0,True,bajo
+split_8e5fa4fed59a0ee7,1,2,2,1,Pasco 90,33000.0,37000.0,0,True,bajo
+split_8ea0fa8829771327,1,2,2,2,Tucuman 1477,45000.0,360000.0,0,True,bajo
+split_8f1d4eae46aecf33,1,2,2,2,Juan Manuel de Rosas 2101,95000.0,178000.0,0,True,bajo
+split_8f6903a38b0f28d2,1,2,2,2,Alsina 864 - 3 Piso 01,42000.0,60000.0,0,True,bajo
+split_8fc4aa3d8e91825e,1,2,2,1,Catamarca 2100,350000.0,350000.0,0,True,bajo
+split_8ff52ef4d81bca95,1,2,2,2,Ayacucho 1863,36000.0,60000.0,0,True,bajo
+split_915767729fff3709,1,2,2,2,Mendoza al 900,125000.0,135000.0,0,True,bajo
+split_91b6802a8130e727,1,2,2,2,Pellegrini 2342,270000.0,290000.0,0,True,bajo
+split_937313ca71647e69,1,2,2,1,Primero De Mayo 900,177000.0,177000.0,0,True,bajo
+split_941f0e0296d2f099,1,2,2,2,Bv. Avellaneda 1579,60000.0,65000.0,0,True,bajo
+split_94481e895fdce895,1,2,2,2,Catamarca 2999,146000.0,146000.0,0,True,bajo
+split_94953b33109ea3ff,1,2,2,1,Avenida Pellegrini 700,64000.0,164000.0,0,True,bajo
+split_96921a29b7c87d8b,1,2,2,2,Avenida Francia al 733,52000.0,55000.0,0,True,bajo
+split_978045702a283cf5,1,2,2,2,Presidente Roca  al 1000,45000.0,55000.0,0,True,bajo
+split_9856b3197d848f3e,1,2,2,2,Mendoza 1171,60000.0,90000.0,0,True,bajo
+split_9b26f65fd27a0bd6,1,2,2,1,Dorrego  al 1200,100000.0,180000.0,0,True,bajo
+split_9b449dfa363c8416,1,2,2,1,Salta al 2300,125000.0,125000.0,0,True,bajo
+split_9b7fa82a2bbfb031,1,2,2,2,San Lorenzo 1600,85000.0,145000.0,0,True,bajo
+split_9d9ef666f642526c,1,2,2,2,BERUTI 2232,29000.0,45000.0,0,True,bajo
+split_9dc91162d5f08e14,1,2,2,2,Bv. Avellaneda bis 715,57000.0,90000.0,0,True,bajo
+split_9e940ecbbac8219e,1,2,2,2,Rioja al 2400,58000.0,62000.0,0,True,bajo
+split_9ecc16e4aa57c4dc,1,2,2,1,Amenabar al 1000,54000.0,110000.0,0,True,bajo
+split_9fdfbd71fa4fa372,1,2,2,2,Necochea 1292,78000.0,260000.0,0,True,bajo
+split_a0b0119a2caceacb,1,2,2,1,Mariano Moreno 800,144985.0,379000.0,0,True,bajo
+split_a1cfb7ecfb90f102,1,2,2,1,Avellaneda  al 1300,50013.0,84034.0,0,True,bajo
+split_a27c9aa06f3a2992,1,2,2,1,Dorrego  al 2000,50000.0,55000.0,0,True,bajo
+split_a454194618f16cc7,1,2,2,2,Montevideo 3100,75000.0,75000.0,0,True,bajo
+split_a47eabb2acd0e162,1,2,2,2,Wheelwright 1921 &#x27;piso 13,340000.0,340000.0,0,True,bajo
+split_a5ad9c2ec78bd29f,1,2,2,1,Moreno al 2600,58000.0,73000.0,0,True,bajo
+split_a7192cda780881ed,1,2,2,1,Catamarca al 2600,45000.0,75000.0,0,True,bajo
+split_a73660a73796d282,1,2,2,2,Av.Francia 804,56000.0,69500.0,0,True,bajo
+split_a80885b670e74d4d,1,2,2,1,Vera Mujica 100,52000.0,75000.0,0,True,bajo
+split_a87ef97df52cbfa6,1,2,2,1,Av.libertad al 300,530000.0,530000.0,0,True,bajo
+split_aa8dbb837378e9ef,1,2,2,2,J.m. de Rosas al 1100. 07-05,70709.0,160477.0,0,True,bajo
+split_abe78b526891e801,1,2,2,1,Crespo 200,35000.0,41000.0,0,True,bajo
+split_ac8aa2be3ddc9849,1,2,2,1,Dorrego  al 3000,80000.0,90000.0,0,True,bajo
+split_afa5ffdf0d983c47,1,2,2,2,Montevideo  3200 - Piso 9º Exclusivo - Cochera Doble,160000.0,160000.0,0,True,bajo
+split_b21406237a5bf810,1,2,2,2,Callao al 1400,36000.0,47000.0,0,True,bajo
+split_b29c6b68b79e63ed,1,2,2,1,Zeballos al 200,99000.0,328000.0,0,True,bajo
+split_b3a7bd917277629e,1,2,2,2,Crespo al 1200,49500.0,64000.0,0,True,bajo
+split_b508cec36c09e131,1,2,2,2,Bv. Rondeau  al 1800,234000.0,295000.0,0,True,bajo
+split_b5161d8e7bd98801,1,2,2,2,Pueyrredon  al 500,53000.0,115000.0,0,True,bajo
+split_b52043dd4b20b37f,1,2,2,2,Viamonte  al 100,33000.0,119000.0,0,True,bajo
+split_b52106bb6865182d,1,2,2,2,La Paz 269,36000.0,71000.0,0,True,bajo
+split_b608fd804fd8dffc,1,2,2,1,Balcarce 63 BIS,122000.0,122000.0,0,True,bajo
+split_b621bf9d57859c14,1,2,2,1,Chacabuco al 1400,287000.0,287000.0,0,True,bajo
+split_b6ae2f8c40205fec,1,2,2,1,Pje Storni al 700,260000.0,270000.0,0,True,bajo
+split_b73069a2eb23dcb5,1,2,2,2,Riobamba 831,28000.0,30000.0,0,True,bajo
+split_bb4d387c314ac7da,1,2,2,2,La Paz 378 - 1 Dorm,45000.0,54500.0,0,True,bajo
+split_bc2bdf423328c466,1,2,2,1,Pasaje Robertson 3378,65000.0,67000.0,0,True,bajo
+split_bda31947c93d7c4c,1,2,2,1,Tucumán  al 2200,40000.0,128000.0,0,True,bajo
+split_bf0c75a945e1c277,1,2,2,1,Dorrego  al 900,74100.0,120000.0,0,True,bajo
+split_bf32a8b902098667,1,2,2,1,San luis 1100,35000.0,55000.0,0,True,bajo
+split_c0a43ac14f9e3a47,1,2,2,1,Moreno  al 1800,68000.0,68000.0,0,True,bajo
+split_c15e1b17d280bf7f,1,2,2,1,Libertad al 100,450000.0,460000.0,0,True,bajo
+split_c1b828ede19fd5bb,1,2,2,2,Córdoba 3447 Primer Piso,64500.0,64500.0,0,True,bajo
+split_c23f90c7bc30a616,1,2,2,1,Presidente Roca 2800,67000.0,77000.0,0,True,bajo
+split_c347e35984f4c65d,1,2,2,2,Callao 1094,42500.0,129000.0,0,True,bajo
+split_c50600770451ad05,1,2,2,2,Paraguay  al 1900,47000.0,172000.0,0,True,bajo
+split_c7a13986181c3bdd,1,2,2,2,Córdoba 2400,80000.0,90000.0,0,True,bajo
+split_c87c345fb66a6b6f,1,2,2,1,Avenida Pellegrini 3000,170000.0,195000.0,0,True,bajo
+split_c98551ecc74921e1,1,2,2,1,Oroño al 700,198000.0,198000.0,0,True,bajo
+split_c9cd9950c665c099,1,2,2,2,Rioja 3911,48000.0,70000.0,0,True,bajo
+split_caebbce86ee1f5cd,1,2,2,2,Ricardone 1261,69000.0,135000.0,0,True,bajo
+split_cbeb242205582af3,1,2,2,2,Suipacha al 800,52000.0,54000.0,0,True,bajo
+split_cc2e9b31f8a7b7aa,1,2,2,1,"CORDOBA Y SUIPACHA S2002 Rosario, Santa Fe, Argentina, Rosario, Santa Fe, Argentina.",175527.0,177600.0,0,True,bajo
+split_cc3fa2f76d498afd,1,2,2,2,Entre Rios 1879,100000.0,100000.0,0,True,bajo
+split_cf2cc386b2d72afd,1,2,2,2,Italia 1732,90000.0,140000.0,0,True,bajo
+split_cf968b96cf60d109,1,2,2,2,Ituzaingo 1908,66000.0,68000.0,0,True,bajo
+split_cfb8fe5affd898af,1,2,2,2,Iriondo al 1200,45000.0,80000.0,0,True,bajo
+split_d1039ba52afd3aaf,1,2,2,1,Bv. Oroño al 2600,220500.0,257000.0,0,True,bajo
+split_d10d959b07a7113e,1,2,2,2,Italia 2601,41000.0,42000.0,0,True,bajo
+split_d1bade2187b2ca6c,1,2,2,2,Italia 1600,85000.0,85000.0,0,True,bajo
+split_d2c26608a70526a6,1,2,2,1,Salta al 2400,48000.0,55000.0,0,True,bajo
+split_d3615e1ee64bad93,1,2,2,1,Mendoza al 1000,48000.0,62000.0,0,True,bajo
+split_d3ea48e00e45bcc2,1,2,2,1,Avellaneda al 1500,61500.0,62500.0,0,True,bajo
+split_d44635356d402ea9,1,2,2,2,Bv. Oroño al 400,120000.0,120000.0,0,True,bajo
+split_d4a67d6cf5d8b60e,1,2,2,2,Ocampo al 900,57000.0,59000.0,0,True,bajo
+split_d522301fa3059e99,1,2,2,1,Maipu al 1300,85000.0,85000.0,0,True,bajo
+split_d53a0e0d251b881b,1,2,2,1,Cerrito 81,62900.0,78000.0,0,True,bajo
+split_d7d399c6009e70bc,1,2,2,2,Buenos aires 1709,150000.0,280000.0,0,True,bajo
+split_d8430abcd70bc808,1,2,2,2,Necochea al 1900,56000.0,90000.0,0,True,bajo
+split_d91864fcdc80660e,1,2,2,1,Tucuman al 1900,250000.0,270000.0,0,True,bajo
+split_d9530b29121e1eb9,1,2,2,1,Montevideo 2070,66000.0,66000.0,0,True,bajo
+split_d95a093e4ff1a3f8,1,2,2,2,Zeballos  al 1300,84000.0,95000.0,0,True,bajo
+split_da35fe011457103e,1,2,2,1,Brown al 2400,122540.0,236645.0,0,True,bajo
+split_da55f5963f720f87,1,2,2,2,Tucumán 3363,42500.0,43000.0,0,True,bajo
+split_db36312b29e4841f,1,2,2,1,Lavalle al 1200,42000.0,42000.0,0,True,bajo
+split_db6e457a14044aa5,1,2,2,1,España al 1800,52000.0,66000.0,0,True,bajo
+split_db998c9563a71c2b,1,2,2,1,Entre Rios al 1000,118000.0,205000.0,0,True,bajo
+split_dc137f1b35349a8e,1,2,2,2,Urquiza 4145,37000.0,40000.0,0,True,bajo
+split_dfb77a3c26c5e47a,1,2,2,2,Paraguay 1141,85000.0,98000.0,0,True,bajo
+split_e040a654cdf06ca0,1,2,2,2,Ricchieri 1199 esq Mendoza,65000.0,65000.0,0,True,bajo
+split_e0665d5b481d2370,1,2,2,1,9 de Julio  al 200,93000.0,130000.0,0,True,bajo
+split_e0ba135631b11892,1,2,2,1,Crespo al 1100,60000.0,69000.0,0,True,bajo
+split_e13f2c7bffb642ea,1,2,2,1,Catamarca al 600,72900.0,220000.0,0,True,bajo
+split_e2a2ad6fb2194ac0,1,2,2,2,1º DE Mayo AL 1100,49000.0,65000.0,0,True,bajo
+split_e4affea69de8ba15,1,2,2,2,Zeballos al 4100,65000.0,65000.0,0,True,bajo
+split_e63d8ee36b698ece,1,2,2,1,Moreno al 400,85000.0,260000.0,0,True,bajo
+split_e7e9dd095aa8ada1,1,2,2,2,Italia al 500,59000.0,79500.0,0,True,bajo
+split_e8e1fe0c8c19d68c,1,2,2,2,1º de Mayo 1374,130455.0,132325.0,0,True,bajo
+split_e97c7cc81de9c66e,1,2,2,2,Mitre 1235,56000.0,94000.0,0,True,bajo
+split_eb097d5a7663ce98,1,2,2,1,Dorrego 1900,55000.0,130029.0,0,True,bajo
+split_ecadeccd3dd639dc,1,2,2,2,Riccheri 962,63000.0,110000.0,0,True,bajo
+split_ef25fd7707a113c7,1,2,2,2,Constitución 522,28000.0,40000.0,0,True,bajo
+split_efa4b200bdf73c35,1,2,2,2,Saguier  al 300,60000.0,210000.0,0,True,bajo
+split_f095a6afc3cd48cb,1,2,2,2,San Luis 542,59800.0,90000.0,0,True,bajo
+split_f195551aba5a2ac9,1,2,2,1,Rivadavia 2300,130000.0,450000.0,0,True,bajo
+split_f196581a3ce2a39e,1,2,2,1,Tucumán 3600,55000.0,55000.0,0,True,bajo
+split_f3f1a8741dfc4140,1,2,2,1,Pellergrini al 900,129000.0,245000.0,0,True,bajo
+split_f829faf5834ef1cc,1,2,2,2,Suipacha  al 1300,60000.0,83000.0,0,True,bajo
+split_f877bb3e89751f12,1,2,2,1,Tucumán 2600,195000.0,200000.0,0,True,bajo
+split_fb68016bdbb4f3b8,1,2,2,2,Italia al 1900,118000.0,125000.0,0,True,bajo
+split_fba908668f2d3614,1,2,2,2,Sarmiento al 2800,69900.0,75000.0,0,True,bajo
+split_fce880401ca4f9f1,1,2,2,2,Sarmiento 1300,59000.0,80000.0,0,True,bajo
+split_fd78432478e3c233,1,2,2,2,1 de Mayo 1287,65000.0,88000.0,0,True,bajo
+split_fe76efb80faacbde,1,2,2,1,Rioja 3200,49000.0,60000.0,0,True,bajo
+split_ff65e20019b3b81f,1,2,2,2,Italia al 2400,71000.0,125000.0,0,True,bajo
+split_ffefe261b3f281b2,1,2,2,1,Alvear 700 - De Pozo Anticipo + 30 Cuotas,181650.0,279760.0,0,True,bajo
+split_006baf351949e5f4,1,1,1,1,San Juan  al 1800,35000.0,35000.0,1,True,bajo
+split_008ad4a67b939b2f,1,1,1,1,Palacio Fuentes,158000.0,158000.0,1,False,bajo
+split_00d0b87078467c11,1,1,1,1,SANTIAGO BIS,203000.0,203000.0,1,False,bajo
+split_013ef62034ed1626,1,1,1,1,Dorrego y 9 de Julio - 3 Dormitorios,315100.0,315100.0,1,False,bajo
+split_04ba61c1f300fe2b,1,1,1,1,Salta y el rio,485000.0,485000.0,1,False,bajo
+split_04da1e85604ca8f4,1,1,1,1,Zeballos y Av. Francia,43000.0,43000.0,1,False,bajo
+split_0784bab866f080d5,1,1,1,1,Córdoba 8900,100400.0,100400.0,1,True,bajo
+split_091ada3dff342190,1,1,1,1,Salta y Paraguay,198000.0,198000.0,1,False,bajo
+split_092a9d4d9fa8416d,1,1,1,1,Santa FE 1400- Piso 3,169000.0,169000.0,1,True,bajo
+split_0e736196ddcb26b5,1,1,1,1,Salta e Italia,139000.0,139000.0,1,False,bajo
+split_12134844a27f3d32,1,1,1,1,Paraguay y 9 de Julio,45000.0,45000.0,1,False,bajo
+split_15aeef17d308900d,1,1,1,1,Santa Fe 2179,181000.0,181000.0,1,True,bajo
+split_15f2075bf775ab9c,1,1,1,1,Dorrego / 9 de Julio -  1 amb,84925.0,84925.0,1,False,bajo
+split_1635bb3e6c2b5904,1,1,1,1,Santa Fe 1123,158000.0,158000.0,1,True,bajo
+split_1815a2fb69d35036,1,1,1,1,Córdoba y Callao,88000.0,88000.0,1,False,bajo
+split_1852104d8143f4e8,1,1,1,1,Catamarca ,305000.0,305000.0,1,False,bajo
+split_1bc779af581d1b6e,1,1,1,1,Av del Huerto y Salta - 2 Dormitorios,72000.0,72000.0,1,False,bajo
+split_1bcfb31da7399375,1,1,1,1,Italia al 2900,45000.0,45000.0,1,True,bajo
+split_1c73cbbe1cba0103,1,1,1,1,San Luis ,130000.0,130000.0,1,False,bajo
+split_1d0ea39d200504c6,1,1,1,1,Balcarce y 9 de Julio,85000.0,85000.0,1,False,bajo
+split_1eb3fc8d54becc7d,1,1,1,1,Catamarca y Dorrego - 1 Dormitorio,35000.0,35000.0,1,False,bajo
+split_1fe9048213f2751f,1,1,1,1,Santa Fe 2800 - Piso 1º Dpto A,55000.0,55000.0,1,True,bajo
+split_2392a991325ecad9,1,1,1,1,Catamarca y Paraguay - 1 Piso B,239000.0,239000.0,1,False,bajo
+split_2448e68363a06a00,1,1,1,1,Urquiza e Iriondo,47500.0,47500.0,1,False,bajo
+split_2470f4794b7d32df,1,1,1,1,Salta Y Mitre,485000.0,485000.0,1,False,bajo
+split_2549398ec9b18cc0,1,1,1,1,Cordoba y Callao. Segundo Piso Escalera. Apto Credito Hipotecario.,49000.0,49000.0,1,False,bajo
+split_2748c4285048fbd2,1,1,1,1,Santa Fe 931,119000.0,119000.0,1,True,bajo
+split_28248041d3c5d290,1,1,1,1,Santa Fe al 1700,375000.0,375000.0,1,True,bajo
+split_2871521a5dbaf94a,1,1,1,1,Santa Fe al 1600  - Piso 11° Dpto 6,60000.0,60000.0,1,True,bajo
+split_29737d818504a835,1,1,1,1,Cochabamba Bis  5 2°piso,27000.0,27000.0,1,False,bajo
+split_2fd4e4d40d4022c0,1,1,1,1,Santa Fe  1671 - 1 Piso A,60000.0,60000.0,1,True,bajo
+split_30cfb8f99b5953eb,1,1,1,1,Santa Fe 849,68000.0,68000.0,1,True,bajo
+split_32bde2ad1b693102,1,1,1,1,Zeballos ,145000.0,145000.0,1,False,bajo
+split_35bdb04163092fd0,1,1,1,1,Colón ESQ Pasco - 6 Piso A,195000.0,195000.0,1,False,bajo
+split_373abaa02d2b2b19,1,1,1,1,Salta y Corrientes,85000.0,85000.0,1,False,bajo
+split_37ca3cf05d67a1a8,1,1,1,1,Ov. Lagos y San Lorenzo,136000.0,136000.0,1,False,bajo
+split_38af76eaf3c735a5,1,1,1,1,SANTA FE 2717. Entre Callao y Ovidio lagos,139000.0,139000.0,1,True,bajo
+split_399bef011026cc62,1,1,1,1,Roca 1900,58000.0,58000.0,1,True,bajo
+split_39fcd445205810ef,1,1,1,1,Cordoba y Oroño,198000.0,198000.0,1,False,bajo
+split_3a194cf47e0a0305,1,1,1,1,Santa Fe 2179. Piso 4. Unidad 01,181000.0,181000.0,1,True,bajo
+split_3abe688c0a29ae87,1,1,1,1,Santa Fe e Iriondo,57750.0,57750.0,1,False,bajo
+split_3ace87df0cdbf0cf,1,1,1,1,Av Francia Esquina San Juan,159000.0,159000.0,1,False,bajo
+split_3b48b576f5d6c6c3,1,1,1,1,Mendoza ,98000.0,98000.0,1,False,bajo
+split_3c0655fcbb9942ee,1,1,1,1,Rodríguez y 3 de Febrero. Depto 2 Dorm.,133229.0,133229.0,1,False,bajo
+split_3c7fcee75e308bdb,1,1,1,1,Salta y Av. Francia,152000.0,152000.0,1,False,bajo
+split_3cc9f0e3738cd78a,1,1,1,1,Bv. Avellaneda y Génova Edificio Brisa,439000.0,439000.0,1,False,bajo
+split_3da4f5dfb576735b,1,1,1,1,Cochabamba 0,65000.0,65000.0,1,False,bajo
+split_3f3fa3f76af06a40,1,1,1,1,"Santa Fe 2807, Rosario, Santa Fe, Argentina, Rosario, Santa Fe, Argentina.",78000.0,78000.0,1,True,bajo
+split_43feec224071e664,1,1,1,1,San Luis esq Alem - Aqualina,849900.0,849900.0,1,False,bajo
+split_45173f81cfc248af,1,1,1,1,Dorrego y 9 de Julio - Monoambiente,76050.0,76050.0,1,False,bajo
+split_464759e4aae645a8,1,1,1,1,Cochabamba,57000.0,57000.0,1,False,bajo
+split_46acd173d9361420,1,1,1,1,Condo Loft 2 - Tierra Nueva Fisherton,120000.0,120000.0,1,False,bajo
+split_49b146d6579dc45a,1,1,1,1,Santa Fe 1495,195000.0,195000.0,1,True,bajo
+split_4a53d7a34c8029dd,1,1,1,1,Montevideo esq Castellanos,48950.0,48950.0,1,False,bajo
+split_4c9df166301f8f82,1,1,1,1,Cochabamba y 1 de Mayo,55000.0,55000.0,1,False,bajo
+split_4f962acd880c6196,1,1,1,1,Oroño Bis 0,290000.0,290000.0,1,False,bajo
+split_5044483914d36e7c,1,1,1,1,Bv. Oroño y San Lorenzo,220000.0,220000.0,1,False,bajo
+split_5066b812502cba39,1,1,1,1,Mitre esq Catamarca - 8 Piso B,240000.0,240000.0,1,False,bajo
+split_532ab599171c45db,1,1,1,1,Paraguay esq Zeballos - 8 Piso B,261250.0,261250.0,1,False,bajo
+split_5333e001f8bf01c9,1,1,1,1,Zeballos 3247,55000.0,55000.0,1,True,bajo
+split_54cacbce9b343af0,1,1,1,1,Riccheri y Catamarca -complejo Pichincha-,165000.0,165000.0,1,False,bajo
+split_54f17d914dc5234d,1,1,1,1,Pellegrini  6,250000.0,250000.0,1,False,bajo
+split_559532ef8b0b346a,1,1,1,1,"URQUIZA E IRIRONDO, Rosario, Santa Fe, Argentina.",46000.0,46000.0,1,False,bajo
+split_57b77eb784829794,1,1,1,1,Salta y Francia,172500.0,172500.0,1,False,bajo
+split_581e175723464fe7,1,1,1,1,Francia 97,55575.0,55575.0,1,True,bajo
+split_59b7022cb1458b59,1,1,1,1,Jujuy Esquina Ricchieiri,275000.0,275000.0,1,False,bajo
+split_5aa128548d47b2f3,1,1,1,1,SANTA FE 1462,54500.0,54500.0,1,True,bajo
+split_5b059dce88def810,1,1,1,1,Santa Fe 3019 &#x27;7C,88900.0,88900.0,1,True,bajo
+split_5bb70dea1170c583,1,1,1,1,San Luis y Paraguay,130000.0,130000.0,1,False,bajo
+split_5db18811a0b7b440,1,1,1,1,Ov. Lagos / Mendoza - 1 amb CF c/ Terraza,58000.0,58000.0,1,False,bajo
+split_5e25689a29fc5d20,1,1,1,1,9 de Julio / 1º de Mayo - 3 Dorm,239900.0,239900.0,1,False,bajo
+split_61f5adc051831ac7,1,1,1,1,Catamarca Y Cafferata,130000.0,130000.0,1,False,bajo
+split_626c3b6f9bf05e06,1,1,1,1,Pje Isabel la Catolica 4130,110000.0,110000.0,1,True,bajo
+split_63d4d41bb96380c8,1,1,1,1,Alvear esq Rivadavia,198000.0,198000.0,1,False,bajo
+split_642f875ef8cfecb8,1,1,1,1,1 De Mayo ,240000.0,240000.0,1,False,bajo
+split_644adaee5d731968,1,1,1,1,Avenida del Huerto ,440000.0,440000.0,1,False,bajo
+split_64e44f6ccd736e01,1,1,1,1,Santa Fe  2889 &#x27;2A,75000.0,75000.0,1,True,bajo
+split_6573de2a4fc9b4da,1,1,1,1,Avenida de la Libertad  8,335000.0,335000.0,1,False,bajo
+split_6847f3d2599c29d2,1,1,1,1,Santa Fe 3600,39900.0,39900.0,1,True,bajo
+split_69d3c8979ddd06b6,1,1,1,1,España y 3 de Febrero,105000.0,105000.0,1,False,bajo
+split_6a09cd2c72954781,1,1,1,1,Pasaje Tarrico y Rioja,189200.0,189200.0,1,False,bajo
+split_6b98ec1f9e6d4e97,1,1,1,1,Jujuy y Balcarce - 8 Piso,385000.0,385000.0,1,False,bajo
+split_6c37bcf777fd0c34,1,1,1,1,Catamarca y Moreno - 2 Piso,164600.0,164600.0,1,False,bajo
+split_6ca20a470b215994,1,1,1,1,Zeballos y San Martin.  3 Dormitorios,105000.0,105000.0,1,False,bajo
+split_6cf6654b4543c863,1,1,1,1,Bv. Rondeau y Godoy Cruz S/N,57000.0,57000.0,1,False,bajo
+split_6d57353049fb362c,1,1,1,1,27 de Febrero al 300,64000.0,64000.0,1,True,bajo
+split_70487c32722990b8,1,1,1,1,avenida de la libertad,750000.0,750000.0,1,False,bajo
+split_7051286d4cb956e1,1,1,1,1,Cerrito y 1° de Mayo,65000.0,65000.0,1,False,bajo
+split_71e5a97a35f678de,1,1,1,1,"AVENIDA DEL VALLE , Rosario, Santa Fe, Argentina.",458687.0,458687.0,1,False,bajo
+split_71f98682540beef6,1,1,1,1,Parque Urquiza. Cochabamba y Chacabuco,59500.0,59500.0,1,False,bajo
+split_7261b5d95df24c20,1,1,1,1,Riccheri ,75000.0,75000.0,1,False,bajo
+split_739ec379a0acfeb3,1,1,1,1,Catamarca y Corrientes,154640.0,154640.0,1,False,bajo
+split_786972b8d9db5a4a,1,1,1,1,Santa Fe al 3019 - Oportunidad Precio Lanzamiento,82900.0,82900.0,1,True,bajo
+split_7936c6bc5282e224,1,1,1,1,pellegrini y avellaneda,48000.0,48000.0,1,False,bajo
+split_7b92da17ba5491e0,1,1,1,1,Paraguay esq Zeballos - 5 Piso C,167200.0,167200.0,1,False,bajo
+split_7ce04322de5cc1a4,1,1,1,1,OV. Lagos Y 3 DE Febrero - 1 Piso D,63000.0,63000.0,1,False,bajo
+split_7d0fbc7859a78899,1,1,1,1,Santa Fe 2400 Zona Centro Rosario,228842.0,228842.0,1,True,bajo
+split_7d2c6309fb5e586d,1,1,1,1,Santa FE 1311,39000.0,39000.0,1,True,bajo
+split_7d8b7b30f2d5304c,1,1,1,1,Brown ,165000.0,165000.0,1,False,bajo
+split_7db98c3ffc4284f0,1,1,1,1,San Juan ,155000.0,155000.0,1,False,bajo
+split_7dcab4f5950cc4da,1,1,1,1,Libertad y Alem,240000.0,240000.0,1,False,bajo
+split_7eba177ea329c0d3,1,1,1,1,Santa fe 2772,225900.0,225900.0,1,True,bajo
+split_7f76671b67b0db16,1,1,1,1,Ov. Lagos  y Urquiza,45000.0,45000.0,1,False,bajo
+split_806ce9ef0402d34e,1,1,1,1,Wheelwright Y Dorrego - Vista Rio - Amenities,570000.0,570000.0,1,False,bajo
+split_8463b9516e77e749,1,1,1,1,Santa Fe 2833,160000.0,160000.0,1,True,bajo
+split_86c63fd22bd4e025,1,1,1,1,Santa Fe 2300 - Dpto 2 Dormitorios,250000.0,250000.0,1,True,bajo
+split_872fb563779a9408,1,1,1,1,Pueyrredon 726,145000.0,145000.0,1,True,bajo
+split_880d578b938ff043,1,1,1,1,Santa Fe 3019 &#x27;2A,88500.0,88500.0,1,True,bajo
+split_884d742c1bc5c207,1,1,1,1,Mendoza e Italia,60000.0,60000.0,1,False,bajo
+split_8ab2edd937de9f1e,1,1,1,1,Santa Fe 1406,95000.0,95000.0,1,True,bajo
+split_8ad097f39f6ad402,1,1,1,1,Salta y Bv. Oroño,280000.0,280000.0,1,False,bajo
+split_8d48780418fc9d16,1,1,1,1,SAN Juan Y OV. Lagos - 1 Piso A,48000.0,48000.0,1,False,bajo
+split_8f44462cc7377588,1,1,1,1,Santa fe al 1100 / Apto Credito,158000.0,158000.0,1,True,bajo
+split_8f9ca409a3092e73,1,1,1,1,Alvear esq Rivadavia - 9 Piso B,198000.0,198000.0,1,False,bajo
+split_8fa88a46c4d35617,1,1,1,1,Santa Fe 3220,42000.0,42000.0,1,True,bajo
+split_921a118257431654,1,1,1,1,SANTA FE 2820,73000.0,73000.0,1,True,bajo
+split_92823418fe4fa7f0,1,1,1,1,Ovidio Lagos ,80000.0,80000.0,1,False,bajo
+split_92f06bb48a58ce58,1,1,1,1,Santa Fe 3019 &#x27;7D,82900.0,82900.0,1,True,bajo
+split_94ce07b6e8f1b3cd,1,1,1,1,Constitucion Y SAN Luis,53000.0,53000.0,1,False,bajo
+split_94fba84d268133b5,1,1,1,1,Alsina ,42000.0,42000.0,1,False,bajo
+split_951eb72e17a96afb,1,1,1,1,Riccheri y San Juan,55000.0,55000.0,1,False,bajo
+split_954a37647a269568,1,1,1,1,Santa Fe 1455,115000.0,115000.0,1,True,bajo
+split_96729699929e7458,1,1,1,1,San Juan &amp; Juan Manuel de Rosas,55700.0,55700.0,1,False,bajo
+split_968786ab45e079f2,1,1,1,1,Paraguay y Pellegrini,119900.0,119900.0,1,False,bajo
+split_975fbe646c081196,1,1,1,1,Catamarca y Pte Roca,175000.0,175000.0,1,False,bajo
+split_99424cede1d78d6f,1,1,1,1,Italia 50 bis,129122.0,129122.0,1,True,bajo
+split_9963822c8932df50,1,1,1,1,Corrientes e Ituzaingó,67000.0,67000.0,1,False,bajo
+split_9c5011510f5c4977,1,1,1,1,Santa Fe 2397,38000.0,38000.0,1,True,bajo
+split_9cb58bb07b1e8f15,1,1,1,1,Rodríguez y 3 de Febrero. Monoambiente.,49755.0,49755.0,1,False,bajo
+split_9ce84fe434d4460c,1,1,1,1,Santa Fe al 1000,197000.0,197000.0,1,True,bajo
+split_9e3af5ad373da737,1,1,1,1,Chacabuco ,430000.0,430000.0,1,False,bajo
+split_9eaa80ca38cb28d5,1,1,1,1,27 DE FEBRERO 2275,78000.0,78000.0,1,True,bajo
+split_9f9cbd94a6a36af3,1,1,1,1,Catamarca Y Roca-piso 7,175000.0,175000.0,1,False,bajo
+split_a0eae87028475095,1,1,1,1,Dorrego Bis,115000.0,115000.0,1,False,bajo
+split_a4e592acd1d88b28,1,1,1,1,Jujuy y Vera Mujica 3200,65000.0,65000.0,1,True,bajo
+split_a5c7f74dbdf3a3fa,1,1,1,1,Jujuy y Moreno,68000.0,68000.0,1,False,bajo
+split_a61ca9beb5945b95,1,1,1,1,Córdoba &amp; Suipacha,142348.0,142348.0,1,False,bajo
+split_a65d829415368c03,1,1,1,1,Santa Fe 3378 | Piso 2 (D),57750.0,57750.0,1,True,bajo
+split_a82cc105347cd056,1,1,1,1,Rivadvia y Alvear,149000.0,149000.0,1,False,bajo
+split_a893329e8e981d45,1,1,1,1,Santa FE 2344,58500.0,58500.0,1,True,bajo
+split_a90d7cf623f89b10,1,1,1,1,Presidente Roca y Av. Wheelwright,235000.0,235000.0,1,False,bajo
+split_ac7bcb3659f1e44b,1,1,1,1,Ov. Lagos  / Tucumán - 1 amb,50000.0,50000.0,1,False,bajo
+split_add5e3e26276bca3,1,1,1,1,Callao esq San Juan,42000.0,42000.0,1,False,bajo
+split_adf3cc061332c56f,1,1,1,1,9 de Julio y 1° de Mayo,239900.0,239900.0,1,False,bajo
+split_b04089e309cc54b8,1,1,1,1,Brown 2800,36000.0,36000.0,1,True,bajo
+split_b127954902a33a5a,1,1,1,1,Pichincha Y Brown - Moderno - Balcón,70000.0,70000.0,1,False,bajo
+split_b39fa4af6aacacbb,1,1,1,1,Condo 7,247000.0,247000.0,1,False,bajo
+split_b52a941d1e0287fc,1,1,1,1,Santa Fe 2470 &#x27;10a,306835.0,306835.0,1,True,bajo
+split_b5c4f74c4b7cb7b1,1,1,1,1,Salta y Moreno,75000.0,75000.0,1,False,bajo
+split_b79144710a2353e0,1,1,1,1,Catamarca  y Callao,45000.0,45000.0,1,False,bajo
+split_b8dc37195080b2c2,1,1,1,1,ITALIA  27,130027.0,130027.0,1,True,bajo
+split_b9f6c859446977dc,1,1,1,1,Bv. Oroño y Córdoba,300000.0,300000.0,1,False,bajo
+split_ba1c20bfadc87491,1,1,1,1,Avenida Libertad 8,335000.0,335000.0,1,False,bajo
+split_bb99fe8c6d07c430,1,1,1,1,Bv. Avellaneda y Genova,345000.0,345000.0,1,False,bajo
+split_bbb8a65ae91b58e5,1,1,1,1,Santa Fe 2400 - Dpto 2 Dormitorios,205000.0,205000.0,1,True,bajo
+split_be353a68bb523f62,1,1,1,1,Santiago y Santa Fe - 2 Dormitorios al Contrafrente + Patio,210000.0,210000.0,1,False,bajo
+split_beb9c8fe216aac3a,1,1,1,1,Santa Fe 3163,52000.0,52000.0,1,True,bajo
+split_bfc995a2002687bd,1,1,1,1,Rivadavia  y Balcarce,425000.0,425000.0,1,False,bajo
+split_c4dabd2548bbf0a6,1,1,1,1,Santa Fe 2700,139000.0,139000.0,1,True,bajo
+split_c8f5022edafe5db6,1,1,1,1,Moreno e Ituzaingo,130000.0,130000.0,1,False,bajo
+split_cd2536c23dadc7c0,1,1,1,1,Montevideo  / San Martin,200000.0,200000.0,1,False,bajo
+split_cf31f4ce336e9551,1,1,1,1,Sarmiento / Urquiza - 2 Dorm,69000.0,69000.0,1,False,bajo
+split_d088addeac9bc782,1,1,1,1,"Santa Fe 1758 Piso 7, Rosario, Santa Fe, Argentina.",260000.0,260000.0,1,True,bajo
+split_d0b0f17d8b6ad389,1,1,1,1,Santa Fe 1723,110000.0,110000.0,1,True,bajo
+split_d0b9f864fc5c7dd5,1,1,1,1,Ovivio Lagos 1597,44000.0,44000.0,1,True,bajo
+split_d27e19505749efc4,1,1,1,1,Santiago Y Santa FE,185000.0,185000.0,1,False,bajo
+split_d391d2062397b1ed,1,1,1,1,San Juan y Buenos Aires,59500.0,59500.0,1,False,bajo
+split_d41d7721d649be48,1,1,1,1,Wheelwright e Italia,130000.0,130000.0,1,False,bajo
+split_d67ec89c89741c92,1,1,1,1,Catamarca y Paraguay - 6 Piso B,301200.0,301200.0,1,False,bajo
+split_d6ac8710e5bcc40a,1,1,1,1,Laprida Esquina Belgrano,65000.0,65000.0,1,False,bajo
+split_d7a5c0ca94572f9a,1,1,1,1,Santa Fe 4047,38000.0,38000.0,1,True,bajo
+split_d7bcc7a8cc44d66f,1,1,1,1,Santa Fe y Oroño Piso 7 (piso Exclusivo),200000.0,200000.0,1,False,bajo
+split_d90f98208adbf8a9,1,1,1,1,Santiago Bis 0,358100.0,358100.0,1,False,bajo
+split_da55f75f6d279b21,1,1,1,1,Midtown - Santiago 300,151100.0,151100.0,1,True,bajo
+split_dbf78a301bc25d5a,1,1,1,1,Riccheri y Catamarca - 4 Piso 3,150000.0,150000.0,1,False,bajo
+split_dc3507eb619d55f6,1,1,1,1,Callao y 9 de Julio - Un Dormitorio,24000.0,24000.0,1,False,bajo
+split_dda6980d6ecabc5b,1,1,1,1,9 de Juio 1351,130200.0,130200.0,1,True,bajo
+split_de91aee1d9d9475a,1,1,1,1,Ayacucho al 5900,53000.0,53000.0,1,True,bajo
+split_e081aa3f55c13e67,1,1,1,1,Dorrego y 9 de Julio - 2 Dormitorios,220500.0,220500.0,1,False,bajo
+split_e164c7f813ccd72a,1,1,1,1,Santa Fe 2285 - 3 Piso 02,67500.0,67500.0,1,True,bajo
+split_e197ee5620d27255,1,1,1,1,Tucumán 2790,45000.0,45000.0,1,True,bajo
+split_e243894c9f9c6f2e,1,1,1,1,Salta y Oroño,280000.0,280000.0,1,False,bajo
+split_e47db78be4cc9562,1,1,1,1,Santiago / 9 de Julio - 1 amb,52500.0,52500.0,1,False,bajo
+split_e66f3d1e2be718fc,1,1,1,1,Cordoba y Corrientes,124000.0,124000.0,1,False,bajo
+split_e79502fbeba3b6d0,1,1,1,1,Río De Janeiro 721,38000.0,38000.0,1,True,bajo
+split_e8db26976996bdcb,1,1,1,1,España y 9 de Julio,64900.0,64900.0,1,False,bajo
+split_e90f453019b4639d,1,1,1,1,Rodríguez ,60000.0,60000.0,1,False,bajo
+split_eb811bda6ad9666c,1,1,1,1,Italia y San Juan-piso 8,310000.0,310000.0,1,False,bajo
+split_ee745735fb18d706,1,1,1,1,Santa Fe 2470 &#x27;pbb,385605.0,385605.0,1,True,bajo
+split_ee9fb9c26f08d71a,1,1,1,1,Cordoba y Francia,55000.0,55000.0,1,False,bajo
+split_ef059c5b6f389b08,1,1,1,1,Córdoba y Cafferata,85000.0,85000.0,1,False,bajo
+split_efc7153d05f8b5fc,1,1,1,1,Catamarca y Paraguay - 8 Piso D,161500.0,161500.0,1,False,bajo
+split_f166375337f6333d,1,1,1,1,Santa Fe 2100 - Piso 03 - Exclusivo,181000.0,181000.0,1,True,bajo
+split_f1da9a5b1a60f833,1,1,1,1,Barrio Lourdes - 3 de Febrero y Pueyrredon,135000.0,135000.0,1,False,bajo
+split_f4c8a373049bfcf3,1,1,1,1,Santa Fe 1446 Rosario Santa Fe MICROCENTRO,55000.0,55000.0,1,True,bajo
+split_f4d2d2b1a0265e9d,1,1,1,1,PARAGUAY ESQ ZEBALLOS,90725.0,90725.0,1,False,bajo
+split_f557a4ff0ceb3334,1,1,1,1,Santa fe 1247,93000.0,93000.0,1,True,bajo
+split_f5952d4edefa1593,1,1,1,1,ITALIA 85,35000.0,35000.0,1,True,bajo
+split_f6eb11e0fcd305f7,1,1,1,1,Santa Fe 778,165000.0,165000.0,1,True,bajo
+split_f8807378352ff52a,1,1,1,1,Catamarca e Italia,155900.0,155900.0,1,False,bajo
+split_f91f810b1699731b,1,1,1,1,Santa FE Y España,110000.0,110000.0,1,False,bajo
+split_fa38090c837b02b4,1,1,1,1,Santa Fe 3019 &#x27;7B,94900.0,94900.0,1,True,bajo
+split_fb43bc6c75bd9ccb,1,1,1,1,Santa Fe y Ov. Lagos,98000.0,98000.0,1,False,bajo
+split_fcd38442b264f798,1,1,1,1,Güemes y Pichincha,120000.0,120000.0,1,False,bajo
+split_fd35977f6e34fc7b,1,1,1,1,18b3 | Av.estanislao Lopez 2671 - Torre Maui | 1 Dormitorio + Cochera + Baulera,199000.0,199000.0,1,True,bajo
+split_fe0a5eceb74b58c5,1,1,1,1,Santa Fe 1063 &#x27;3E,220000.0,220000.0,1,True,bajo
+split_ff1e86f5dde56c10,1,1,1,1,Entre Ríos e Ituzaingo,155000.0,155000.0,1,False,bajo
+split_ffc8d0487c8c2101,1,1,1,1,Mitre y Av. Pellegrini,90000.0,90000.0,1,False,bajo
+split_006ec38abe864c0c,1,1,1,1,MARIANO MORENO 1989,220000.0,220000.0,0,True,bajo
+split_01e0cdd1cc5607b8,1,1,1,1,"3 de Febrero  al 50, Rosario",370000.0,370000.0,0,True,bajo
+split_020fb8ed1937bf64,1,1,1,1,Richieri al 1300,75000.0,75000.0,0,True,bajo
+split_0226a1c2298f3d33,1,1,1,1,Roca al 2300,158550.0,158550.0,0,True,bajo
+split_02f63c186b7f2efa,1,1,1,1,CORDOBA 4514,65000.0,65000.0,0,True,bajo
+split_0652d45dd65e600d,1,1,1,1,SANCHEZ DE TRIANA 807,42000.0,42000.0,0,True,bajo
+split_06d08c91b14346f8,1,1,1,1,Dr. Luis Vila al 700,65000.0,65000.0,0,True,bajo
+split_06dd302f84cdf9b9,1,1,1,1,Suipacha 1000-piso 11-unidad A,130000.0,130000.0,0,True,bajo
+split_07214b94b39ef464,1,1,1,1,SAN Martin Y Pellegrini&#x27; 07 03,50000.0,50000.0,0,True,bajo
+split_072fd631fb46a4c1,1,1,1,1,Bv. 27 de Febrero  al 1200,152000.0,152000.0,0,True,bajo
+split_07358c348f7038f9,1,1,1,1,Rioja 3100,79000.0,79000.0,0,True,bajo
+split_08beee4f7fe867ba,1,1,1,1,Colon 2123,31000.0,31000.0,0,True,bajo
+split_09585c2901bc6e55,1,1,1,1,Rioja 4397,26000.0,26000.0,0,True,bajo
+split_09c7dd1c7c7d36bb,1,1,1,1,San Luis 2435,72000.0,72000.0,0,True,bajo
+split_0ab27496cda61deb,1,1,1,1,Avenida Ovidio Lagos 100,89000.0,89000.0,0,True,bajo
+split_0b4cfc5fdf6c48a1,1,1,1,1,Roca 890,150000.0,150000.0,0,True,bajo
+split_0b56353778fb3cb8,1,1,1,1,Dorrego 43 | Dúplex 3 Dormitorios - 2A,345000.0,345000.0,0,True,bajo
+split_0c0b49df9ce1ea58,1,1,1,1,Italia 23 Piso 5,279000.0,279000.0,0,True,bajo
+split_0c8395efef37571b,1,1,1,1,Lagos al 600,180000.0,180000.0,0,True,bajo
+split_0cb98e1e9034e155,1,1,1,1,Balcarce 67-piso 5,340000.0,340000.0,0,True,bajo
+split_0d0ee1c87564c461,1,1,1,1,Vera Mujica al 1100,115000.0,115000.0,0,True,bajo
+split_0ea1a7571f5ef5b9,1,1,1,1,Italia bis 60,450000.0,450000.0,0,True,bajo
+split_0f912ec9d657fddd,1,1,1,1,Sta Fe 2280,82000.0,82000.0,0,True,bajo
+split_102887270ff67502,1,1,1,1,Moreno  al 1200,58000.0,58000.0,0,True,bajo
+split_105d518858ae7b26,1,1,1,1,Italia  bis  50,162000.0,162000.0,0,True,bajo
+split_11954033b8894d86,1,1,1,1,Belgrano al 700,200000.0,200000.0,0,True,bajo
+split_124933f7c61d1135,1,1,1,1,Dorrego 43 | 2 Dormitorios + Patio Exclusivo - 1B. EN Construccion,290000.0,290000.0,0,True,bajo
+split_12b552a16d856d0a,1,1,1,1,Avenida Ovidio Lagos 1100,155000.0,155000.0,0,True,bajo
+split_12f84ae015c533ab,1,1,1,1,Riccheri 1200,320000.0,320000.0,0,True,bajo
+split_1334c6f6db1d9265,1,1,1,1,Cafferata  al 1200,105000.0,105000.0,0,True,bajo
+split_133bac9a8170fa45,1,1,1,1,MORENO 2133,120000.0,120000.0,0,True,bajo
+split_144fe6e80814c835,1,1,1,1,España 11,141000.0,141000.0,0,True,bajo
+split_14eaccb0b2168b9d,1,1,1,1,Galvez  al 2000,47500.0,47500.0,0,True,bajo
+split_156213d944043a7e,1,1,1,1,Chacabuco 2100,39990.0,39990.0,0,True,bajo
+split_16ed970648ad0336,1,1,1,1,3 De Febrero 2500,100000.0,100000.0,0,True,bajo
+split_1729b71c0b751fc3,1,1,1,1,Sarmiento al 1400,88000.0,88000.0,0,True,bajo
+split_190c5755c0a643bf,1,1,1,1,Río de Janeiro 800,30000.0,30000.0,0,True,bajo
+split_1a0205d9a8686a49,1,1,1,1,Rodríguez al 2800,30000.0,30000.0,0,True,bajo
+split_1b83336c27861edf,1,1,1,1,Gutenberg 792,70000.0,70000.0,0,True,bajo
+split_1be168c91cb830fc,1,1,1,1,av Ovidio Lagos  al 2800,40000.0,40000.0,0,True,bajo
+split_1c3086637dda31dd,1,1,1,1,Av Francia  al 1200,86000.0,86000.0,0,True,bajo
+split_1c6ca7a370a3b1be,1,1,1,1,Ov. Lagos 67,55000.0,55000.0,0,True,bajo
+split_1cbc070d2ec6612e,1,1,1,1,Riobamba  al 1000,69000.0,69000.0,0,True,bajo
+split_1cd179e9ccf6a3be,1,1,1,1,OV. Lagos Esq. 9 DE Julio&#x27; 09 B,316739.0,316739.0,0,True,bajo
+split_1d36efb70bcd08f7,1,1,1,1,Corrientes 2539,85000.0,85000.0,0,True,bajo
+split_1dd7d22c4f3acfc7,1,1,1,1,Entre Ríos Nº al 400,290000.0,290000.0,0,True,bajo
+split_1e78de3789b4ee38,1,1,1,1,Moreno 65,295000.0,295000.0,0,True,bajo
+split_1ea44940cc650d30,1,1,1,1,Rueda 2227,108000.0,108000.0,0,True,bajo
+split_1fbdc188f88ba726,1,1,1,1,Alvear 1500,159000.0,159000.0,0,True,bajo
+split_1fe7dbca97790196,1,1,1,1,Oroño 622,105000.0,105000.0,0,True,bajo
+split_2134a103104f755d,1,1,1,1,Montevideo  al 800,65000.0,65000.0,0,True,bajo
+split_22529492c450779a,1,1,1,1,Rioja al 3000,44000.0,44000.0,0,True,bajo
+split_22ff47edf57cd2ee,1,1,1,1,Balcarce bis 63,122000.0,122000.0,0,True,bajo
+split_2394e650e9b3ae00,1,1,1,1,Ocampo 44,44000.0,44000.0,0,True,bajo
+split_241383c5323d6d76,1,1,1,1,Mariano Moreno 2000,130000.0,130000.0,0,True,bajo
+split_241c47af347df578,1,1,1,1,3 de Febrero 53 &#x27;piso 6,370000.0,370000.0,0,True,bajo
+split_24a6044547597629,1,1,1,1,Av. Ovidio Lagos  al 1400,55000.0,55000.0,0,True,bajo
+split_24e6af0bf2200a6c,1,1,1,1,Pasco al 1000,69900.0,69900.0,0,True,bajo
+split_24f8d1e0c0ae120b,1,1,1,1,Bv. Oroño 8 bis &#x27;02-01,340000.0,340000.0,0,True,bajo
+split_259f73e124c7a0cf,1,1,1,1,Rosario - Lourdes - Av. Pellegrini 2632,184000.0,184000.0,0,True,bajo
+split_25ecd9fb481880f8,1,1,1,1,Avenida Pellegrini Bis 25,43000.0,43000.0,0,True,bajo
+split_262c62f81f15059d,1,1,1,1,PJE Ricardone AL 1200,63000.0,63000.0,0,True,bajo
+split_26b6cebf0cee6d0e,1,1,1,1,1 de Mayo al 2100,95000.0,95000.0,0,True,bajo
+split_26c6c8dac46fdd8b,1,1,1,1,San Loreno  al 2800,144900.0,144900.0,0,True,bajo
+split_26e095c13d5fb3d9,1,1,1,1,Crespo al 1400,38000.0,38000.0,0,True,bajo
+split_27d798f168c5e8c0,1,1,1,1,Ituzaingo 1524 1B,70000.0,70000.0,0,True,bajo
+split_280f5a9b208143f6,1,1,1,1,Dorrego 43 Dos Dormitorios con Pileta - Piso 3 A - Venta,252000.0,252000.0,0,True,bajo
+split_2830c71246e4f559,1,1,1,1,Lavalle 591,33500.0,33500.0,0,True,bajo
+split_28440f8a706d8f5c,1,1,1,1,Dorrego 59 bis,108000.0,108000.0,0,True,bajo
+split_28b27e806fd2db78,1,1,1,1,Balcarce 5000,32000.0,32000.0,0,True,bajo
+split_29a9a4cfce5d2750,1,1,1,1,Ocampo 493,56000.0,56000.0,0,True,bajo
+split_2a764f078151b2c3,1,1,1,1,9 de Julio al 3500,53000.0,53000.0,0,True,bajo
+split_2ae55cc9fe0bb0ae,1,1,1,1,9º 902 - T2 - Metra | Av. Luis Candido Carballo 580 - Loft,65000.0,65000.0,0,True,bajo
+split_2b0876c1c86ce658,1,1,1,1,Santiago Bis 108,60000.0,60000.0,0,True,bajo
+split_2b264c6077f80b51,1,1,1,1,Cordoba Y Suipacha&#x27;  03 C,138602.0,138602.0,0,True,bajo
+split_2b604ce7aa0b4330,1,1,1,1,Entre Rios AL 2100,90000.0,90000.0,0,True,bajo
+split_2b865a8391b63d36,1,1,1,1,Santiago 60 Bis.  Pichincha.,179000.0,179000.0,0,True,bajo
+split_2bdf5b7d980c1fc4,1,1,1,1,Mariano Moreno 900,175000.0,175000.0,0,True,bajo
+split_2c5fa066f4383583,1,1,1,1,España 24,198000.0,198000.0,0,True,bajo
+split_2c9b3af330450114,1,1,1,1,zeballos 41,68000.0,68000.0,0,True,bajo
+split_2cd8b3af8aae5f17,1,1,1,1,3 de Febrero 66,128000.0,128000.0,0,True,bajo
+split_2d7a97876b00aa72,1,1,1,1,España 73,190000.0,190000.0,0,True,bajo
+split_2ddcafee5413af71,1,1,1,1,Callao 320,150000.0,150000.0,0,True,bajo
+split_2e2f1f5a57439c30,1,1,1,1,Urquiza  al 1200,110000.0,110000.0,0,True,bajo
+split_2e3516526894b93f,1,1,1,1,Dorrego Bis 100,119000.0,119000.0,0,True,bajo
+split_2e64c8492b07c654,1,1,1,1,Avellaneda al 1200,62000.0,62000.0,0,True,bajo
+split_2ea214698005b61b,1,1,1,1,Ov. Lagos 741,32000.0,32000.0,0,True,bajo
+split_2ea597544f13945b,1,1,1,1,Ovidio Lagos 763 - Barrio Lourdes,90000.0,90000.0,0,True,bajo
+split_2ee48272d15f814d,1,1,1,1,Santiago 69,46000.0,46000.0,0,True,bajo
+split_2f75c276378a6702,1,1,1,1,Marcos Paz 4700,33500.0,33500.0,0,True,bajo
+split_2f9c99acbf24750a,1,1,1,1,Aqualina. Av. Libertad 396. 07 - 01,530000.0,530000.0,0,True,bajo
+split_2f9f400df4de08f8,1,1,1,1,San Luis al 1700,215000.0,215000.0,0,True,bajo
+split_31422156b109bdf5,1,1,1,1,Crespo al 600,92000.0,92000.0,0,True,bajo
+split_3187bdc6d2ab5d87,1,1,1,1,SAN Martin Y Pellegrini&#x27; 07 05,64000.0,64000.0,0,True,bajo
+split_319b2701b499d11a,1,1,1,1,Ocampo 513,73000.0,73000.0,0,True,bajo
+split_32cdb3ab0209b39c,1,1,1,1,Italia  27 Bis (07-01) Piso Exclusivo,378000.0,378000.0,0,True,bajo
+split_347ff861e2fb131d,1,1,1,1,Valparaiso 1000,67500.0,67500.0,0,True,bajo
+split_3530037e9b5bbf9d,1,1,1,1,Dr. Álvarez 1530,92000.0,92000.0,0,True,bajo
+split_3583a8ac530ecdc0,1,1,1,1,Wheelwright 1800,460000.0,460000.0,0,True,bajo
+split_3620e5c66ca9d155,1,1,1,1,1 de Mayo 2026,69000.0,69000.0,0,True,bajo
+split_362e12cf7d801c6e,1,1,1,1,Doctor Alvarez al 1500,120000.0,120000.0,0,True,bajo
+split_3753554c8fd9f963,1,1,1,1,Jujuy y Pichincha (01-07),275000.0,275000.0,0,True,bajo
+split_375af5424312b803,1,1,1,1,SAN NICOLAS 1628,42000.0,42000.0,0,True,bajo
+split_378ee87f773a7b11,1,1,1,1,SAN Martin  al 2400,41500.0,41500.0,0,True,bajo
+split_37ab0353a4907720,1,1,1,1,Juan Manuel DE Rosas al 2200,53000.0,53000.0,0,True,bajo
+split_37d4f68f7ffa222d,1,1,1,1,Primero de Mayo al 1300,110000.0,110000.0,0,True,bajo
+split_37f81e06063e668c,1,1,1,1,Santiago 69 Bis. Pichincha,39900.0,39900.0,0,True,bajo
+split_38278fad38d6b357,1,1,1,1,OV. Lagos Esq. 9 DE Julio&#x27; 08 A,425783.0,425783.0,0,True,bajo
+split_3916dc5d6f48a8de,1,1,1,1,Catamarca 2500,62000.0,62000.0,0,True,bajo
+split_3949083a6d50c1ae,1,1,1,1,Primero de Mayo al 2100,98000.0,98000.0,0,True,bajo
+split_3958a96fbb3dc6fd,1,1,1,1,Dorrego 43 Dos Dormitorios Duplex - Unidad 3 B - Venta,220000.0,220000.0,0,True,bajo
+split_396a69b6f24e1857,1,1,1,1,Pellegrini 10,35000.0,35000.0,0,True,bajo
+split_398a3663534f65db,1,1,1,1,Dorrego 43. Entre Jujuy y Brown,170000.0,170000.0,0,True,bajo
+split_39bb4d3829f77b0f,1,1,1,1,Balcarce   16 - Piso 4 - Rosario Santa Fe,65000.0,65000.0,0,True,bajo
+split_3b85879230e88c24,1,1,1,1,Ov. Lagos y el Río&#x27; 02 B,362958.0,362958.0,0,True,bajo
+split_3c5631ba93316c03,1,1,1,1,Italia 27 | Semipiso de 1 Dormitorio Zona Rio,130027.0,130027.0,0,True,bajo
+split_3cddc2d4f539c1e0,1,1,1,1,Montevideo al 3900,120000.0,120000.0,0,True,bajo
+split_3d0f91ec012c1b6f,1,1,1,1,L.N. Alem 1262,69000.0,69000.0,0,True,bajo
+split_3dcb567c035a1e0e,1,1,1,1,Cochabamba 35 bis,39000.0,39000.0,0,True,bajo
+split_3e77b1815f6d3f7b,1,1,1,1,9 De Julio al 3600,90000.0,90000.0,0,True,bajo
+split_3e9903e147de9129,1,1,1,1,Newbery 1500  - Piso 1º  Dpto C ( ex Pje Mármol),35000.0,35000.0,0,True,bajo
+split_3ffac6d37bf978bf,1,1,1,1,Martín Rodríguez 100,175000.0,175000.0,0,True,bajo
+split_435d4ac4944ee158,1,1,1,1,MENDOZA 735 - PB - A,68000.0,68000.0,0,True,bajo
+split_440f885a8fdc917c,1,1,1,1,Ovidios Lagos  al 1400,316700.0,316700.0,0,True,bajo
+split_4484dd4a9c70a188,1,1,1,1,Entre Ríos Nº al 600,79000.0,79000.0,0,True,bajo
+split_44b9e8d46f554751,1,1,1,1,Tucumán 3400,37700.0,37700.0,0,True,bajo
+split_44f5fa12b82d7d0c,1,1,1,1,España al 1000,79500.0,79500.0,0,True,bajo
+split_44f72e1e6efbffd0,1,1,1,1,Avenida Pellegrini 3400,78000.0,78000.0,0,True,bajo
+split_45812fdd13928e46,1,1,1,1,Rosario - Centro - Balcarse  al 500,385000.0,385000.0,0,True,bajo
+split_45ca67854ed8f0eb,1,1,1,1,Balcarce 16,64000.0,64000.0,0,True,bajo
+split_4614a82352f208cd,1,1,1,1,Pellegrini 200,62000.0,62000.0,0,True,bajo
+split_46aacc1539ef0ec3,1,1,1,1,Catamarca 3500,80000.0,80000.0,0,True,bajo
+split_46c2cbd41d85fe88,1,1,1,1,Moreno 12. 3º Piso. Semipiso Loft 1 Dormitorio,107500.0,107500.0,0,True,bajo
+split_4791acd2ab400bcd,1,1,1,1,Pasco 1400  - Duplex Interno 1 Dormitorio C/terraza Exclusiva - Cochera Opcional -  01-04 - 02-04 - Alquilado  06/27,55000.0,55000.0,0,True,bajo
+split_485fea68e5d82cc6,1,1,1,1,Italia 27 | Piso Exclusivo 3 Dormitorios Con Parrillero Opcion Cochera,378573.0,378573.0,0,True,bajo
+split_49028962ed32dfd9,1,1,1,1,Bv. Rondeau 364 05,65000.0,65000.0,0,True,bajo
+split_49aa81ab118fa64f,1,1,1,1,Av Francia 97 Piso 3. 2 Dormitorios,124754.0,124754.0,0,True,bajo
+split_4b9edde43ba8ab46,1,1,1,1,San Lorenzo al 4000,40000.0,40000.0,0,True,bajo
+split_4cf28c1fedb39b24,1,1,1,1,Avenida Ovidio Lagos 1200,60000.0,60000.0,0,True,bajo
+split_4d1a706d70ee83ce,1,1,1,1,Cordoba Y Suipacha&#x27;  05 A,175527.0,175527.0,0,True,bajo
+split_4d35b13a00dac251,1,1,1,1,Lavalle al 1300,42000.0,42000.0,0,True,bajo
+split_4d4fabe82ddf0c9e,1,1,1,1,pellegrini 3500,45000.0,45000.0,0,True,bajo
+split_4df440a07d7bf076,1,1,1,1,Pasaje Álvarez al 1500,150000.0,150000.0,0,True,bajo
+split_4dfd780ceaadea9c,1,1,1,1,Ov. Lagos 86 bis &#x27;05-02,55000.0,55000.0,0,True,bajo
+split_4f47317d0421b164,1,1,1,1,Pasco 546,118000.0,118000.0,0,True,bajo
+split_4f78aff48620532c,1,1,1,1,balcarce  12,225000.0,225000.0,0,True,bajo
+split_4fdf440e5c642e85,1,1,1,1,3 De Febrero 3369,46000.0,46000.0,0,True,bajo
+split_501d37138cccb255,1,1,1,1,Cerrito  al 1800,59000.0,59000.0,0,True,bajo
+split_50d73519b1def708,1,1,1,1,"Córdoba &amp; Suipacha, S2002 Rosario, Santa Fe, Argentina, Rosario, Santa Fe, Argentina.",47000.0,47000.0,0,True,bajo
+split_51127c622ec1796e,1,1,1,1,Paraná al 1100,72000.0,72000.0,0,True,bajo
+split_5470c4ca287f64cf,1,1,1,1,Ricchieri 245,55000.0,55000.0,0,True,bajo
+split_553d8999aaecdea6,1,1,1,1,Martín Rodríguez 300,95000.0,95000.0,0,True,bajo
+split_55923ed31b1c3e27,1,1,1,1,Rodríguez 57,165000.0,165000.0,0,True,bajo
+split_55aa94b50524726b,1,1,1,1,Presidente Roca LA 1400,68000.0,68000.0,0,True,bajo
+split_561d929ddc8bf3e2,1,1,1,1,Ituizango  al 1600,215000.0,215000.0,0,True,bajo
+split_564811a470779740,1,1,1,1,Lagos 1200,63000.0,63000.0,0,True,bajo
+split_5730a99b3c871232,1,1,1,1,España 20,200000.0,200000.0,0,True,bajo
+split_57364513221714e5,1,1,1,1,San Nicolas 298,50000.0,50000.0,0,True,bajo
+split_57e0fff3d9f46961,1,1,1,1,San Luis al 3000,45000.0,45000.0,0,True,bajo
+split_582002c421e9477f,1,1,1,1,Catamarca 3400,125000.0,125000.0,0,True,bajo
+split_589c96c2bee262d0,1,1,1,1,Chacabuco al 1700,38000.0,38000.0,0,True,bajo
+split_58aee006ae53e535,1,1,1,1,Ayacucho  al 5400,57000.0,57000.0,0,True,bajo
+split_58cc4366dcd97979,1,1,1,1,Dorrego 43. Duplex 08 - A,450000.0,450000.0,0,True,bajo
+split_5a6fe2b3b94fbe8c,1,1,1,1,"Dorrego 43 | 2 Dormitorios , 2°b. EN Construccion",195000.0,195000.0,0,True,bajo
+split_5bc6544d898e17b0,1,1,1,1,san Lorenzo al 2000,102000.0,102000.0,0,True,bajo
+split_5c5c7185845141b7,1,1,1,1,Dorrego 43 - 8 Piso,450000.0,450000.0,0,True,bajo
+split_5c96f29207a699a4,1,1,1,1,9 de Julio 2314,72000.0,72000.0,0,True,bajo
+split_5cbe61abbef78011,1,1,1,1,Sarmiento   1600,129000.0,129000.0,0,True,bajo
+split_5d217ddedbf788b4,1,1,1,1,Servando Bayo  800,48000.0,48000.0,0,True,bajo
+split_5f1b3b5bc0d63213,1,1,1,1,Colon  al 1300,53000.0,53000.0,0,True,bajo
+split_5f4f4d2ed8dba409,1,1,1,1,Presidente Roca al 1600,55000.0,55000.0,0,True,bajo
+split_5f60d535430302f3,1,1,1,1,Pasco 424 Piso 6,99000.0,99000.0,0,True,bajo
+split_5fd63af2a6aa914b,1,1,1,1,Cerrito 1090,75000.0,75000.0,0,True,bajo
+split_5ff32fc385e31f7d,1,1,1,1,España  al 1700,290000.0,290000.0,0,True,bajo
+split_602fb291632fff4f,1,1,1,1,1 Mayo 1140,70000.0,70000.0,0,True,bajo
+split_60b31fa3ee37cc45,1,1,1,1,Mendoza 3378,68500.0,68500.0,0,True,bajo
+split_60d655bb21c27811,1,1,1,1,Rosario - Barrio Martin - San Juan al 500,179000.0,179000.0,0,True,bajo
+split_6137d2f57f21f648,1,1,1,1,Alsina 1100,65000.0,65000.0,0,True,bajo
+split_617d57b7332ee5e2,1,1,1,1,Buenos Aires 1831,260000.0,260000.0,0,True,bajo
+split_6192971b28617e15,1,1,1,1,Vera Mujica al 900,69000.0,69000.0,0,True,bajo
+split_61a9bd8ae98fe83d,1,1,1,1,Abasto - Ituzaingo 1600. 06 - B,190000.0,190000.0,0,True,bajo
+split_61d8934fa1f29ac0,1,1,1,1,Dorrego 43 Un Dormitorio con Pileta - Piso 5  B  - Venta,160000.0,160000.0,0,True,bajo
+split_61e8071a872040e6,1,1,1,1,Tucuman al 1800 - Dpto 2 Dormitorios - Alquilado,78000.0,78000.0,0,True,bajo
+split_63068cd8609c9077,1,1,1,1,Dorrego  71 &#x27;4A,79000.0,79000.0,0,True,bajo
+split_6322c1a6a2ff63ee,1,1,1,1,Ituzaingó al 700,47000.0,47000.0,0,True,bajo
+split_6330dc46ea58a27a,1,1,1,1,Bordabehere 3723,52000.0,52000.0,0,True,bajo
+split_6361b5d48fa58d65,1,1,1,1,Alem al 2500,25000.0,25000.0,0,True,bajo
+split_636e7992a6aa926b,1,1,1,1,Alem 1942,51000.0,51000.0,0,True,bajo
+split_643db2826f727c23,1,1,1,1,Rivadavia al 2619 8vo Vista RIO,425000.0,425000.0,0,True,bajo
+split_64839f530012c1d4,1,1,1,1,San Martin  al 2300,75000.0,75000.0,0,True,bajo
+split_64b62887f0b76d91,1,1,1,1,Mariano Moreno 467,102000.0,102000.0,0,True,bajo
+split_6607820786ccd550,1,1,1,1,9 de Julio  al 2200,56800.0,56800.0,0,True,bajo
+split_66e4c9d9e4fb60a2,1,1,1,1,Sarmiento 256,700000.0,700000.0,0,True,bajo
+split_677d79cc06cdbf6d,1,1,1,1,Tucumán 3024,35000.0,35000.0,0,True,bajo
+split_678a06276d48a1d1,1,1,1,1,Italia  27 | Piso Exclusivo 3 Dormitorios Con Patio Parrillero Cochera,377443.0,377443.0,0,True,bajo
+split_67fd0e654346d632,1,1,1,1,Mariano Moreno 2557,90000.0,90000.0,0,True,bajo
+split_695741a6df6aeef0,1,1,1,1,Rosario - Rueda 1000,149000.0,149000.0,0,True,bajo
+split_696299ba855dc989,1,1,1,1,Bv. Oroño al 200,98000.0,98000.0,0,True,bajo
+split_69955080b4835afe,1,1,1,1,Alsina 1538,38500.0,38500.0,0,True,bajo
+split_6a3ef8a024a73cea,1,1,1,1,Moreno al 2200. 06-01,48000.0,48000.0,0,True,bajo
+split_6a8585cab0e3edc4,1,1,1,1,Jujuy 1974,260000.0,260000.0,0,True,bajo
+split_6ab4867376ed2046,1,1,1,1,Cordoba al 2000,95000.0,95000.0,0,True,bajo
+split_6ac01f0ad2f91818,1,1,1,1,Alsina 1361,150000.0,150000.0,0,True,bajo
+split_6b31b710ad57be2e,1,1,1,1,9 DE Julio  al 400,40000.0,40000.0,0,True,bajo
+split_6bde666df4363f12,1,1,1,1,Ocampo al 300,27000.0,27000.0,0,True,bajo
+split_6c62cbaa3987b5d4,1,1,1,1,Dorrego al 1800,95000.0,95000.0,0,True,bajo
+split_6c9d0dfd7aab2e15,1,1,1,1,Ricchieri  136,72000.0,72000.0,0,True,bajo
+split_6d7d9fe5293892aa,1,1,1,1,Cerrito 891,38000.0,38000.0,0,True,bajo
+split_6de7cf6947e5e756,1,1,1,1,Roca 2100,68000.0,68000.0,0,True,bajo
+split_6e2b304eda15d11f,1,1,1,1,Iriondo 300 - Planta Baja,42000.0,42000.0,0,True,bajo
+split_6e7a0a28bb2cf9d6,1,1,1,1,3 de Febrero  37,250000.0,250000.0,0,True,bajo
+split_6f1ef08311f974f0,1,1,1,1,Avenida Ovidio Lagos 1600,59000.0,59000.0,0,True,bajo
+split_6f43c14786b6ef05,1,1,1,1,1º de Mayo 1643,30000.0,30000.0,0,True,bajo
+split_72ba3aa0374c5595,1,1,1,1,Paraguay al 2700,69000.0,69000.0,0,True,bajo
+split_72fc1ff48ac17be0,1,1,1,1,Moreno  al 2400,60000.0,60000.0,0,True,bajo
+split_73b2ff270398a202,1,1,1,1,Santiago 99 Bis | Piso Exclusivo de 2 Dormitorios Con Cochera Apto Credito,225000.0,225000.0,0,True,bajo
+split_742e3fca301c718f,1,1,1,1,Pellegrini 58,62000.0,62000.0,0,True,bajo
+split_753f919877d1a660,1,1,1,1,9 de Julio 1800,64000.0,64000.0,0,True,bajo
+split_75899f39efb4f6ef,1,1,1,1,"Marcos Paz  al 3100  Pb,1° Y 2° Piso",180000.0,180000.0,0,True,bajo
+split_75962d3ddc45d773,1,1,1,1,La Paz 1400,75000.0,75000.0,0,True,bajo
+split_75cd257beb2a5e53,1,1,1,1,Mariano Moreno 200,450000.0,450000.0,0,True,bajo
+split_76096ca175e65972,1,1,1,1,Rio de Janeiro 985,27000.0,27000.0,0,True,bajo
+split_763d6a23dfb7b308,1,1,1,1,"Cafferata 3900 , Rosario",63000.0,63000.0,0,True,bajo
+split_7641c4479ff95d7f,1,1,1,1,Ituzaingo 92,60000.0,60000.0,0,True,bajo
+split_76cf4f6f1a5e7aac,1,1,1,1,Paraguay al 1700,74900.0,74900.0,0,True,bajo
+split_77134bba9389d3f7,1,1,1,1,Blvd. 27 de Febrero 1601,79000.0,79000.0,0,True,bajo
+split_774bfbc22b2dc4b8,1,1,1,1,Ov. Lagos 86 bis &#x27;03-03,57000.0,57000.0,0,True,bajo
+split_77d862dc583df90d,1,1,1,1,Riccheri 2027,63000.0,63000.0,0,True,bajo
+split_785578bc1afd6186,1,1,1,1,San Lorenzo  3400 2°,44900.0,44900.0,0,True,bajo
+split_79aa43dbb328f5b4,1,1,1,1,Pellgrini 3800,105000.0,105000.0,0,True,bajo
+split_7a0363c2fa6c1d80,1,1,1,1,9 Julio 1492,89500.0,89500.0,0,True,bajo
+split_7a287e9363db29a8,1,1,1,1,Buenos Aire 1590,32000.0,32000.0,0,True,bajo
+split_7bb4faffa13c60a2,1,1,1,1,LA PAZ al 700,80000.0,80000.0,0,True,bajo
+split_7cd1774a3f4733e7,1,1,1,1,RIVADAVIA 2433,77000.0,77000.0,0,True,bajo
+split_7dafed4897d9fbf4,1,1,1,1,Ocampo 234,23000.0,23000.0,0,True,bajo
+split_7e2731b1996716c5,1,1,1,1,SALTA 3030,42000.0,42000.0,0,True,bajo
+split_7e7eb9afde9b373b,1,1,1,1,M. Boero 3200,29000.0,29000.0,0,True,bajo
+split_7ec35af533a149e5,1,1,1,1,Zeballos al 2416 1D,45000.0,45000.0,0,True,bajo
+split_7f009a84bab97c58,1,1,1,1,San Luis 2671,105000.0,105000.0,0,True,bajo
+split_7f122caa5133e2c3,1,1,1,1,Constitucion  al 800,68000.0,68000.0,0,True,bajo
+split_7f4cdbf93f92aee3,1,1,1,1,Tucuman al 1100,188000.0,188000.0,0,True,bajo
+split_7fc60bbd095b74b2,1,1,1,1,RICCHIERI 1006,64000.0,64000.0,0,True,bajo
+split_7fd4185a9c2c6c22,1,1,1,1,Ov. Lagos y el Río&#x27; 01 A,403293.0,403293.0,0,True,bajo
+split_801845ef64020986,1,1,1,1,Rodrigues 1125,210000.0,210000.0,0,True,bajo
+split_80311e585a63e104,1,1,1,1,San Lorenzo al 900,40000.0,40000.0,0,True,bajo
+split_803de6eafa69247d,1,1,1,1,Mendoza al 2369,159000.0,159000.0,0,True,bajo
+split_809dfcc9d443c524,1,1,1,1,"Suipacha 69, Piso PB 03",45000.0,45000.0,0,True,bajo
+split_80af48e1c5016a38,1,1,1,1,Dorrego 43 &#x27;1B,290000.0,290000.0,0,True,bajo
+split_8112db39812a4378,1,1,1,1,Ovidio Lagos al 800,121275.0,121275.0,0,True,bajo
+split_811401d8d940bb33,1,1,1,1,Ricchieri al 700,79000.0,79000.0,0,True,bajo
+split_81daa56739bf8461,1,1,1,1,Rosario - Martin - Juan Manuel de Rosas al 1100,68000.0,68000.0,0,True,bajo
+split_821cddc4a6f15c66,1,1,1,1,NECOCHEA 2107,29000.0,29000.0,0,True,bajo
+split_8248f53def2e160d,1,1,1,1,Ovidio Lagos al 900,78000.0,78000.0,0,True,bajo
+split_82cc0aeb3c7a5226,1,1,1,1,Italia 27 | Duplex de 2/3 Dormitorios con Parrilero,331813.0,331813.0,0,True,bajo
+split_83137d2316d5b48b,1,1,1,1,Rodriguez al 900,70000.0,70000.0,0,True,bajo
+split_83729ac1882173f8,1,1,1,1,Mendoza 4759,52000.0,52000.0,0,True,bajo
+split_83dd9c6506f5fbe0,1,1,1,1,Santiago  60,205000.0,205000.0,0,True,bajo
+split_8406208886d83cd7,1,1,1,1,Corrientes 822,220000.0,220000.0,0,True,bajo
+split_8454ec8697a64a15,1,1,1,1,Simeoni 1192,237437.0,237437.0,0,True,bajo
+split_84ff7a243d25ed6d,1,1,1,1,Alvear al 1000,80000.0,80000.0,0,True,bajo
+split_85252be71277e9d8,1,1,1,1,Primero de Mayo 1080,195000.0,195000.0,0,True,bajo
+split_85aa71310677bd0d,1,1,1,1,Italia 85 &#x27;8A,459000.0,459000.0,0,True,bajo
+split_860ba9fa49d40489,1,1,1,1,Santiago 273 &#x27;4B,74000.0,74000.0,0,True,bajo
+split_861b088e31738dc4,1,1,1,1,Ayacucho al 2300,60000.0,60000.0,0,True,bajo
+split_863c38ea89ba0c58,1,1,1,1,Virasoro 1571,35000.0,35000.0,0,True,bajo
+split_863eb5677d919a7e,1,1,1,1,Italia 31,145000.0,145000.0,0,True,bajo
+split_86872e04dbc664bd,1,1,1,1,Boulevard 27 de Febrero 700,128000.0,128000.0,0,True,bajo
+split_86cf6c648e655527,1,1,1,1,Balcarce  67 - Alfonso V - Piso 12,240000.0,240000.0,0,True,bajo
+split_86d7e0deed22f5e6,1,1,1,1,Francia  72,39900.0,39900.0,0,True,bajo
+split_86edce40447cbcfe,1,1,1,1,Mendoza 2701,241000.0,241000.0,0,True,bajo
+split_8729009cf1adae38,1,1,1,1,Galvez al 1500,52000.0,52000.0,0,True,bajo
+split_878aed9d386d7999,1,1,1,1,Catamarca 2826,29000.0,29000.0,0,True,bajo
+split_87c86b296da1831f,1,1,1,1,Tte. Gral. Sánchez 4618,24000.0,24000.0,0,True,bajo
+split_884e559ecefad9ef,1,1,1,1,Presidente Roca  al 600,119000.0,119000.0,0,True,bajo
+split_886f1c5997743d2e,1,1,1,1,Cochabamba 45 Bis,55000.0,55000.0,0,True,bajo
+split_89054b9ea363a032,1,1,1,1,Bv. 27 de Febrero y Corrientes,113000.0,113000.0,0,True,bajo
+split_892a4d567fbd602f,1,1,1,1,Cerrito al 1300,110000.0,110000.0,0,True,bajo
+split_89bfaef0792bb09d,1,1,1,1,españa 1960. Entre Pasco y Ituizango,103000.0,103000.0,0,True,bajo
+split_8a4f328f3330b92a,1,1,1,1,Mendoza al 2900,43000.0,43000.0,0,True,bajo
+split_8acb776db9893a9f,1,1,1,1,Moreno al 1300,49500.0,49500.0,0,True,bajo
+split_8ad033174cb47883,1,1,1,1,Catamartca 1226,130000.0,130000.0,0,True,bajo
+split_8b034bde8cf6f680,1,1,1,1,Presidente Roca al 500,110000.0,110000.0,0,True,bajo
+split_8b4a19954e2ccdb5,1,1,1,1,Dorrego 43 Dos Dormitorios Con Patio,280000.0,280000.0,0,True,bajo
+split_8b7103e4a4726c79,1,1,1,1,Brandazza al 2800 - Piso 3° Dpto 02 - U 14,30000.0,30000.0,0,True,bajo
+split_8b9053a8d2613f8d,1,1,1,1,Dorrego 43 Tres Dormitorios Duplex,345000.0,345000.0,0,True,bajo
+split_8c2200edb2efba62,1,1,1,1,3º 318 T1 | Av. Luis Candido Carballo 580 - Metra - 3 Dormitorios,190000.0,190000.0,0,True,bajo
+split_8cb7fd8bb86fa7b9,1,1,1,1,Dorrego 43. Duplex 02 - A,345000.0,345000.0,0,True,bajo
+split_8d22134fc042f36c,1,1,1,1,Pichincha 86 Bis,85000.0,85000.0,0,True,bajo
+split_8dca42e63a8be32f,1,1,1,1,Mariano Moreno 1400,72000.0,72000.0,0,True,bajo
+split_8e91871aeda67cc3,1,1,1,1,España 19 &#x27;11a,395000.0,395000.0,0,True,bajo
+split_8ed79e0a9a1c8d49,1,1,1,1,Mariano Moreno 1054,62000.0,62000.0,0,True,bajo
+split_90568412580a703f,1,1,1,1,San Lorenzo al 3600,47000.0,47000.0,0,True,bajo
+split_911b7d0835d75412,1,1,1,1,Primero de Mayo 1287,34500.0,34500.0,0,True,bajo
+split_91abb054b8734362,1,1,1,1,Ov. Lagos 1579,53000.0,53000.0,0,True,bajo
+split_91b3022ce35a0c07,1,1,1,1,PJE Alfonsina Storni  AL 700,80000.0,80000.0,0,True,bajo
+split_91ba0270496908b2,1,1,1,1,Balcarce 966,90000.0,90000.0,0,True,bajo
+split_91bcc37e9105f667,1,1,1,1,Italia al 1400,73000.0,73000.0,0,True,bajo
+split_91ef8d2350e76c76,1,1,1,1,Costavia - Av Rivadavia al 2500 -3 Dormitorios,550000.0,550000.0,0,True,bajo
+split_92921d84b9e310fb,1,1,1,1,San Nicolás 1000,119000.0,119000.0,0,True,bajo
+split_92ed7dd2731c5e32,1,1,1,1,Praguay 2272,115000.0,115000.0,0,True,bajo
+split_930d9fd3035fa98c,1,1,1,1,Alsina 1700,50000.0,50000.0,0,True,bajo
+split_9545c4bdb340379d,1,1,1,1,"Sargento Cabral 147, Rosario, Santa Fe, Argentina.",139000.0,139000.0,0,True,bajo
+split_95aee3b17b0d55cd,1,1,1,1,Av Belgrano B 901 - 8 Piso B,65000.0,65000.0,0,True,bajo
+split_9611022311c61ac8,1,1,1,1,3 de Febrero al 1600 (pje. Espora  al 1300),60000.0,60000.0,0,True,bajo
+split_96635a8539a7c3ce,1,1,1,1,Avenida Carlos Pellegrini 900,274000.0,274000.0,0,True,bajo
+split_96b9e28f6be560c7,1,1,1,1,SAN LUIS 3495,43000.0,43000.0,0,True,bajo
+split_96ba97e4571f5996,1,1,1,1,San Luis 1922,85000.0,85000.0,0,True,bajo
+split_96f27b359b255ef0,1,1,1,1,Corrientes 387,315000.0,315000.0,0,True,bajo
+split_9739b36c2243dfbd,1,1,1,1,Dorrego Bis 57,210000.0,210000.0,0,True,bajo
+split_9753b4f582c1ac51,1,1,1,1,Pueyrredon  al 1300,69000.0,69000.0,0,True,bajo
+split_977dc189982951e9,1,1,1,1,Avenida Pellegrini 3964,42000.0,42000.0,0,True,bajo
+split_9792f6836a9a77fa,1,1,1,1,LA PAZ 1879,52000.0,52000.0,0,True,bajo
+split_986b5257b6037216,1,1,1,1,Bv. Avellaneda Bis 859,153000.0,153000.0,0,True,bajo
+split_9913269afd100048,1,1,1,1,Boulevard 27 de Febrero 2181,58000.0,58000.0,0,True,bajo
+split_9950662d197c9cf2,1,1,1,1,Jujuy  e Italia - 8 Piso 02,63500.0,63500.0,0,True,bajo
+split_9a12a8315a7a1cd0,1,1,1,1,España  85,400000.0,400000.0,0,True,bajo
+split_9a26c25c14e2dd00,1,1,1,1,Catamarca al 1400,150000.0,150000.0,0,True,bajo
+split_9a36cb0644753d51,1,1,1,1,Pellegrini 25 bis,42000.0,42000.0,0,True,bajo
+split_9a8c0e475c345475,1,1,1,1,Chacabubo  al 2200,37800.0,37800.0,0,True,bajo
+split_9acaea85842fe1c7,1,1,1,1,Colon al 2400,33000.0,33000.0,0,True,bajo
+split_9adc166e424407e6,1,1,1,1,9 de julio 3921,55000.0,55000.0,0,True,bajo
+split_9b82ac3f5df238d3,1,1,1,1,Borwn  al 2100,370000.0,370000.0,0,True,bajo
+split_9c8a099088293bd7,1,1,1,1,Avenida Wheelwright 1823,650000.0,650000.0,0,True,bajo
+split_9cd96e43ab0ad418,1,1,1,1,La paz al 800,36000.0,36000.0,0,True,bajo
+split_9d02f51e37811ed7,1,1,1,1,Martín Rodríguez 900,125000.0,125000.0,0,True,bajo
+split_9d15c51fe0c77f0d,1,1,1,1,Pueyrredon 45 bis,132500.0,132500.0,0,True,bajo
+split_9dcbd6f2c13bf928,1,1,1,1,Cajaraville 96,95000.0,95000.0,0,True,bajo
+split_9dd60609d20dc5a4,1,1,1,1,SGTO CABRAL 147,129000.0,129000.0,0,True,bajo
+split_9f97d90ae446524c,1,1,1,1,Dorrego 90,68000.0,68000.0,0,True,bajo
+split_a00e03781ab1b688,1,1,1,1,Cochabamba  57 bis,50000.0,50000.0,0,True,bajo
+split_a09b2a20e9cb931d,1,1,1,1,Viamonte al 4200,28000.0,28000.0,0,True,bajo
+split_a0d02a12dfe5158b,1,1,1,1,Sgto. Cabral 608,400000.0,400000.0,0,True,bajo
+split_a116260f933e445f,1,1,1,1,Gálvez 2400,60000.0,60000.0,0,True,bajo
+split_a18b9d319827dbbe,1,1,1,1,Dorrego 69 bis 05-01,380000.0,380000.0,0,True,bajo
+split_a19633d1424188b1,1,1,1,1,Corriente  al 1300,120000.0,120000.0,0,True,bajo
+split_a2a0cbb1feba2c63,1,1,1,1,las casas 683,39900.0,39900.0,0,True,bajo
+split_a3348dbca2306c50,1,1,1,1,Lima 1406,35000.0,35000.0,0,True,bajo
+split_a354064774b000e8,1,1,1,1,Oportunidad! - Alem al 1200 - 3 er. Piso,69000.0,69000.0,0,True,bajo
+split_a46f79d9c18a5bb3,1,1,1,1,Pasaje Coolidge 1469,60000.0,60000.0,0,True,bajo
+split_a4bc57e7fa9e02db,1,1,1,1,Lima 1301,57000.0,57000.0,0,True,bajo
+split_a4fe4849aecfc9d3,1,1,1,1,Avenida Francia 200,580000.0,580000.0,0,True,bajo
+split_a5a7f53584e873aa,1,1,1,1,Dorrego Bis 67,380000.0,380000.0,0,True,bajo
+split_a81bfa7f61e3c999,1,1,1,1,Dorrego bis 69 - Piso 4,410000.0,410000.0,0,True,bajo
+split_a83acbe93a7fa34b,1,1,1,1,Zeballos al 3500,42000.0,42000.0,0,True,bajo
+split_a8b5f5c8a0282fae,1,1,1,1,Avellaneda al 900,139000.0,139000.0,0,True,bajo
+split_a8dba2eafc2829b1,1,1,1,1,Balcarce 67-piso 11,240000.0,240000.0,0,True,bajo
+split_a9d5e574ddd0d148,1,1,1,1,Colon 2000,80000.0,80000.0,0,True,bajo
+split_aa61170a859bc3dc,1,1,1,1,9 de Julio 855,43000.0,43000.0,0,True,bajo
+split_aa8e97a58151168e,1,1,1,1,Ov. Lagos y el Río 11 A,808827.0,808827.0,0,True,bajo
+split_abd122d4eb092930,1,1,1,1,San Martin 1150,83000.0,83000.0,0,True,bajo
+split_ac629186c570c14f,1,1,1,1,Av Estanislao López  al 2600,550000.0,550000.0,0,True,bajo
+split_ac79f6a51c516183,1,1,1,1,Costavia - Rivadavia 2500,570000.0,570000.0,0,True,bajo
+split_ac8068d4ca68649b,1,1,1,1,Ituzaingo al 1300,41000.0,41000.0,0,True,bajo
+split_ad437201661c9a25,1,1,1,1,Avellaneda al 1080,490000.0,490000.0,0,True,bajo
+split_ad9aa0a89ea1e0aa,1,1,1,1,Leandro N. Alem 1400,43000.0,43000.0,0,True,bajo
+split_ae1839ee67e59fe5,1,1,1,1,Santiago  al 1200,128000.0,128000.0,0,True,bajo
+split_aebc3c16df84bf51,1,1,1,1,Río de Janeiro 1400,67000.0,67000.0,0,True,bajo
+split_b1483f7d0f99cf96,1,1,1,1,Catamarca y Paraguay - 10 Piso,486100.0,486100.0,0,True,bajo
+split_b16196c47524350e,1,1,1,1,Viamonte 32 bis,42500.0,42500.0,0,True,bajo
+split_b1682877b7113e18,1,1,1,1,Boulevard Oroño 1237,143000.0,143000.0,0,True,bajo
+split_b1726c0ba3ebb564,1,1,1,1,Dorrego  25 bis,155000.0,155000.0,0,True,bajo
+split_b1d1c0a81faeae81,1,1,1,1,Oroño Boulevard 813,230000.0,230000.0,0,True,bajo
+split_b2dc2819d10e0af3,1,1,1,1,Boulevard Oroño 4000,33000.0,33000.0,0,True,bajo
+split_b3104c3f867cad7a,1,1,1,1,Tucuman 2515,42000.0,42000.0,0,True,bajo
+split_b3822b62e1cb689a,1,1,1,1,Urquiza  al 3900,65000.0,65000.0,0,True,bajo
+split_b51ee79ec93c50d9,1,1,1,1,San Juan al 3600,49000.0,49000.0,0,True,bajo
+split_b55a68416bb928de,1,1,1,1,Salta 1500 Rosario,139000.0,139000.0,0,True,bajo
+split_b62be23925e088c5,1,1,1,1,Ayacucho al 1200,55000.0,55000.0,0,True,bajo
+split_b6405e9d7d7bc4a1,1,1,1,1,Rioja al 4100,61000.0,61000.0,0,True,bajo
+split_b683db98c048f306,1,1,1,1,3 de Febrero al 2700,68000.0,68000.0,0,True,bajo
+split_b74003037527165a,1,1,1,1,Rioja  1600,295000.0,295000.0,0,True,bajo
+split_b74c2dd2df6db243,1,1,1,1,Pellegrini al 1000,148000.0,148000.0,0,True,bajo
+split_b78249dd39917c17,1,1,1,1,Bv Avellaneda al 1100,86000.0,86000.0,0,True,bajo
+split_b7e25d14c70e5d8e,1,1,1,1,san luis 5725,30000.0,30000.0,0,True,bajo
+split_b86c910139054a9d,1,1,1,1,San Martin 791,95000.0,95000.0,0,True,bajo
+split_b88a5b5e87c3fa8e,1,1,1,1,1&quot; de mayo 1374,130455.0,130455.0,0,True,bajo
+split_b8962d755aefd51e,1,1,1,1,Pasaje Saguier  al 300,57000.0,57000.0,0,True,bajo
+split_b8b12dc6183162bb,1,1,1,1,Laprida  al 1300,60000.0,60000.0,0,True,bajo
+split_b93b6a9d3e4a0745,1,1,1,1,Bv Oroño 41 bis,450000.0,450000.0,0,True,bajo
+split_ba11dd6bd6939b8d,1,1,1,1,Entre rios 855,44900.0,44900.0,0,True,bajo
+split_ba1b48fe9a10ae1e,1,1,1,1,Unico Bisart - Santiago 60 Bis. 05-03,285000.0,285000.0,0,True,bajo
+split_bb1adc9f7fa99529,1,1,1,1,Valparaíso al 1300,86000.0,86000.0,0,True,bajo
+split_bb32f0231f1d248d,1,1,1,1,1º de Mayo  900,299000.0,299000.0,0,True,bajo
+split_bc3b695b7112dfc5,1,1,1,1,Wheelright 1500,95000.0,95000.0,0,True,bajo
+split_bc3eed6bfb0ae086,1,1,1,1,3 de Febrero 53 - Piso 8 Exclusivo,350000.0,350000.0,0,True,bajo
+split_bd0cea26dd7c4110,1,1,1,1,Moreno 12. Piso 4. Semipiso de Ambiente Único.,70000.0,70000.0,0,True,bajo
+split_bd9cd97c5c511063,1,1,1,1,Entre Ríos  al 2300,41000.0,41000.0,0,True,bajo
+split_bdb04cff3699523c,1,1,1,1,Rodriguez de Escobedo 838,59000.0,59000.0,0,True,bajo
+split_bdf18e5401a64505,1,1,1,1,Avenida Del Huerto 1389,350000.0,350000.0,0,True,bajo
+split_be483d00b19b8b88,1,1,1,1,Riccheri AL 1400,35000.0,35000.0,0,True,bajo
+split_bee1b83ff2707854,1,1,1,1,Fernando El Católico al 4100,48000.0,48000.0,0,True,bajo
+split_beec1fc7335f92e0,1,1,1,1,Av San Martín 2900,130000.0,130000.0,0,True,bajo
+split_bf2e9fee4e61c946,1,1,1,1,1 De Mayo 3651,37000.0,37000.0,0,True,bajo
+split_bf3a4be3c3d56880,1,1,1,1,COCHABAMBA 76,34000.0,34000.0,0,True,bajo
+split_bf46c9adf06a4391,1,1,1,1,Santiago 2600,33000.0,33000.0,0,True,bajo
+split_bfaae2f6dcfc1a4f,1,1,1,1,Oroño bis 41 Duplex,610000.0,610000.0,0,True,bajo
+split_c08d7274140032d5,1,1,1,1,Oroño  al 1000,107000.0,107000.0,0,True,bajo
+split_c111ded41f0720dc,1,1,1,1,1º de Mayo  al 1200,76000.0,76000.0,0,True,bajo
+split_c1d47e5054448754,1,1,1,1,Alem y Av Pellegrini - 1 Piso 01,150000.0,150000.0,0,True,bajo
+split_c234b8d1024df6df,1,1,1,1,Av Belgrano  al 800,190000.0,190000.0,0,True,bajo
+split_c2718940d1e094ca,1,1,1,1,Viamonte al 1300,95000.0,95000.0,0,True,bajo
+split_c2b71786bcfdfa81,1,1,1,1,Moreno 40 bis 18º Piso,480000.0,480000.0,0,True,bajo
+split_c2c593efbd5bfbc6,1,1,1,1,3 de Febrero al 0/100,125000.0,125000.0,0,True,bajo
+split_c2cad528dd2347f7,1,1,1,1,Gálvez 1800,90000.0,90000.0,0,True,bajo
+split_c398f02348f507dc,1,1,1,1,Alsina al 900,50000.0,50000.0,0,True,bajo
+split_c41ed8fcf345cb39,1,1,1,1,Balcarce 1247,89000.0,89000.0,0,True,bajo
+split_c42c7173e1cff978,1,1,1,1,Cochabamba 42 Bis,49000.0,49000.0,0,True,bajo
+split_c557372d81d87920,1,1,1,1,Iriondo al 600,37500.0,37500.0,0,True,bajo
+split_c5a5331a3b4b537f,1,1,1,1,Alem al 2100,54800.0,54800.0,0,True,bajo
+split_c75eb25dcad2b269,1,1,1,1,Robertson 3300,45000.0,45000.0,0,True,bajo
+split_c7e26133d1af9b1c,1,1,1,1,Avenida Wheelwright 1600,199000.0,199000.0,0,True,bajo
+split_c7e339251a756de6,1,1,1,1,SAN NICOLAS 1540,47000.0,47000.0,0,True,bajo
+split_c81c69b2fe7c44cd,1,1,1,1,"Jujuy  - Esquina Vera Mujica, Rosario, Pichincha al 3200",85000.0,85000.0,0,True,bajo
+split_c88510822dc7c78c,1,1,1,1,Gould 900,290000.0,290000.0,0,True,bajo
+split_c905d9558b02ca95,1,1,1,1,Ov. Lagos y el Río&#x27; 01 B,313670.0,313670.0,0,True,bajo
+split_c961f7d9c7f8f226,1,1,1,1,Cochabamaba 54,25000.0,25000.0,0,True,bajo
+split_cb6d7469cbadca69,1,1,1,1,3 DE Febrero 4703 0302,32000.0,32000.0,0,True,bajo
+split_cc45fec6afd2a4ae,1,1,1,1,Catamarca al 3600,63000.0,63000.0,0,True,bajo
+split_cceabba8874a0691,1,1,1,1,Ituzaingó 585,60000.0,60000.0,0,True,bajo
+split_cd8bd9ae32dc7ef1,1,1,1,1,Zeballos 08-02 al 700,80000.0,80000.0,0,True,bajo
+split_cde81c74b3c0cb37,1,1,1,1,"Condo 20, Tierra Nueva, Fisherton",160000.0,160000.0,0,True,bajo
+split_ce1f9577955aeccb,1,1,1,1,Rioja  2200,110000.0,110000.0,0,True,bajo
+split_ce9cd0776c1d633e,1,1,1,1,San Juan al 2100,112000.0,112000.0,0,True,bajo
+split_cef2fe6447473537,1,1,1,1,San Martín al 1800,52000.0,52000.0,0,True,bajo
+split_cff63ae2742d539d,1,1,1,1,Cafferata 671,40000.0,40000.0,0,True,bajo
+split_d1123a09b4718f7c,1,1,1,1,Oroño 2945,55000.0,55000.0,0,True,bajo
+split_d2d91365aaa4842f,1,1,1,1,Moreno 40 Bis &#x27;08-01,350000.0,350000.0,0,True,bajo
+split_d30f290c1a5930d6,1,1,1,1,3 DE Febrero 3451,62000.0,62000.0,0,True,bajo
+split_d366d3698caac828,1,1,1,1,Rioja 4070,40000.0,40000.0,0,True,bajo
+split_d49d3ee632609925,1,1,1,1,Rivadavia 2147 Piso 7 Departamento 2,380000.0,380000.0,0,True,bajo
+split_d5668f7e7f3dec94,1,1,1,1,Ov. Lagos y el Río&#x27; 07 A,458687.0,458687.0,0,True,bajo
+split_d6105c57dc00f2de,1,1,1,1,Pasaje Las Casas 615,31000.0,31000.0,0,True,bajo
+split_d683c206cd8429f0,1,1,1,1,Zeballos esq Dorrego - 8 Piso 06,140926.0,140926.0,0,True,bajo
+split_d80e19a2c4e6be6a,1,1,1,1,Bv. Avellaneda 1200 - Piso 8º Dpto A,45000.0,45000.0,0,True,bajo
+split_d815fb49117e97c6,1,1,1,1,Laprida 1500,33000.0,33000.0,0,True,bajo
+split_d827b5b6cf86191b,1,1,1,1,Whellwright  al 1700,270000.0,270000.0,0,True,bajo
+split_d88231ab0b338566,1,1,1,1,Rioja al 2800,75000.0,75000.0,0,True,bajo
+split_d89dc15a497809d7,1,1,1,1,Avenida Carlos Pellegrini 400,215000.0,215000.0,0,True,bajo
+split_d8f2fee5df44824b,1,1,1,1,Cochabamba 1900,132000.0,132000.0,0,True,bajo
+split_d9167642880147bf,1,1,1,1,Roca al 1200,57000.0,57000.0,0,True,bajo
+split_d9bf99883f7792eb,1,1,1,1,Galvez  al 1900,37000.0,37000.0,0,True,bajo
+split_da1979d2859c7261,1,1,1,1,Salta Y Mitre&#x27; 02 02,485000.0,485000.0,0,True,bajo
+split_db380523ecafdbcf,1,1,1,1,Corrientes 1700,29500.0,29500.0,0,True,bajo
+split_db5f1287bec21f43,1,1,1,1,Vera Mujica  al 300,89000.0,89000.0,0,True,bajo
+split_dbf47f690074af13,1,1,1,1,Urquiza al 2900,52000.0,52000.0,0,True,bajo
+split_dc4a2d385cc174fc,1,1,1,1,Moreno 10,107500.0,107500.0,0,True,bajo
+split_dc7ab4431ce3227a,1,1,1,1,Castellanos al 900,58000.0,58000.0,0,True,bajo
+split_dc877321d5d35c08,1,1,1,1,Sargento Cabral  576 10,240000.0,240000.0,0,True,bajo
+split_dd60ba33ed56e923,1,1,1,1,Cordoba  al 1000,280000.0,280000.0,0,True,bajo
+split_ddcb5193c9c0c5a1,1,1,1,1,Dorrego 43 Tres Dormitorios Con Terraza,450000.0,450000.0,0,True,bajo
+split_ddcc7b7f7df600d2,1,1,1,1,santiago 1558,135000.0,135000.0,0,True,bajo
+split_de715f86d993df44,1,1,1,1,Boulevard 27 de Febrero 400,94000.0,94000.0,0,True,bajo
+split_de8b588f700b765e,1,1,1,1,Dorrego 43. 01-b,290000.0,290000.0,0,True,bajo
+split_dea148f2351cc67a,1,1,1,1,"Gálvez 1100, S2001NWD Rosario, Santa Fe, Argentina, Rosario, Santa Fe, Argentina.",40000.0,40000.0,0,True,bajo
+split_df4e553461b55064,1,1,1,1,Presidente Roca 2190,68000.0,68000.0,0,True,bajo
+split_dfa0d860cef52544,1,1,1,1,Roca  al 200,108000.0,108000.0,0,True,bajo
+split_e0754a3c63e7cf1c,1,1,1,1,Castellanos al 1000,42000.0,42000.0,0,True,bajo
+split_e082d0bb1ec313a7,1,1,1,1,Cafferata  al 1400,130000.0,130000.0,0,True,bajo
+split_e16f07205d2aa7a4,1,1,1,1,Riccheri al 400,43000.0,43000.0,0,True,bajo
+split_e38bd826b6eb1b1c,1,1,1,1,Alsina 1041-echesortu,75000.0,75000.0,0,True,bajo
+split_e40986e578ee622f,1,1,1,1,Ayacucho al 2100,42000.0,42000.0,0,True,bajo
+split_e41597817a0c42ce,1,1,1,1,Montevideo al 2600 - Piso 1 Alquilado,87000.0,87000.0,0,True,bajo
+split_e4466419f8967332,1,1,1,1,Avenida Francia  al 1000,168000.0,168000.0,0,True,bajo
+split_e49bae84f3b391f0,1,1,1,1,Córdoba  y San Nicolas - Cordoba 3600,38000.0,38000.0,0,True,bajo
+split_e4e4af151bb6e16f,1,1,1,1,Cochabamba 458,49000.0,49000.0,0,True,bajo
+split_e540b2372290cbf7,1,1,1,1,Juan B. Cordiviola 1100,112000.0,112000.0,0,True,bajo
+split_e55617e1fc7e7d8e,1,1,1,1,Catamarca  al 3200,29000.0,29000.0,0,True,bajo
+split_e556d25f27677e5f,1,1,1,1,Dorrego al 1000,105000.0,105000.0,0,True,bajo
+split_e59088fdc7aa0e06,1,1,1,1,GUEMES 2827,99000.0,99000.0,0,True,bajo
+split_e6410091cf16360f,1,1,1,1,Caferatta al 1000,52000.0,52000.0,0,True,bajo
+split_e6a436f00f745f02,1,1,1,1,Leandro N. Alem 1344,75000.0,75000.0,0,True,bajo
+split_e81e64dcaefe828f,1,1,1,1,Córdoba 2200,61600.0,61600.0,0,True,bajo
+split_e841a70dc308dba9,1,1,1,1,Cochabamba Bis 29,50000.0,50000.0,0,True,bajo
+split_e85964cd7ff0baf6,1,1,1,1,3 de Febrero  Esq Mitre - 9 Piso 01,212470.0,212470.0,0,True,bajo
+split_e8b9291d914e1182,1,1,1,1,Cafferata al 400,32000.0,32000.0,0,True,bajo
+split_e8e4cab3a1512517,1,1,1,1,Rioja 2116,89000.0,89000.0,0,True,bajo
+split_e95c86a101dcc482,1,1,1,1,Dorrego 43 | 3 Dormitorios + Terraza Exclusiva - 8A EN Construcción,450000.0,450000.0,0,True,bajo
+split_e9be176c6155b1a2,1,1,1,1,Pasco 1500,62000.0,62000.0,0,True,bajo
+split_e9cfcbd0dd088008,1,1,1,1,Viamonte al 300,32000.0,32000.0,0,True,bajo
+split_ea058d756b34cc40,1,1,1,1,Viamonte al 800,34000.0,34000.0,0,True,bajo
+split_eaaab64260f0e1dc,1,1,1,1,Ituzaingó 47,79000.0,79000.0,0,True,bajo
+split_eb37a8aecb4856ce,1,1,1,1,3 de Febrero 53. Piso Exclusivo al Norte. Barrio Martin,350000.0,350000.0,0,True,bajo
+split_eb3cdad8a35da1c0,1,1,1,1,Cochabamba 04-02 1100,80844.0,80844.0,0,True,bajo
+split_ec6f480ab7a273fe,1,1,1,1,Dorrego 57,150000.0,150000.0,0,True,bajo
+split_ecc0893deb982c0c,1,1,1,1,3 de Febrero 72,185000.0,185000.0,0,True,bajo
+split_ed16c174b47e9a9c,1,1,1,1,Zeballos 3328,88000.0,88000.0,0,True,bajo
+split_ed9792dca22a803c,1,1,1,1,Av.francia  al 900,115000.0,115000.0,0,True,bajo
+split_edced1e84e01db85,1,1,1,1,San Juan al 3800,69000.0,69000.0,0,True,bajo
+split_ee002bd3d72b8183,1,1,1,1,Avenida Wheelwright 1901,120000.0,120000.0,0,True,bajo
+split_ee1791232be71d6e,1,1,1,1,LA PAZ al 400,75000.0,75000.0,0,True,bajo
+split_ee3d2f6dcc0c7b5a,1,1,1,1,Avenida Belgrano 700,360000.0,360000.0,0,True,bajo
+split_ee9beeabd85b1850,1,1,1,1,Mitre al 2400,32000.0,32000.0,0,True,bajo
+split_ef532603e84747a7,1,1,1,1,Tucumán 1200 - Depto. En Planta Baja Con Patio,79000.0,79000.0,0,True,bajo
+split_efe79ccafa802981,1,1,1,1,Paraguay  al 2500,79000.0,79000.0,0,True,bajo
+split_f0bf01c6b53754bf,1,1,1,1,Rodríguez 64 Bis,48000.0,48000.0,0,True,bajo
+split_f1b22dc2bbcf27b5,1,1,1,1,Avenida Pellegrini 4300,69000.0,69000.0,0,True,bajo
+split_f2bb4853540df33b,1,1,1,1,Primero de Mayo 1930,69000.0,69000.0,0,True,bajo
+split_f418cdd8d8e3031d,1,1,1,1,Zeballos al 2300,43000.0,43000.0,0,True,bajo
+split_f6d16afac9748ef7,1,1,1,1,Av.pellegrini al 3700,137000.0,137000.0,0,True,bajo
+split_f6f809b49d6e369b,1,1,1,1,Salta  y Paraguay - 11 Piso B,69000.0,69000.0,0,True,bajo
+split_f770e7c16724dde5,1,1,1,1,Sgto Cabral al 400,149000.0,149000.0,0,True,bajo
+split_f91c8087dc3689ad,1,1,1,1,San Juan  al 1700,84000.0,84000.0,0,True,bajo
+split_f92c77e0c1274583,1,1,1,1,Mendoza 1729,45000.0,45000.0,0,True,bajo
+split_f9caf132493c9c88,1,1,1,1,Santiago  al 1100,75000.0,75000.0,0,True,bajo
+split_fa8de3c58fca9a04,1,1,1,1,Dorrego 43 | Dúplex 1 Dormitorio - 5B,170000.0,170000.0,0,True,bajo
+split_fb4bcba6db8cd4a2,1,1,1,1,Zeballos 3457,41000.0,41000.0,0,True,bajo
+split_fc64538b26c21db0,1,1,1,1,3 de Febrero  al 3900,64000.0,64000.0,0,True,bajo
+split_fcc6d6bdd9954f6f,1,1,1,1,SAN LORENZO 2733. Entre Callao y Ovidio Lagos,65000.0,65000.0,0,True,bajo
+split_fd68817b2ab40e30,1,1,1,1,Caferatta 935,42000.0,42000.0,0,True,bajo
+split_fd9d96a71f1cc10a,1,1,1,1,Montevideo  al 1100,79000.0,79000.0,0,True,bajo
+split_fdf8a7ed13dc6ea3,1,1,1,1,Santiago bis  60 -  5 Piso 03,285000.0,285000.0,0,True,bajo
+split_fe3217a06440d6c6,1,1,1,1,Viamonte  1600,95000.0,95000.0,0,True,bajo
+split_ff13a2629ca08c10,1,1,1,1,Ovidio Lagos 18,145000.0,145000.0,0,True,bajo
+split_ffa93f8c7f43316b,1,1,1,1,Córdoba Y Rodríguez - 10 Piso 02,86000.0,86000.0,0,True,bajo

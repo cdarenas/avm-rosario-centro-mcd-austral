@@ -1,0 +1,17 @@
+# Pipeline reproducible — AVM Rosario
+# Probado con Python 3.10–3.12. Instalar:  pip install -r requirements.txt
+pandas>=2.2,<3
+numpy>=2.0,<3
+scipy>=1.13,<2
+matplotlib>=3.8,<4
+seaborn>=0.13,<1
+scikit-learn>=1.4,<2
+statsmodels>=0.14,<1
+lightgbm>=4,<5
+optuna>=3.6,<5      # búsqueda bayesiana de hiperparámetros (LightGBM avanzado)
+shap>=0.44,<1      # interpretabilidad (valores de Shapley)
+# Ejecución de notebooks y exportación de reportes
+jupyter>=1.0
+nbconvert>=7.16,<8
+nbclient>=0.10,<1
+ipykernel>=6.29,<7

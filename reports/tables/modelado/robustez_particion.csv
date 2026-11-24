@@ -1,0 +1,4 @@
+Esquema de partición,R2_log,RMSE_USD
+"Aleatoria, por aviso (referencia)",0.909,36723
+Agrupada por cuadra/edificio (principal),0.896,41037
+Agrupada por celda espacial (~500 m),0.891,42004

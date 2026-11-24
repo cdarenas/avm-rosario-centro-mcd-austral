@@ -1,0 +1,9 @@
+alerta,n,pct_total,accion
+requiere_revision,2046,21.35,auditar; no corregir ni excluir automáticamente
+coordenada_compartida_sospechosa,913,9.53,auditar; no corregir ni excluir automáticamente
+espacial_preliminar_pendiente,816,8.52,auditar; no corregir ni excluir automáticamente
+texto_indica_cochera_no_incluida,408,4.26,auditar; no corregir ni excluir automáticamente
+superficie_cubierta_mayor_total,12,0.13,auditar; no corregir ni excluir automáticamente
+superficie_total_no_positiva,0,0.0,auditar; no corregir ni excluir automáticamente
+precio_m2_no_positivo,0,0.0,auditar; no corregir ni excluir automáticamente
+coordenadas_faltantes,0,0.0,auditar; no corregir ni excluir automáticamente

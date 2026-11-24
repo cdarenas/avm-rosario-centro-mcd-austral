@@ -1,0 +1,15 @@
+candidate_group_id,decision,evidence,review_version
+exact_01402963bd312f08,unidades_distintas_mismo_desarrollo,"Misma tipología y plantilla en Salta 2020, pero precios distintos dentro de un emprendimiento con múltiples unidades",1.0
+exact_215a7a12898374b5,no_resuelto,"Misma dirección, agencia, atributos y texto con precios próximos; el aviso no identifica piso/unidad",1.0
+exact_2fc3a0c4714cb045,republicacion_confirmada,"Mismo precio, dirección, atributos y descripción específica de monoambiente en cuarto piso al frente alquilado; publicado por dos anunciantes",1.0
+exact_39611f75b2f5abdf,unidades_distintas_mismo_desarrollo,"Hitos Catamarca 1544 ofrece 32 unidades; mismo metraje y plantilla no identifican una propiedad física única",1.0
+exact_3c68b1fe81a5fb3d,republicacion_confirmada,"Mismo precio, dirección, atributos y descripción específica de monoambiente en séptimo piso al frente alquilado; publicado por dos anunciantes",1.0
+exact_4e239f6535795155,unidades_distintas_mismo_desarrollo,"Concepto III contiene varias unidades de igual tipología y la diferencia de precio no demuestra republicación",1.0
+exact_5e6fd65ae1b34dc1,no_resuelto,"Mismo texto y tipología pero sin superficies ni identificador de unidad; diferencia de precio amplia",1.0
+exact_7cb4dd9562b26fd4,no_resuelto,"Dos monoambientes equivalentes en BUILDCO XV sin piso/unidad informados; precios próximos",1.0
+exact_9eb9b87e88062cc3,unidades_distintas_mismo_desarrollo,"Hitos Catamarca 1544 ofrece múltiples unidades y el texto repetido es una plantilla comercial",1.0
+exact_bfaf8eef548e35fd,unidades_distintas_mismo_desarrollo,"Cinco precios diferentes para unidades de igual tipología dentro del emprendimiento de 27 de Febrero 1587",1.0
+exact_ecc5aab8dfd4c36f,republicacion_confirmada,"Mismo precio, dirección, atributos y descripción extensa de una unidad para reciclar junto al Monumento",1.0
+repub_80a93f20597ac87f,no_resuelto,"Una publicación identifica cuarto piso E y la otra no informa unidad; misma tipología dentro de un complejo con muchas unidades",1.0
+repub_907f971bb7ad16c0,unidades_distintas_confirmadas,"Las direcciones identifican explícitamente unidades 08 E y 08 F",1.0
+repub_c4cd730cadc47523,republicacion_probable,"Mismo edificio, tipología y superficies casi idénticas; una publicación identifica piso 6 unidad 1 y las agencias/precios difieren",1.0

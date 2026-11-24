@@ -1,0 +1,14 @@
+{
+  "input_priority_rows": 3,
+  "unique_queries_sent": 3,
+  "status_counts": {
+    "resuelta": 3
+  },
+  "validation_counts": {
+    "confirmar_centro_corregir_coordenada": 3
+  },
+  "resolved_district_counts": {
+    "CENTRO": 3
+  },
+  "warning": "Resultados de validación; no se aplicaron cambios al dataset."
+}

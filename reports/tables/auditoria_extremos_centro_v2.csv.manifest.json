@@ -1,0 +1,41 @@
+{
+  "artifact": "auditoria_extremos_centro_v2.csv",
+  "artifact_sha256": "19be3317d8268372689d5610b7b5ceaf4a0fe7b9747c365edbb0efab918557f4",
+  "input_artifact": "zonaprop_v2_eda_centro_v2_barrios.csv.gz",
+  "input_sha256": "13345203626e92cda8a4c50b5954344e4acc051b6e0b5f5f942e211522574fd8",
+  "input_rows": 9582,
+  "audit_rows": 2018,
+  "priority_counts": {
+    "P0": 67,
+    "P1": 364,
+    "P2": 1587
+  },
+  "flag_counts": {
+    "precio_placeholder_hasta_1000": 40,
+    "precio_fuera_p01_p99": 176,
+    "precio_mayor_10x_p99": 1,
+    "superficie_faltante": 520,
+    "superficie_fuera_p01_p99": 157,
+    "superficie_mayor_1000": 4,
+    "cubierta_mayor_total": 12,
+    "precio_m2_fuera_p01_p99": 175,
+    "antiguedad_mayor_150": 1,
+    "banos_mayor_10": 1,
+    "cocheras_mayor_10": 8,
+    "expensas_mayor_p99": 27,
+    "cochera_posiblemente_no_incluida": 408,
+    "coordenada_pendiente": 816
+  },
+  "diagnostic_thresholds": {
+    "precio_p01": 25000.0,
+    "precio_p99": 546700.0,
+    "superficie_p01": 24.0,
+    "superficie_p99": 266.0,
+    "precio_m2_p01": 551.365671641791,
+    "precio_m2_p99": 3571.4285714285716,
+    "expensas_p99": 652300.0000000002
+  },
+  "automatic_corrections": 0,
+  "automatic_exclusions": 0,
+  "warning": "Los umbrales priorizan revisión; no constituyen reglas finales de limpieza."
+}

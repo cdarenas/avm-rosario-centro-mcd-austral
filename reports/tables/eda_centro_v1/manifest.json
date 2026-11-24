@@ -1,0 +1,22 @@
+{
+  "analysis": "eda_inicial_zonaprop_centro_v1",
+  "created_at_utc": "2026-08-20T01:18:14+00:00",
+  "input_artifact": "zonaprop_v2_eda_centro_v1.csv.gz",
+  "input_sha256": "fe5b3ecfcfc46b9e2fb7b9e2f92290ef67352405ead5d2fae92bf5d979c744ef",
+  "rows": 9582,
+  "columns": 80,
+  "unique_property_id": 9582,
+  "duplicate_property_id": 0,
+  "spatial_preliminary_ok": 8766,
+  "spatial_pending": 816,
+  "mutates_input": false,
+  "imputes_missing": false,
+  "removes_outliers": false,
+  "tables": [
+    "completitud_columnas.csv",
+    "resumen_numerico.csv",
+    "frecuencias_categoricas.csv",
+    "segmentos_calidad.csv",
+    "alertas_calidad.csv"
+  ]
+}

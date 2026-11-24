@@ -1,0 +1,28 @@
+{
+  "artifact": "zonaprop_v2_auditoria.csv.gz",
+  "created_at_utc": "2026-08-17T17:04:33+00:00",
+  "source_artifact_sha256": "77a6c8efe0ddcf4f88ecdb9a1165bc12f964de5722049dda244a7b4a9b5381dd",
+  "official_districts_sha256": "7eef799b71ab8976a5f2e62ca1085cefaa1711302af87e8abd07d944e832ae54",
+  "rows": 13594,
+  "excluded_rows": 0,
+  "address_reuse_threshold": 10,
+  "geo_quality_counts": {
+    "G0_sin_coordenadas": 2268,
+    "G1_coordenada_compartida_sospechosa": 851,
+    "G1_fuera_poligono_oficial": 1786,
+    "G2_dentro_poligono_procedencia_legacy": 8689
+  },
+  "official_district_counts": {
+    "CENTRO": 9540,
+    "SIN_COORDENADAS": 2268,
+    "NORTE": 1238,
+    "SUR": 244,
+    "NOROESTE": 145,
+    "OESTE": 85,
+    "SUDOESTE": 74
+  },
+  "requires_review": 6058,
+  "preliminary_target_eda": 13551,
+  "preliminary_spatial_eda": 8661,
+  "warning": "Aptitud preliminar; no constituye la tabla processed final."
+}

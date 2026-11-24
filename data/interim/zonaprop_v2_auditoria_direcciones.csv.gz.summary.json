@@ -1,0 +1,30 @@
+{
+  "artifact": "zonaprop_v2_auditoria_direcciones.csv.gz",
+  "dataset_sha256": "478ac50f51f55a1c010a143fc36c91229e50b574a2d59ce832db0e3f32303ce7",
+  "cache_sha256": {
+    "nominatim_exacta": "21c3f5735fe52c9d5e0f429ef1cd1bd4c9380892da01b3770c132499e51245dd",
+    "georef_exacta": "5d0401d815853c8a88896ad5aa21c74aa27936afe62d098843c24e1e9ffe67f2",
+    "nominatim_calle": "134600a459d87716c201288db08179a6e4ae46119c105c44973f935d44ee53e6"
+  },
+  "rows": 2628,
+  "unique_addresses": 1713,
+  "parsed_street_number_rows": 1647,
+  "provenance_counts": {
+    "nominatim_exacta": 1991,
+    "nominatim_calle": 382,
+    "georef_exacta": 237,
+    "match_solo_por_coordenada": 16,
+    "georef_exacta|nominatim_calle": 2
+  },
+  "priority_counts": {
+    "P2_validar_direccion_fuera_centro": 1476,
+    "P3_validar_coordenada_compartida": 752,
+    "P1_regeocodificar_direccion_exacta": 400
+  },
+  "decisions": [
+    "confirmar_centro",
+    "confirmar_fuera_centro",
+    "corregir_coordenada",
+    "no_resuelto"
+  ]
+}

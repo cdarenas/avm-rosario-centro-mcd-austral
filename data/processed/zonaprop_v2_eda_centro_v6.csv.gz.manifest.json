@@ -1,0 +1,25 @@
+{
+  "artifact": "zonaprop_v2_eda_centro_v6.csv.gz",
+  "artifact_sha256": "f560139d7ea8df31d92c594a52ab66daee7775e26406d04390e65ad88de19739",
+  "content_sha256": "263f1f852a47b540af1edce5308d6449bbe12cb34cd7a1e64c38746793d1ea52",
+  "stage": "processed_preproc_centro_v6",
+  "created_at_utc": "2026-08-26T15:15:10+00:00",
+  "input_artifact": "zonaprop_v2_eda_centro_v5.csv.gz",
+  "input_sha256": "f720f950e1520a96efb2a84388909881aed91413b55be2e1fc99506499e7f446",
+  "input_content_sha256": "ef010facbaa23f35a871f120493d8eeaf2da23444b03ceca89009f61f88d8e05",
+  "input_rows": 4765,
+  "output_rows": 4765,
+  "input_columns": 124,
+  "output_columns": 134,
+  "transformaciones": [
+    "descripcion_limpia (saneo HTML/legal)",
+    "eda_antiguedad_anos/estado (limpieza)",
+    "regularizacion_nombres (eda_*)",
+    "rename feat_litoral_gas->feat_gas_natural"
+  ],
+  "columnas_agregadas": 10,
+  "imputation_applied": false,
+  "winsorization_applied": false,
+  "filas_filtradas": 0,
+  "warning": "Limpieza row-wise + nombres. Imputacion/encoding/outliers van por fold en el modelado."
+}

@@ -1,0 +1,12 @@
+{
+  "dataset_id": "e3c59375-1b8e-46ef-bd40-c57f39c51e0b",
+  "title": "Distritos Descentralizados",
+  "publisher": "Dirección de Cartografía - Municipalidad de Rosario",
+  "resource_url": "https://datosabiertos.rosario.gob.ar/sites/default/files/uploaded_resources/distritos_descentralizados_json.csv",
+  "downloaded_at": "2026-08-17",
+  "coordinate_reference_system": "WGS 84 (EPSG:4326)",
+  "rows": 6,
+  "file": "distritos_descentralizados_rosario.csv",
+  "sha256": "7eef799b71ab8976a5f2e62ca1085cefaa1711302af87e8abd07d944e832ae54",
+  "license": "https://opendatacommons.org/licenses/by/1.0/"
+}

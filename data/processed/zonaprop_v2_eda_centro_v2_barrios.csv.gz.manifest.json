@@ -1,0 +1,24 @@
+{
+  "artifact": "zonaprop_v2_eda_centro_v2_barrios.csv.gz",
+  "artifact_sha256": "13345203626e92cda8a4c50b5954344e4acc051b6e0b5f5f942e211522574fd8",
+  "stage": "processed_eda_enriched_neighborhoods_v1",
+  "input_artifact": "zonaprop_v2_eda_centro_v1.csv.gz",
+  "input_sha256": "fe5b3ecfcfc46b9e2fb7b9e2f92290ef67352405ead5d2fae92bf5d979c744ef",
+  "polygons_artifact": "barrios_oficiales.csv",
+  "polygons_sha256": "771341d1fe32e757b8cb13626a404a3cd58538b29c92c041c6eecb48b12b9b71",
+  "rows": 9582,
+  "input_columns": 80,
+  "output_columns": 87,
+  "unique_property_id": 9582,
+  "assignment_states": {
+    "asignado_coordenada_apta": 8766,
+    "asignado_coordenada_pendiente": 816
+  },
+  "neighborhoods_assigned": 12,
+  "audit_artifact": "auditoria_barrios_centro_v2.csv",
+  "audit_sha256": "f7e8285949b8d8f6dd1a43c3d7e604c9f7fd12be223a10456bcc2f1aa6d86c8a",
+  "original_neighborhood_column_modified": false,
+  "input_modified": false,
+  "warning": "Las asignaciones con coordenada pendiente no son aptas todavía para EDA territorial.",
+  "content_sha256": "d2a1e89a51ce916e6f2541dab9b28febcdd1faeeaf55c94ce97ef6234aeeb10e"
+}
