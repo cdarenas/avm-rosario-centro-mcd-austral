@@ -1,8 +1,8 @@
 # Decisión metodológica: agrupamiento y esquema de partición
 
 > Documento de trazabilidad. Registra la evidencia empírica y el razonamiento detrás de la estrategia de
-> particionado adoptada en la tesis (validación cruzada *group-aware*). Sustenta §3.3 y §3.6 de la
-> metodología y la subsección de robustez del Capítulo 4.
+> particionado adoptada (validación cruzada *group-aware*): el control de republicaciones y de la
+> dependencia espacial, y la sensibilidad del desempeño estimado al esquema de partición.
 
 ## 1. Planteo del problema
 
@@ -36,11 +36,11 @@ publicada 5 veces. Por lo tanto: (a) no hay sobreponderación relevante por repu
 
 ### 2.2 Las republicaciones literales son escasas y no identificables por atributos
 
-La auditoría por firma estructural + descripción exacta (ver `calidad_datos_zonaprop_v2.md`) halló ~3
-republicaciones confirmadas y ~1 probable sobre 14 grupos candidatos (31 filas); no se fusionó ni eliminó
-ninguna observación. Una regla laxa por atributos (misma tipología + superficie ±2 m² + precio ±3 %) marca
-911 avisos (19 %), pero son mayormente **falsos positivos**: edificios con muchas unidades de tipología
-idéntica a precio parecido. Sin piso/unidad ni fotos, la identidad física no es recuperable de forma fiable.
+La auditoría por firma estructural y descripción exacta halló ~3 republicaciones confirmadas y ~1 probable
+sobre 14 grupos candidatos (31 filas); no se fusionó ni eliminó ninguna observación. Una regla laxa por
+atributos (misma tipología + superficie ±2 m² + precio ±3 %) marca 911 avisos (19 %), pero son mayormente
+**falsos positivos**: edificios con muchas unidades de tipología idéntica a precio parecido. Sin piso/unidad
+ni fotos, la identidad física no es recuperable de forma fiable.
 
 **Conclusión:** construir un `property_cluster_id` por atributos sería frágil (umbrales arbitrarios,
 fusionaría unidades distintas) y desproporcionado (≈4 casos). No se construye.
@@ -74,7 +74,7 @@ Balance razonable en tamaño, precio, superficie y composición por barrio. El g
 apenas el 1,1 % de la muestra: no domina ningún fold. La pérdida de eficiencia por agrupar es, por lo tanto,
 despreciable en la práctica (1.377 grupos ⇒ ~275 por fold).
 
-## 3. Modelo vs. estimación (respuesta a la duda de generalización)
+## 3. Modelo vs. estimación
 
 El agrupamiento **no reduce la capacidad del modelo desplegado**: el AVM final se entrena con todas las
 observaciones —todas las cuadras incluidas—. El agrupamiento solo gobierna cómo se **estima** el error. Lo
@@ -93,37 +93,22 @@ interpola desde coordenadas, distancias, barrio y densidad. No queda "a ciegas".
 1. **Conservar todos los avisos** (sin deduplicar): son unidades genuinas; deduplicar perdería información
    real y el peso de las ~4 republicaciones es despreciable.
 2. **No construir un identificador de unidad física** por atributos (frágil y desproporcionado).
-3. **Protocolo principal:** `GroupKFold` sobre `building_cluster_id`, presentado honestamente como
-   agrupamiento de **cuadra/edificio** (validación espacial suave), del cual el control de republicaciones
-   es un caso particular cubierto.
+3. **Protocolo principal:** `GroupKFold` sobre `building_cluster_id`, entendido como agrupamiento de
+   **cuadra/edificio** (validación espacial suave), del cual el control de republicaciones es un caso
+   particular cubierto.
 4. **Reportar la partición aleatoria como referencia** (cota optimista) y la **celda espacial como
    robustez** (cota exigente). El desempeño esperado en operación queda acotado entre la aleatoria y la
    agrupada; la brecha pequeña vuelve la decisión de bajo riesgo numérico.
-5. **Auditar el balance entre folds** (hecho; §2.4).
+5. **Auditar el balance entre folds** (§2.4).
 
-## 5. Material listo para el Capítulo 4 (subsección "Robustez de la partición")
-
-> El diseño experimental adopta como protocolo principal la validación cruzada agrupada por cuadra/edificio.
-> Para dimensionar el efecto de esta elección se contrastaron tres esquemas de partición de severidad
-> creciente, con un mismo modelo y un mismo conjunto de variables (Cuadro). El paso de la partición
-> aleatoria a la agrupada por cuadra reduce el $R^2$ en aproximadamente 0,017 (unos 4.900 dólares de RMSE),
-> lo que sugiere que la partición aleatoria sobreestima el desempeño al dejar unidades muy próximas a ambos
-> lados de la partición. El paso posterior a una partición por celdas espaciales más gruesas añade una
-> diferencia marginal (≈0,003), lo que indicaría que el agrupamiento por cuadra ya absorbe la mayor parte de
-> la dependencia local. La lectura conjunta sería que el desempeño esperado en operación se ubica entre la
-> cota optimista (cuadra ya observada) y la exigente (cuadra no observada), y que el modelo tendería a
-> generalizar a partir de la localización continua y los atributos estructurales más que de la identidad de
-> cada cuadra. El balance entre folds (tamaño, precio, superficie y composición por barrio) no evidencia
-> desequilibrios que comprometan la comparación.
-
-## 6. Referencias de respaldo
+## 5. Referencias de respaldo
 
 - Hastie, Tibshirani & Friedman (2017), *The Elements of Statistical Learning*, §7.10 (validación cruzada y
   fuga de información).
 - Kuhn & Johnson (2016), *Applied Predictive Modeling* (agrupamiento en resampling).
 - Roberts et al. (2017), *Ecography* (validación con estructura espacial/agrupada; block CV).
 
-## 7. Reproducibilidad
+## 6. Reproducibilidad
 
 Las cifras de §2 se obtienen sobre `data/processed/zonaprop_v2_matriz_modelado_centro.csv.gz`
 (target `eda_precio_usd` en log1p; grupo `building_cluster_id`; celda espacial por redondeo de
